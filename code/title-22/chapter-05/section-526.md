@@ -1,0 +1,5 @@
+§ 526. Registration of business.
+
+No person, firm, or corporation shall engage in business, in or for export commerce, as a meat broker, renderer, or animal food manufacturer, or engage in business in such commerce as a wholesaler of any carcasses, or parts or products of the carcasses, of any cattle, sheep, swine, or goats, whether intended for human food or other purposes, or engage in businesses a public warehouseman storing any such articles in or for such commerce, or engage in the business of buying, selling, or transporting in such commerce, any dead, dying, disabled, or diseased animals of the specified kinds, or parts of the carcasses of any such animals that died otherwise than by slaughter, unless, when required by regulations of the chief of agriculture, he has registered with the chief of agriculture his name, and the address of each place of business at which, and all trade names under which, he conducts such business.
+
+Source: COM PL 3C-58 § 17; TT Code 1970, 25 TTC 67; TT Code 1980, 25 TTC 67.

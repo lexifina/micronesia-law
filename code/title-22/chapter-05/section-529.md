@@ -1,0 +1,7 @@
+§ 529. Detention of adulterated products; Removal of official markings.
+
+(1) Whenever any carcass, part of a carcass, meat, or meat food product of cattle, sheep, swine, or goats, or any product exempted from the definition of a meat food product, or any dead, dying, disabled cattle, sheep, swine, or goat, is found by any authorized representative of the chief of agriculture upon any premises where it is held for purposes of or during or after distribution in export commerce, and there is reason to believe that any such article is adulterated or misbranded and is capable of use as human food, or that it has not been inspected, in violation of the provisions of this chapter, or that such article or animal has been or is intended to be distributed in violation of any such provisions, it may be detained by such representative for a period not to exceed 20 days, pending action under section 530 of this chapter, and shall not be moved by any person, firm, or corporation from the place at which it is located when so detained, until released by such representative.
+
+(2) All official marks may be required by such representative to be removed from such article or animal before it is released unless it appears to the satisfaction of the chief of agriculture that the article or animal is eligible to retain such marks.
+
+Source: COM PL 3C-58 § 20; TT Code 1970, 25 TTC 70; TT Code 1980, 25 TTC 70.

@@ -1,0 +1,9 @@
+§ 528. Withdrawal of inspection services.
+
+(1) The chief of agriculture may, indefinitely, or for such period as he deems necessary to effectuate the purposes of this chapter, refuse to provide, or withdraw, inspection services with respect to any establishment if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under this chapter because the applicant or recipient, or anyone responsibly connected therewith, has been convicted in any court of the Trust Territory or any United States Federal or State court of a violation of any law based upon the acquiring, handling, or distributing of unwholesome, mislabeled or deceptively packaged meat products or upon fraud in connection with transactions in food.
+
+(2) This section shall not affect in any way any other provisions of this chapter for the withdrawal of inspection services under this chapter from establishments failing to maintain sanitary conditions or to destroy condemned carcasses, parts, meat, or meat food products.
+
+(3) For the purposes of this section, a person shall be deemed to be responsibly connected with the business if he was a partner, officer, director, holder, or owner of 10 percent or more of its voting stock, or an employee thereof in a managerial or executive capacity. The determination and order of the chief of agriculture with respect thereto under this section shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within 30 days after the effective date of such order in the appropriate court as provided in section 531 of this chapter. Judicial review of any such order shall be upon the record upon which the determination and order were based.
+
+Source: COM PL 3C-58 § 19; TT Code 1970, 25 TTC 69; TT Code 1980, 25 TTC 69.
