@@ -1,0 +1,5 @@
+§ 204. Convening, organization, elections of President and Vice President.
+
+A newly elected Congress shall convene on the date its Members commence their terms of office and be organized no later than the fourth day immediately following the convening day. The President and Vice President may be elected only after the Congress is fully organized. To be eligible for the office of the President and Vice President, a Member must hold office for a four-year term and shall also have been a resident for at least 15 years and a citizen of the Federated States of Micronesia by birth. For the purpose of this section, and as provided by article III, section 2, of the Constitution of the Federated States of Micronesia, a citizen of the Federated States of Micronesia by birth is a person one or both of whose parents have been citizens of the Trust Territory of the Pacific Islands immediately preceding the effective date of the Constitution of the Federated States of Micronesia and domiciliaries of one of the States or districts that ratified the Constitution of the Federated States of Micronesia.
+
+Source: PL 2-73 § 205; amended and renumbered by PL 5-103 § 1.

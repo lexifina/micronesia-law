@@ -1,0 +1,7 @@
+§ 704. Marking and return of ballot — Voting at polls.
+
+(1) The national election commissioner of each State or the board of election, as the case may be, shall, at least 50 days prior to an election, provide to any person who may be entitled to vote by absentee ballot outside of the State concerned, and who requests the same in accordance with section 703(2) of this chapter, an official ballot, a ballot envelope, an affidavit prescribed by the national election commissioner, and a covering reply envelope. The absentee voter shall mark the ballot in the usual manner provided by law and in such manner that no person can see or know how the ballot is marked except as provided in section 702 of this chapter. The absentee voter shall then deposit the ballot in the envelope and securely seal the same. The absentee voter shall then complete and execute the affidavit. The ballot envelope and the affidavit shall then be enclosed and sealed in the covering reply envelope and shall be mailed to reach the national election commissioner of the State issuing the absentee ballot not later than the established closing hour of the polls on the day of the election except as provided in section 702 of this chapter.
+
+(2) It is unlawful for any person who has voted an absentee ballot to cast a ballot at the polls on election day.
+
+Source: PL 2-73 § 704; amended by PL 5-70 § 14; PL 8-97 § 17, PL 11-62 § 10, modified.
