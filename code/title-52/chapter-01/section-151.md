@@ -1,0 +1,5 @@
+§ 151. Suspension.
+
+A management official may, for disciplinary purposes, suspend any employee without pay for such length of time as he considers appropriate but not to exceed thirty days at any one time or sixty days in any twelve-month period. No single suspension for a period of more than three working days, whether consecutive or not, shall take effect until the management official transmits to the employee, by the most practical means, a written notice setting forth the specific reasons for the suspension and the employee's rights of appeal. A copy of the notice shall be filed with the Personnel Officer without delay. With the approval of the Personnel Officer, an employee may be suspended for a period longer than thirty days pending the investigation of any charge against him. When an employee has been suspended pending such an investigation and the charge is subsequently dropped, he shall be reinstated in his position with full pay and benefits retroactive to the date of suspension.
+
+Source: TT Code 1966 § 103; TT Code 1970, 61 TTC 201; COM PL 4C-49 § 10(15)(a); TT Code 1980, 61 TTC 10(15)(a); PL 1-47 § 25(1).
