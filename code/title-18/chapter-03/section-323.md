@@ -1,0 +1,5 @@
+§ 323. Investigation and prosecution by district attorney.
+
+The district attorney of the district in which a seizure has been made for a violation of subchapter I of this chapter or in which such a violation occurs shall immediately inquire into the facts of the case reported to him by the district administrator or other proper officer. If it appears probable that any forfeiture has been incurred by reasons of such violation, the district attorney shall forthwith cause a libel to be filed and prosecuted in the Trial Division of the High Court for the condemnation and forfeiture of the vessel involved, together with her tackle, apparel, furniture, and equipment; provided, however, that if, upon inquiry and examination, the district attorney decides that such libel cannot probably be sustained or that the ends of justice do not require that it should be instituted or prosecuted, he shall report the facts to the High Commissioner for his direction in the premises.
+
+Source: TT Code 1966 § 883(c); TT Code 1970, 19 TTC 153; TT Code 1980, 19 TTC 153.
