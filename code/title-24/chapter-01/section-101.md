@@ -1,0 +1,5 @@
+§ 101. Statement of purpose.
+
+The resources of the sea around the Federated States of Micronesia are a finite but renewable part of the physical heritage of our people. As the Federated States of Micronesia has only limited land-based resources, the sea provides the primary means for the development of economic viability which is necessary to provide the foundation for political stability. The resources of the sea must be managed, conserved, and developed for the benefit of the people living today and for the generations of citizens to come. For this reason the harvesting of this resource, both domestic and foreign, must be monitored, and when necessary, controlled. The purpose of this title is to promote conservation, management, and development of the marine resources of the Federated States of Micronesia, generate the maximum benefit for the Nation from foreign fishing, and to promote the development of a domestic fishing industry.
+
+Source: COM PL 7-71 § 1; TT Code 1980, 52 TTC 1; PL 6-11 § 1.
