@@ -1,0 +1,5 @@
+§ 1454. Payment.
+
+All copra taxes collectable under this Act Chapter, including those taxes which have been collected by the exporters and remaining unpaid to the District State Treasurer prior to the effective date of this Act Chapter, shall be paid to the District State Treasurer, on a date to be determined by the District State Treasurer. s Office. Payments made after the effective date of this Act Chapter shall be on a monthly basis. All control fund records, collection, deposits, withdrawals, and disbursements shall be supervised by the District State Treasurer, the Truk District Chuuk State Legislature, and by the District Administrator Governor or his duly authorized representative. However, deficiencies in said fund, including partial or total loss thereof, shall not impose liability upon the government of the Trust Territory of the Pacific Islands Federated States of Micronesia or Chuuk State, or upon any of its employees for acts committed within the scope of their official duties.
+
+Source: TDL 24-1-6, § 1 (part), modified.

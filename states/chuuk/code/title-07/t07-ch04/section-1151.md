@@ -1,0 +1,5 @@
+§ 1151. Establishment.
+
+There is hereby established the Municipal Operations and Projects Fund for the purpose of funding operational expenses of municipalities in Truk District Chuuk State, and providing funds for municipal projects and programs. Not more than 50 fifty percent of the funds allocated to each municipality shall be expended for payment of compensation, expenses, and office supplies of municipal officials and staff in the performance of their official municipal duties. No municipal official or staff member who is also an employee of the Trust Territory Government Federated States of Micronesia Government or the Chuuk State Government shall be eligible for compensation during his hours of employment with Trust Territory Government the Federated States of Micronesia Government or the Chuuk State Government. No municipal official or staff member shall be eligible to receive compensation for more than one position held in the municipal government.
+
+Source: TDL 25-33, § 1 (81), as amended by TDL 26-22, § 1 (81) and TDL 27-36, § 1 (81), modified.

@@ -1,0 +1,5 @@
+§ 1153. Report.
+
+The Magistrate of each municipality shall submit a report and accounting on the use of the funds, with copies of the ordinances authorizing and directing expenditures of funds, to the Legislature on or before May 1 of the Fiscal Year of the appropriation. A municipality shall use the funds obtained under this Chapter only for the purposes stated in Section 81 1151 and as directed in its municipal ordinance. If the fund is expended or used for any other purposes or in any way misappropriated, the person who is found to have misappropriated or misused the fund shall personally repay to the General Fund of the Truk Legislature Chuuk State the total amount misappropriated or misused. A municipality is eligible to receive funds from the General Fund of the Legislature Chuuk State under this Chapter when a report and accounting is submitted and accepted by the Legislature or a committee thereof.
+
+Source: TDL 25-33, § 1 (83), as amended by TDL 26-22, § 1 (81), TDL 27-36, § 3 (83) and TSL 2-1-9, § 1(83), modified.
