@@ -1,0 +1,7 @@
+§ 311. Entering building or ship to execute search warrant.
+
+(1) If a building or ship or any part thereof is designated as the place to be searched, the policeman executing the warrant or oral order in place of a warrant may enter without demanding permission if he finds the building or ship open.
+
+(2) If the building or ship be closed, he shall first demand entrance in a loud voice and state that he desires to execute a search warrant or an oral order in place thereof as the case may be. If the doors, gates, or other bars to the entrance be not immediately opened, he may force an entrance, by breaking them if necessary. Having entered, he may demand that any other part of the building or ship, or any closet, or other closed space within the place designated in the search warrant in which he has reason to believe the property is concealed, be opened for his inspection, and, if refused, he may break them. Whenever practicable these demands and statements shall be made in a language generally understood in the locality.
+
+Source: TT Code 1966 § 484; TT Code 1970, 12 TTC 111; TT Code 1980, 12 TTC 111.

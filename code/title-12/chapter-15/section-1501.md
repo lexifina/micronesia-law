@@ -1,0 +1,11 @@
+§ 1501. Scope and limitation of chapter.
+
+(1) The provisions of this chapter relating to the transfer of offenders shall be applicable only when an international agreement providing for such a transfer is in force, and shall only be applicable to transfers of offenders to and from a foreign country pursuant to such an agreement. The provisions of this chapter shall be read in light of and consistent with the international agreement pursuant to which a request for transfer is made. A sentence imposed by a foreign country upon an offender who is subsequently transferred to the Federated States of Micronesia pursuant to an international agreement shall be subject to being fully executed in the Federated States of Micronesia even though the international agreement under which the offender was transferred is no longer in force.
+
+(2) An offender may be transferred from the Federated States of Micronesia pursuant to this chapter only to a country of which the offender is a citizen or national. Only an offender who is a citizen or national of the Federated States of Micronesia may be transferred to the Federated States of Micronesia. An offender may be transferred to or from the Federated States of Micronesia only with the offender’s consent, and only if the offense for which the offender was sentenced satisfies the requirement of double criminality as defined in section 1502 of this chapter. Once an offender’s consent to transfer has been verified by a verifying officer, that consent shall be irrevocable. If at the time of transfer the offender is under 18 years of age the transfer shall not be accomplished unless consent to the transfer is given by a parent or guardian or by an appropriate court of the sentencing country.
+
+(3) An offender shall not be transferred to or from the Federated States of Micronesia if a proceeding by way of appeal or of collateral attack upon the conviction or sentence is pending.
+
+(4) The Federated States of Micronesia upon receiving notice from the country which imposed the sentence that the offender has been granted a pardon, commutation, or amnesty, or that there has been an ameliorating modification or a revocation of the sentence shall give the offender the benefit of the action taken by the sentencing country.
+
+Source: PL 5_22 § 12, modified.

@@ -1,0 +1,5 @@
+§ 207. Execution of warrants and service of penal summons.
+
+A warrant of arrest shall be executed or the penal summons served by a policeman or by a person specifically authorized in the warrant or summons to execute or serve it. The warrant may be executed or the summons served at any place within the jurisdiction of the Trust Territory. The penal summons shall be served upon the accused by delivering a copy to him personally and orally explaining the substance thereof to him in a language generally understood in the locality and, if practicable, in one understood by the accused, or by leaving it at his dwelling house or usual place of abode or of business with some person of suitable age and discretion then residing or employed therein and orally explaining the substance thereof.
+
+Source: TT Code 1966 § 451; TT Code 1970, 12 TTC 57; TT Code 1980, 12 TTC 57.
