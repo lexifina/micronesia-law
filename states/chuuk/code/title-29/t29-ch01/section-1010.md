@@ -1,0 +1,5 @@
+§ 1010. Alcoholic Beverage Possession Tax; Payment.
+
+Within five days after bottling or importation of an alcoholic beverage the tax is due and payable by the possessor thereof within the State of Truk Chuuk. The possessor shall pay to the Department of Finance the tax and receive appropriate tax stamps to place on the containers of alcoholic beverage. For any container without tax stamps, it shall be presumed that no tax has been paid. This tax shall only apply to alcoholic beverages committed for sale and use in Truk Chuuk State. Such beverages in import transit outside the state are not taxable. A refund on taxes shall be provided to the taxpayer who later proves alcoholic beverages were exported outside the State of Truk Chuuk. It is assumed that alcoholic beverages are sold or committed for use in the State after the expiration of twelve 12 months of importation or bottling. The Director of the State Department of Finance shall establish procedures to implement this act Chapter.
+
+Source: TSL 5-119, § 10, modified.
