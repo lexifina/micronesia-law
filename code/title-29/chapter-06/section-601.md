@@ -1,0 +1,7 @@
+§ 601. Regulation and supervision of banks by Banking Board — General policies.
+
+(1) All domestic banks and, to the extent of and with respect to business done at any branches established in the Federated States of Micronesia, all foreign banks doing business in the Federated States of Micronesia shall be regulated and supervised by the Banking Board in such manner as to secure the safe and sound conduct of such business, to prevent unsound practices, and to maintain the public confidence in such business and protect the public interest and the interests of depositors, creditors, and stockholders.
+
+(2) Every foreign bank licensed pursuant to section 501 of this title shall, with the concurrence of the Banking Commissioner, designate the branch in the Federated States of Micronesia which may be used as the channel of communication between the Banking Board and the bank with respect to the application of this title to its business throughout the Federated States of Micronesia. Such branch shall be responsible for the timely provision of reports and information by other branches requested under this title. The head office of a domestic bank shall be the channel of communication between the Banking Board and its branches, and shall be responsible for the timely provision of reports and information by other branches requested under this title.
+
+Source: PL 1-94 § 601(1); PL 9-130 § 24.
