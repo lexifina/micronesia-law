@@ -1,0 +1,1 @@
+§ 122. Judicial ethics.
