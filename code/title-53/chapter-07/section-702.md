@@ -1,0 +1,5 @@
+§ 702. Board — Powers and duties generally.
+
+The Board shall have the powers and privileges of a corporation, shall have an official seal, and shall in the name of “Federated States of Micronesia Social Security Administration” transact all business, enter into contracts, invest all funds or retain a firm to invest or reinvest funds under the Board’s supervision, and, under its rules, regulations, and conditions, transfer or assign such funds as herein authorized, purchase annuities, and hold in trust for the purposes for which received, all cash, securities, and other properties of the system. In the name “Federated States of Micronesia Social Security Administration” it may sue and be sued. The responsibility for the proper operation of this subtitle shall be vested in the Board. The Board shall appoint a Social Security Administrator who shall have responsibility for the general administration of the Social Security System, and who shall have the power to employ and to delegate duties to such employees of the Social Security Administration as deemed feasible and desirable to carry out the provisions of this subtitle.
+
+Source: PL 2-74 § 202.
