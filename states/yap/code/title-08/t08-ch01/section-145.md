@@ -1,0 +1,5 @@
+§145. Filling vacancies.
+
+Whenever there is a position to be filled, the management official shall ask the Chief to submit a list of persons eligible. The Chief shall thereupon certify a list of five, or such lesser number as may be available, taken from eligible lists in the following order: first, reemployment lists; second, promotional lists; and third, open-competitive lists. The management official shall make the appointment from the list of eligibles submitted to him unless he finds no person available and acceptable to him on the list, in which case he will ask the Chief to certify a new list, stating in writing his reasons for rejecting each of the eligibles on the list previously submitted to him. If the Chief finds such reasons adequate, he shall then submit a new list of no more than five eligibles selected in like manner, from which the management official shall make an appointment. If the Chief does not find the reason adequate, he shall resubmit the list and the appointment shall be made therefrom.
+
+Source: YSL 1-35 §12, modified.
