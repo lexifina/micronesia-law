@@ -1,0 +1,9 @@
+§1502. Purpose.
+
+(a) It is the purpose of this chapter to assist the State to achieve fiscal independence. It is necessary and appropriate that the State, in cooperation with the national government and the other state governments of the Federated States of Micronesia, use all practical means to enhance the benefits derived from moneys payable to the national government and the State pursuant to the Compact of Free Association, and related agreements, with the United States of America by participating in a financing secured by a portion of such Compact funds. The Legislature hereby finds and determines that the financial needs of the State can be met more appropriately if a portion of the State's share of Compact funds is utilized as security for a financing, the proceeds of which may be invested to generate income to increase the amounts the State would otherwise receive, and for other purposes of the State. It is necessary, in order to enjoy the benefits of such financing, that all rights to such pledged Compact funds be surrendered. The irrevocable pledge of such Compact funds for the sole purpose of repaying Bonds or other evidences of indebtedness issued by the national government is hereby acknowledged, with the understanding that any amounts so pledged not required to pay principal of and premium, if any, and interest on the Bonds will be returned to the national and state governments.
+
+(b) It is also the purpose of this chapter to designate the maximum amount of the State's share of Compact funds which may be pledged and used for the costs of a borrowing pursuant to the authority granted by this chapter. The specific amount that may be pledged and used for the costs of a borrowing shall be set by statute.
+
+(c) The method of financing secured by Compact funds acknowledged hereby is in the public interest and serves a public purpose.
+
+Source: YSL 2-14 §2, as amended by YSL 2-71 §1, modified.

@@ -1,0 +1,5 @@
+§106. Due date.
+
+Taxes levied by this chapter shall attach after the release of an item from a port of entry of the State, upon removal of the items from their original box, case, container, bale or other package, or upon the occupancy of a hotel room or the rental of a motor vehicle, as the case may be. All hotel room occupancy taxes and all motor vehicle taxes that attach during each quarter of the government fiscal year shall be paid to the Division of Revenue within fifteen days after the end of the fiscal quarter. All excise taxes shall be paid to the Division of Revenue within ten working days after removal of the items from their original box, case, container, bale or other package. It is presumed that on or before 45 calendar days from the date items are released from a port of entry, such items have been removed from their original box, case, container, bale or other package. The beginning date of such 45 calendar days shall be the date of the FSM National Government import tax release stamp.
+
+Source: YSL 1-40 §6, as amended by YSL 1-91 §2, YSL 1-219 §2, YSL 2-32 §1, and YSL 3-20 §1, modified.

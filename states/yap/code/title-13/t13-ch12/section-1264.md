@@ -1,0 +1,5 @@
+§1264. State may sue for recovery or preservation of funds.
+
+A cause of action shall exist in favor of the State for the recovery or preservation of funds expended or in danger of being expended in violation of this chapter. The State Attorney General may proceed in State Court for recovery of sums lost or in danger of loss to their lawfully dedicated purpose, or for a court order commanding compliance with this chapter, or both. Any citizen of the Federated States of Micronesia may maintain the same cause of action for the same relief, provided the Attorney General has neglected to proceed due to illegal or improper motives. The Court shall consider the purposes and possible motives of a person claiming to act on behalf of the State and may dismiss the complaint without prejudice upon a finding of a lack of adversariness. The Court may give judgment to a prevailing private party for costs and reasonable attorney. s fees.
+
+Source: YSL 1-167 §15, as amended by YSL 1-177 §13 and renumbered as section 16 by YSL 1-177 §16, modified.
