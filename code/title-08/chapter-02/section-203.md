@@ -1,0 +1,5 @@
+§ 203. Delegation of functions.
+
+The President of the Federated States of Micronesia is authorized to designate and empower the Vice President or the head of any department, office, or agency in the executive branch to perform without approval, ratification, or other action by the President any executive function which is transferred from the Government of the Trust Territory to the Federated States of Micronesia or any function which is vested in the President by law; provided, that nothing contained herein shall relieve the President of his responsibility in office for acts of any official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be made available to the legislative and judicial branches of the Federated States of Micronesia and State governments, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
+
+Source: PL 1-65 § 2.
