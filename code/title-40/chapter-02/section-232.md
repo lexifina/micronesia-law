@@ -1,0 +1,5 @@
+§ 232. Statement of policy.
+
+The Congress of the Federated States of Micronesia, recognizing the obligation of the Federated States of Micronesia under section 109 of title 1 of this code that free elementary education shall be provided throughout the Federated States of Micronesia, and further recognizing the obligation of the Federated States of Micronesia to provide educational opportunities to all children which will enable them to lead fulfilling and productive lives, hereby declares that it is the policy of the Federated States of Micronesia and the purpose of this subchapter to provide means for the free education of children with disabilities and that insofar as is appropriate, disabled children shall receive necessary supplementary services in regular classrooms offered by the Federated States of Micronesia and each State Department of Education both in rendering services directly to children with disabilities, and in providing consulting services to regular classroom teachers.
+
+Source: COM PL 7-55 § 2; TT Code 1980, 41 TTC 202; PL 8-21 § 2.

@@ -1,0 +1,5 @@
+§ 729. Exemption from taxation.
+
+The College and its assets, revenues, income, and property shall be exempt from all direct taxes imposed by the National Government, including any taxes, customs duties, or import and export taxes, fees or charges imposed by the National Government on the importation, acquisition, or exportation of equipment and supplies required by the College for official functions. The tax exemptions provided for in this paragraph shall not be for the benefit of any officer, official, faculty member, employee, student, or other individual associated with the College and the College shall be liable for employer’s contributions to any social security or pension system of the National Government in the manner provided by law. For purposes of all types of registration and license fees, sales taxes, and other charges and fees included in prices of equipment, goods and services, the College shall be treated as an agency or instrumentality of the National Government.
+
+Source: PL 7-79 § 29.

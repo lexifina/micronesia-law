@@ -1,0 +1,5 @@
+§ 715. Board of Regents; Expenses, compensation, and honorarium.
+
+The members of the Board shall receive per diem and car rental, where justified and necessary, at standard National Government rates while on Board-approved business of the College. Those members who are employees of the National Government or the College shall be granted administrative leave and receive their regular salaries while on the business of the College. Other nongovernment members who are not otherwise being compensated shall receive compensation on a daily basis while on the Board-approved business of the College. The rate of compensation shall be established by the Board, but shall not exceed $30.00 per day. Consultants or advisors participating in Board activities who are not officials or employees of the National or State Governments or the College may receive a reasonable honorarium at the discretion of the Board. The President of the College shall not be entitled to receive expenses, compensation or honorarium as provided in this section.
+
+Source: PL 7-79 § 15.

@@ -1,0 +1,5 @@
+§ 101. Policy and purposes.
+
+It is hereby declared to be the policy of the Federated States of Micronesia to provide for a decentralized educational system in the Federated States of Micronesia which shall enable the citizens of the Federated States of Micronesia to participate fully in the development of the islands as well as to become familiar with the Pacific community and the world. To this end, the purpose of education in the Federated States of Micronesia shall be to develop its citizens in order to prepare them for participation in self-government and economic and social development; to function as a unifying agent; to bring to the people a knowledge of their islands, the economy, the government, and the people who inhabit the islands; to preserve Micronesian culture and traditions; to convey essential information concerning health, safety, and protection of the island environment; and to provide its citizens with the social, political, professional and vocational skills required to develop the Nation.
+
+Source: PL 8-132 § 2.
