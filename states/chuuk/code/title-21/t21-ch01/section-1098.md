@@ -1,0 +1,5 @@
+§ 1098. Effective Date.
+
+This Act Chapter shall take effect upon the approval of the Governor, or upon its becoming law without such approval; provided, however, that no level of coverage may be extended, no mandatory premiums may be imposed, nor obligation to provide benefits deriving therefrom may be undertaken prior to the enactment of a financing system for coverage of persons under the essential level of care pursuant to Title VII Subchapter G of this act Chapter; provided further, that in addition to the requirements of Section 8-2 1081 of this act Chapter, the Board of the Plan shall within six months following its initial organization, conduct a complete review of the contents of this act Chapter and shall thereafter present to the Legislature a full report as to its proposed implementation of the Plan along with such draft legislation as the Board deems necessary to amend this act Chapter to fully realize the purpose of this act Chapter and to ensure compliance of the Plan with all existing laws and regulations.
+
+Source: CSL 2-94-06, § 10-1, modified.
