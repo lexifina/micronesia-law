@@ -1,0 +1,5 @@
+§ 224C. Purchases of supplies and personal property involving less than $1,000.
+
+For any purchase of supplies and personal property involving less than $1,000, including the cost of shipping, the Secretary of Finance or his designee shall approve such purchase upon certification of the availability of funds for such purchase and upon satisfaction of the requirements under section 218 of this chapter pertaining to documentary evidence; PROVIDED, however, that the head of each branch of the National Government shall have the authority to prescribe a more restrictive rule which shall be binding upon that branch with the full force and effect of the law. For purposes of this section, the Office of the Public Auditor shall be considered a separate branch of the National Government. For purposes of this section, the agencies, boards, authorities, commissions and corporations of the National Government shall be considered part of the executive branch.
+
+Source: PL 6-52 § 3; renumbered by PL 9-74 § 2.

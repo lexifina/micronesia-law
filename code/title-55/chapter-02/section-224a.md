@@ -1,0 +1,5 @@
+§ 224A. Representation expenses, delegation expenses and official expense allowances — Accounting and Advances.
+
+Representation expenses and official expense allowance expenses shall be accounted for by affidavit, written contract or written receipt. Delegation expenses shall be accounted for by written contract or written receipt. The Secretary of Finance, upon specific written request containing specific justification satisfactory to the Secretary of Finance, shall make advance payments of representation expenses and advance payments of official expense allowances if the recipient of such advance payment agrees to submit affidavits or receipts for actual expenditures and return to the Secretary of Finance all amounts advanced but not accounted for by affidavit, contract or receipt no later than one month after the end of the fiscal year and, upon leaving office, to return to the Secretary of Finance all amounts advanced but not expended.
+
+Source: PL 6-52 § 1; renumbered by PL 9-74 § 2; PL 10-50 § 2; PL 11-18 § 1.

@@ -1,0 +1,5 @@
+§ 409. Qualifications of bidders.
+
+Before any prospective bidder may be entitled to submit a bid for the performance of a contract covered by section 403 of this chapter, he shall, not less than 10 calendar days prior to the date designated for opening bids, give written notice to the contracting officer of his intention to bid, and such officer shall satisfy himself of the prospective bidder’s financial ability to perform the work intended and of his experience and competence in performing similar work. Whenever it appears to the contracting officer that the prospective bidder is not fully qualified and able to perform the intended work, the contracting officer shall refuse to receive or consider any bid offered by the prospective bidder. Upon being determined not to be fully qualified, a prospective bidder may appeal this determination within 10 days after notice of disqualification in accordance with the Administrative Procedures Act, chapter 1 of title 17 of this code.
+
+Source: PL 2-65 § 9; PL 4-4 § 6(part); PL 4-100 § 2(part).
