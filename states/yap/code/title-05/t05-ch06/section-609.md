@@ -1,0 +1,5 @@
+§609. Severability.
+
+If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable.
+
+Source: YSL 4-33 §1 (Section 609), modified.
