@@ -1,0 +1,5 @@
+§ 1077. Transition.
+
+A regular employee holding a valid appointment, in the Trust Territory Public Service or pursuant to Title 2 of the Truk State Code or pursuant to Title 21 of the Truk State Code, may be admitted without examination, on or after the effective date of this act, to a position of the same class or an equivalent class in the State Public Service System. In subsequently computing the seniority of such an employee for retention and similar purposes, his time of service in the Trust Territory Public Service or pursuant to Title 2 of the Truk State Code, shall be credited in the same way as if it had been in the State Public Service System. All regulations relating to employees promulgated under Title 61 of the Trust Territory Code, or pursuant to Title 2 of the Truk State Code shall continue in full force and effect, where relevant and not inconsistent with this Act Chapter, not more than 150 days after the effective date of this act, at which time all regulations issued under this Act Chapter shall have been issued.
+
+Source: TSL 3-43, § 27, as amended by CSL 3-95-27, § 4, modified.

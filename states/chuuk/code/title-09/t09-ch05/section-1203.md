@@ -1,0 +1,7 @@
+§1203. Ungraded employees.
+
+(1) All other Chuuk State Government employees considered as "ungraded" or "unclassified" , whose remuneration, salary or pay is not based on merit principles established by the Chuuk State Public Service System Act, T.S.L. No. 3-43 Chapter 1, or who in any way other than by merit principles receives remuneration, salary or pay from the State, and who are not otherwise specifically exempted from Public Service System applicability by Section 1031 8 of C.S.L. No. 3-43, this Title, shall be subject to the requirements of Section 25 of T.S.L. No. 3-43, as amended by 1201 of this Act Chapter, in all respects, except as otherwise specifically provided pursuant to any lawful employment or service contract existing between said employee and the State.
+
+(2) The Director of Personnel and all branch and departmental public officials having responsibility for the hiring of unguarded employees within their respective branches and departments shall coordinate with each other regarding the implementation and enforcement of the requirements of Section 25 of T.S.L. No. 3-43 1201 as it regards all said employees within their respective responsibilities. For the purposes of this Act Chapter, "Chuuk State Government employees" do not include the State Governor, Lieutenant Governor, members of the Legislature, Justices of the Supreme Court, and persons in professional positions, whose services may still be needed.
+
+Source: CSL 3-95-27, § 5, modified.
