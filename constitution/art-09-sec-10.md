@@ -1,0 +1,2 @@
+# Article IX, Section 10
+At least every 10 years Congress shall reapportion itself. A state is entitled to at least one member of Congress on the basis of population in addition to the member elected at large. A state shall apportion itself by law into single member congressional districts. Each district shall be approximately equal in population after giving due regard to language, cultural, and geographic differences.

@@ -1,0 +1,2 @@
+# Article XV, Section 1
+A statute of the Trust Territory continues in effect except to the extent it is inconsistent with this Constitution, or is amended or repealed. A writ, action, suit, proceeding, civil or criminal liability, prosecution, judgment, sentence, order, decree, appeal, cause of action, defense, contract, claim, demand, title, or right continues unaffected except as modified in accordance with the provisions of this Constitution.

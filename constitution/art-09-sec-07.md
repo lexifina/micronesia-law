@@ -1,0 +1,2 @@
+# Article IX, Section 7
+The President, Vice-President, or a justice of the Supreme Court may be removed from office for treason, bribery, or conduct involving corruption in office by a 2/3 vote of the members of Congress. When the President or Vice-President is removed, the Supreme Court shall review the decision. When a justice of the Supreme Court is removed, the decision shall be reviewed by a special tribunal composed of one state court judge from each state appointed by the state chief executive. The special tribunal shall meet at the call of the President.

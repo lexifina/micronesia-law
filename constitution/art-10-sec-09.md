@@ -1,0 +1,4 @@
+# Article X, Section 9
+(a) If required to preserve public peace, health, or safety, at a time of extreme emergency caused by civil disturbance, natural disaster, or immediate threat of war, or insurrection, the President may declare a state of emergency and issue appropriate decrees.
+(b) A civil right may be impaired only to the extent actually required for the preservation of peace, health, or safety. A declaration of emergency may not impair the power of the judiciary except that the declaration shall be free from judicial interference for 30 days after it is first issued.
+(c) Within 30 days after the declaration of emergency, the Congress of the Federated States of Micronesia shall convene at the call of its presiding officer or the President to consider revocation, amendment, or extension of the declaration. Unless it expires by its own terms, is revoked, or extended, a declaration of emergency is effective for 30 days.

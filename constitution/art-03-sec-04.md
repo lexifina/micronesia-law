@@ -1,0 +1,2 @@
+# Article III, Section 4
+A citizen of the Trust Territory who becomes a national of the United States of America under the terms of the Covenant to Establish a Commonwealth of the Northern Mariana Islands may become a citizen and national of the Federated States of Micronesia by applying to a court of competent jurisdiction in the Federated States within 6 months of the date he became a United States national.

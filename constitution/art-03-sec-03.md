@@ -1,0 +1,2 @@
+# Article III, Section 3
+A citizen of the Federated States of Micronesia who is recognized as a citizen of another nation shall, within 3 years of his 18th birthday, or within 3 years of the effective date of this Constitution, whichever is later, register his intent to remain a citizen of the Federated States and renounce his citizenship of another nation. If he fails to comply with this Section, he becomes a national of the Federated States of Micronesia.

@@ -1,0 +1,2 @@
+# Article IX, Section 22
+A bill passed by Congress shall be presented to the President for approval. If he disapproves of the bill, he shall return it with his objections to Congress within 10 days. If Congress has 10 or less days remaining in its session, or has adjourned, he shall return the bill within 30 days after presentation. If the President does not return a bill within the appropriate period, it becomes law as if approved.

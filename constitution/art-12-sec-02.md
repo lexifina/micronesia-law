@@ -1,0 +1,4 @@
+# Article XII, Section 2
+(a) The President shall submit an annual budget to Congress at a time prescribed by statute. The budget shall contain a complete plan of proposed expenditures, anticipated revenues, and other money available to the national government for the next fiscal year, together with additional information that Congress may require. The Congress may alter the budget in any respect.
+(b) No appropriation bills, except those recommended by the President for immediate passage, or to cover the operating expenses of Congress, may be passed on final reading until the bill appropriating money for the budget has been enacted.
+(c) The President may item veto an appropriation in any bill passed by Congress, and the procedure in such case shall be the same as for disapproval of an entire bill by the President.

@@ -1,0 +1,2 @@
+# Article XIV, Section 2
+At least every 10 years, Congress shall submit to the voters the question: "Shall there be a convention to revise or amend the Constitution?". If a majority of ballots cast upon the question is in the affirmative, delegates to the convention shall be chosen no later than the next regular election, unless Congress provides for the selection of delegates earlier at a special election.

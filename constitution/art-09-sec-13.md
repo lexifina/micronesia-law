@@ -1,0 +1,2 @@
+# Article IX, Section 13
+A member of Congress may not hold another public office or employment. During the term for which he is elected and three years thereafter, a member may not be elected or appointed to a public office or employment created by national statute during his term. A member may not engage in any activity which conflicts with the proper discharge of his duties. The Congress may prescribe further restrictions.

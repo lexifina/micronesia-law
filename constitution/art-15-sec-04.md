@@ -1,0 +1,2 @@
+# Article XV, Section 4
+A local government and its agencies may continue to exist even though its charter or powers are inconsistent with this Constitution. To promote an orderly transition to the provisions of this Constitution, and until state governments are established, Congress shall provide for the resolution of inconsistencies between local government charters and powers, and this Constitution. This provision ceases to be effective 5 years after the effective date of this Constitution.

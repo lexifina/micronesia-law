@@ -1,0 +1,2 @@
+# Article XIV, Section 1
+An amendment to this Constitution may be proposed by a constitutional convention, popular initiative, or Congress in a manner provided by law. A proposed amendment shall become a part of the Constitution when approved by 3/4 of the votes cast on that amendment in each of 3/4 of the states. If conflicting constitutional amendments submitted to the voters at the same election are approved, the amendment receiving the highest number of affirmative votes shall prevail to the extent of such conflict.

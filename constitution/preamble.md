@@ -1,0 +1,6 @@
+# Preamble
+WE, THE PEOPLE OF MICRONESIA, exercising our inherent sovereignty, do hereby establish this Constitution of the Federated States of Micronesia.
+With this Constitution, we affirm our common wish to live together in peace and harmony, to preserve the heritage of the past, and to protect the promise of the future.
+To make one nation of many islands, we respect the diversity of our cultures. Our differences enrich us. The seas bring us together, they do not separate us. Our islands sustain us, our island nation enlarges us and makes us stronger.
+Our ancestors, who made their homes on these islands, displaced no other people. We, who remain, wish no other home than this. Having known war, we hope for peace. Having been divided, we wish unity. Having been ruled, we seek freedom.
+Micronesia began in the days when man explored seas in rafts and canoes. The Micronesian nation is born in an age when men voyage among stars; our world itself is an island. We extend to all nations what we seek from each: peace, friendship, cooperation, and love in our common humanity. With this Constitution we, who have been the wards of other nations, become the proud guardian of our own islands, now and forever.

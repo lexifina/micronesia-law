@@ -1,0 +1,2 @@
+# Article III, Section 5
+A domiciliary of a District not ratifying this Constitution who was a citizen of the Trust Territory immediately prior to the effective date of this Constitution, may become a citizen and national of the Federated States of Micronesia by applying to a court of competent jurisdiction in the Federated States within 6 months after the effective date of this Constitution or within 6 months after his 18th birthday, whichever is later.

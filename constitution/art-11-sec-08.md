@@ -1,0 +1,2 @@
+# Article XI, Section 8
+When a case in a state or local court involves a substantial question requiring the interpretation of the Constitution, national law, or a treaty, on application of a party or on its own motion the court shall certify the question to the appellate division of the Supreme Court. The appellate division of the Supreme Court may decide the case or remand it for further proceedings.

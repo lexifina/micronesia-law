@@ -1,0 +1,2 @@
+# Article VI
+Suffrage

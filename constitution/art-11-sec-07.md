@@ -1,0 +1,2 @@
+# Article XI, Section 7
+The appellate division of the Supreme Court may review cases heard in the national courts, and cases heard in state or local courts if they require interpretation of this Constitution, national law, or a treaty. If a state constitution permits, the appellate division of the Supreme Court may review other cases on appeal from the highest state court in which a decision may be had.

@@ -1,0 +1,2 @@
+# Article XVI, Section 1
+This Constitution takes effect 1 year after ratification unless the Congress of Micronesia by joint resolution specifies an earlier date. If a provision of this Constitution is held to be in fundamental conflict with the United Nations Charter or the Trusteeship Agreement between the United States of America and the United Nations , the provision does not become effective until the date of termination of the Trusteeship Agreement .

@@ -1,0 +1,2 @@
+# Article IX, Section 9
+A person is ineligible to be a member of Congress unless he is at least 30 years of age on the day of election and has been a citizen of the Federated States of Micronesia for at least 15 years, and a resident of the state from which he is elected for at least 5 years. A person convicted of a felony by a state or national government court is ineligible to be a member of Congress. The Congress may modify this provision or prescribe additional qualifications; knowledge of the English language may not be a qualification.

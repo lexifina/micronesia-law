@@ -1,0 +1,2 @@
+# Article XI, Section 2
+The Supreme Court is a court of record and the highest court in the nation. It consists of the Chief Justice and not more than 5 associate justices. Each justice is a member of both the trial division and the appellate division, except that sessions of the trial division may be held by one justice. No justice may sit with the appellate division in a case heard by him in the trial division. At least 3 justices shall hear and decide appeals. Decision is by a majority of those sitting.

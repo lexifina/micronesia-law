@@ -1,0 +1,2 @@
+# Article IX, Section 8
+The Congress consists of one member elected at large from each state on the basis of state equality, and additional members elected from congressional districts in each state apportioned by population. Members elected on the basis of state equality serve for a 4-year term, and all other members for 2 years. Each member has one vote, except on the final reading of bills. Congressional elections are held biennially as provided by statute.
