@@ -1,0 +1,5 @@
+§ 243. Burglary of post office.
+
+Whoever forcibly breaks into or attempts to break into any post office, or any building used in whole or in part as a post office, with intent to commit in such post office, or building or part thereof, so used, any larceny or other depredation, shall be fined not more than $1,000 or imprisoned not more than five years, or both.
+
+Source: PL 5-66 § 11, modified.
