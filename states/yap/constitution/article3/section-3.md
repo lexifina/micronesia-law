@@ -1,0 +1,1 @@
+Section 3. Due recognition shall be given to traditions and customs in providing a system of law, and nothing in this Constitution shall be construed to limit or invalidate any recognized tradition or custom.

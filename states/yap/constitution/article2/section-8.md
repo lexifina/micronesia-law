@@ -1,0 +1,1 @@
+Section 8. The writ of habeas corpus shall be granted without delay, and the privilege of the writ of habeas corpus shall not be suspended, except by the Governor and then only when public safety requires it in the case of war, rebellion, insurrection or invasion.

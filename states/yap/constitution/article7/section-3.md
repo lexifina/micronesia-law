@@ -1,0 +1,1 @@
+Section 3. The Governor shall nominate and appoint, with the advice and consent of the Legislature, the Chief Justice and Associate Justices of the State Court. Justices of the State Court shall hold their offices for terms of six years.

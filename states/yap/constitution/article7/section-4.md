@@ -1,0 +1,1 @@
+Section 4. Compensation of Justices of the State Court shall be prescribed by law. Their compensation shall not be decreased during their respective terms of office, except by general law applying to salaried officers of the State Government.

@@ -1,0 +1,3 @@
+Article IV
+
+SUFFRAGE AND ELECTIONS

@@ -1,0 +1,1 @@
+Section 2. An amendment to this Constitution may be proposed by a popular initiative. An initiative is proposed by a petition containing the proposed amendment. The petition shall be signed by at least twenty-five percent of the registered voters and filed with the Governor who shall certify its validity.

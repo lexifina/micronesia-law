@@ -1,0 +1,1 @@
+Section 2. No law shall be enacted respecting an establishment of religion or prohibiting the free exercise thereof, except that assistance may be provided to parochial schools for nonreligious purposes.

@@ -1,0 +1,1 @@
+Section 3. None of the decisional law developed by any predecessor [the High Court of the Trust Territory of the Pacific Islands] shall have the force of stare decisis in the adjudication of any case of controversy in the State Court.

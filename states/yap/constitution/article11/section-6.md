@@ -1,0 +1,1 @@
+Section 6. At least every 10 years the Legislature shall reapportion itself into election districts. Each district shall be approximately equal in population per member after giving due regard to the social and geographical configuration of the State.

@@ -1,0 +1,1 @@
+Section 5. Any vacancy in the Legislature shall be filled for the unexpired term by special election, except that an unexpired term of less than one year shall be filled by appointment by the Governor.

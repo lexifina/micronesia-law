@@ -1,0 +1,1 @@
+Section 4. The members of the Legislature shall be elected at a general election. The term of office shall begin at noon on the second Monday in January following the general election and end at noon on the second Monday in January, four years thereafter.

@@ -1,0 +1,1 @@
+Section 11. The Legislature shall convene its meeting on the second Monday in January following the general election and may meet regularly for four years. A special session may be convened at the call of the Governor or by the Speaker at the written request of two-thirds of the members of the Legislature.

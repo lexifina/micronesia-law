@@ -1,0 +1,1 @@
+Section 8. No member of the Legislature shall hold another public office or public employment, nor shall he, for one year succeeding his term for which he is elected or appointed, be elected or appointed to any public office, or employment, which shall have been created, or the emoluments whereof shall have been increased, by legislative act during such term.

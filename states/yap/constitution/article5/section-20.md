@@ -1,0 +1,1 @@
+Section 20. The Governor, Lieutenant Governor or a Justice of the State Court may be removed from office for misfeasance or malfeasance in office, or for conviction of a felony, by a vote of three-fourths of the members of the Legislature.

@@ -1,0 +1,1 @@
+Section 6. All officers of the chartered State Government, or under its laws, on the effective date of this Constitution shall continue to perform the duties of their offices in a manner consistent with this Constitution until they are superseded by officers of the constitutional State Government.

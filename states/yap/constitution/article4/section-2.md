@@ -1,0 +1,1 @@
+Section 2. The Legislature shall prescribe a minimum period of residence and the method of voting at elections, and shall provide for voter registration, disqualification for conviction of crimes, and disqualification for mental incompetence or insanity. Secrecy of voting shall be preserved.

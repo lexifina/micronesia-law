@@ -1,0 +1,3 @@
+Article II
+
+FUNDAMENTAL RIGHTS

@@ -1,0 +1,1 @@
+Section 14. No law shall be passed except by bill. Each law shall embrace but one subject, which shall be expressed in its title. The enacting clause of each law shall be, "Be it enacted by the Legislature of the State of Yap".

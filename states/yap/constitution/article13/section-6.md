@@ -1,0 +1,1 @@
+Section 6. A foreign fishing, research or exploration vessel shall not take natural resources from any area within the marine space of the State, except as may be permitted by the appropriate persons who exercise traditional rights and ownership and by statute.

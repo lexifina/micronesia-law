@@ -1,0 +1,3 @@
+Article VI
+
+THE EXECUTIVE

@@ -1,0 +1,3 @@
+Section 12. The Legislature shall be the judge of the qualifications of its members and shall have, for misconduct, disorderly behavior or neglect of duty of any member, power to punish such member by censure or, upon a two-thirds vote of the members, by suspension or expulsion of such member.
+
+The Legislature shall choose its own officers, determine the rules of its proceedings and keep a journal. The Legislature shall have and exercise all the authority and attributes inherent in legislative assemblies, including the power to institute and conduct investigations, issue subpoenas to witnesses and other concerned parties, and administer oaths.

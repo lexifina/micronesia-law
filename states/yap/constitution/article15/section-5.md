@@ -1,0 +1,1 @@
+Section 5. Political subdivisions of the chartered State Government existing on the effective date of this Constitution shall continue to exercise their powers and functions under existing law, pending enactment of legislation to carry out the provisions of this Constitution. New political subdivisions may be created only in accordance with this Constitution.

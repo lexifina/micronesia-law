@@ -1,0 +1,1 @@
+Section 2. The State Government shall provide for public education and schools. Public elementary education shall be free. Traditions and customs of the people of this State shall be taught in public schools as provided by law.

@@ -1,0 +1,1 @@
+Section 6. A new election shall be ordered by the Chief Justice of the State Court if two or more candidates have the highest and equal number of votes, except in cases specially provided for by this Constitution. The election shall be limited to the candidates receiving the equal and highest number of votes.

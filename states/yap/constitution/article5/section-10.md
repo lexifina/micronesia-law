@@ -1,0 +1,1 @@
+Section 10. The members of the Legislature shall receive annual salaries as prescribed by law. No law increasing salaries shall take effect until after the end of the term for which the members voting thereon were elected.

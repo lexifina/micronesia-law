@@ -1,0 +1,1 @@
+Section 6. The State Court shall make and promulgate rules governing the practice and procedure in civil and criminal cases, which shall have the force and effect of law, provided that the Legislature may establish or change such rules by law. The State Court shall be a court of record.

@@ -1,0 +1,5 @@
+Section 8. All executive and administrative offices, departments and instrumentalities of the State Government and their respective functions, powers and duties shall be established by law.
+
+Each principal department shall be under the supervision of the Governor and shall be headed by a single executive unless otherwise provided by law. Such single executives shall be nominated and appointed by the Governor, with the advice and consent of the Legislature, to serve at the pleasure of the Governor during his term of office and until the appointment and qualification of their successors, except that the removal of the Attorney General shall be subject to the advice and consent of the Legislature.
+
+Whenever a board, commission or other body shall be the head of the principal department or a regulatory or quasi-judicial agency, the members shall be nominated and appointed by the Governor with the advice and consent of the Legislature. The term of office and removal of members shall be as prescribed by law.

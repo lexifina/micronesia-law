@@ -1,0 +1,1 @@
+Section 4. At a general or special election, or a referendum, a proposed amendment shall be submitted to the electorate for approval or rejection upon a separate ballot. A proposed amendment shall become part of this Constitution when approved by a majority of votes cast.

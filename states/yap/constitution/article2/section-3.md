@@ -1,0 +1,1 @@
+Section 3. The right of people to be secure in their persons, houses, papers, and effects, against unreasonable search, seizure or invasion of privacy, shall not be violated, and no warrant shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched and the persons or things to be seized.

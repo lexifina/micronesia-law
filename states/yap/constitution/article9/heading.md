@@ -1,0 +1,3 @@
+Article IX
+
+TAXATION AND FINANCE

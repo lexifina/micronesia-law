@@ -1,0 +1,3 @@
+Article XIV
+
+GENERAL PROVISIONS

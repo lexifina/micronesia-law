@@ -1,0 +1,1 @@
+Section 3. The Governor and Lieutenant Governor shall receive annual salaries as prescribed by law. Such salaries shall not be increased or decreased for their respective terms of office, except by general law applying to salaried officers of the State Government.

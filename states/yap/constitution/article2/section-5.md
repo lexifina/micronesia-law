@@ -1,0 +1,1 @@
+Section 5. In all criminal prosecutions, the accused shall enjoy the right to a speedy public trial, to be informed of the nature and cause of the accusation, to be confronted with the witnesses against him, to have compulsory process for obtaining witnesses in his favor, and to have the effective assistance of counsel for his defense.

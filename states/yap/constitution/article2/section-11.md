@@ -1,0 +1,1 @@
+Section 11. The Legislature may provide by general law for the taking of private property for a public purpose. The general law shall provide for just compensation, good faith negotiations for lease or purchase and consultation with appropriate local government prior to the taking, and the manner of the taking.

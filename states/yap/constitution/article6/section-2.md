@@ -1,0 +1,3 @@
+Section 2. There shall be a Lieutenant Governor who shall have the same qualifications as the Governor, provided that if the Governor is a resident of Yap Islands Proper, the Lieutenant Governor shall be a resident of the Outer Islands, and if the Governor is a resident of the Outer Islands, the Lieutenant Governor shall be a resident of Yap Islands Proper.
+
+The Lieutenant Governor shall be elected at the same time, for the same term and in the same manner, as the Governor. The votes cast for the candidate for Governor shall be considered as cast also for the candidate for Lieutenant Governor running jointly with him. The candidate whose name appears on the ballot jointly with that of the successful candidate for Governor shall be elected Lieutenant Governor.

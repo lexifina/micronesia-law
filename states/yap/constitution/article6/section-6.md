@@ -1,0 +1,1 @@
+Section 6. The Governor may grant reprieves, commutations and pardons, after conviction, subject to regulation by law, except in cases of impeachment. No reprieve, commutation or pardon may be granted to a person holding the Office of Governor or Lieutenant Governor.

@@ -1,0 +1,3 @@
+Section 17. The Council of Pilung and the Council of Tamol may disapprove a bill by returning the certified copies of the bill with their objections which shall describe the adverse effect on the respective tradition and custom or the role or function of a traditional leader as recognized by tradition and custom within thirty days after it is received from the Legislature. A disapproved bill may be amended to meet the Councils' objections and, if so amended and passed, only one reading being required for such passage, it shall be presented again to the Councils.
+
+(Section amended by Proposal No. 2004-53, D2)

@@ -1,0 +1,3 @@
+Section 11. The Legislature may provide by general law for the taking of private property for a public purpose. The general law shall provide for just compensation, good faith negotiations for lease or purchase and consultation with appropriate local government prior to the taking, and the manner of the taking.
+
+Section 11. The Legislature shall convene its meeting on the second Monday in January following the general election and may meet regularly for four years. A special session may be convened at the call of the Governor or by the Speaker at the written request of two-thirds of the members of the Legislature.

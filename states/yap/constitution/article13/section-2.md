@@ -1,0 +1,1 @@
+Section 2. An agreement for the use of land where a party is not a citizen of the Federated States of Micronesia or a corporation not wholly owned by such citizens shall not exceed a term of [fifty] one hundred years. The Legislature may prescribe a lesser term.

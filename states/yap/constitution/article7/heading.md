@@ -1,0 +1,3 @@
+Article VII
+
+THE JUDICIARY
