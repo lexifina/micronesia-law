@@ -1,0 +1,5 @@
+§ 1302. Lease agreements authorized.
+
+The Governor is authorized to enter into lease agreements with landowners for the use of private lands in Truk Chuuk State covering such parcels as the Governor deems are required to be retained for public use, and under such terms and conditions as the Governor deems appropriate. Notwithstanding the provisions of any other laws, the lease rentals required to be paid for the use of such lands may exceed funds presently available to the Truk Chuuk State Government for these purposes, provided the Governor makes a determination that such additional funds are likely to become available on or before such time as the payment of these additional funds are required under the lease agreements. If the Governor is unable to negotiate the necessary lease agreements as to some or all parcels, he may utilize any other remedies available to the Truk Chuuk State Government for acquiring interests in the lands under existing laws.
+
+Source: TSL 5-99, § 2, modified.
