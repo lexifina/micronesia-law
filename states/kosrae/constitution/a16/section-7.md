@@ -1,0 +1,1 @@
+Section 7. The constitutional State Government succeeds to all rights acquired by the chartered State Government, and may assume obligations and liabilities incurred by the chartered State Government.

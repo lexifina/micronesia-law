@@ -1,0 +1,1 @@
+Section 7. The State Court shall make and promulgate rules governing the administration of all courts. The State Court shall make and promulgate rules governing practice and procedure in civil and criminal cases in all courts, which have the force and effect of law upon issuance by order of the Chief Justice; provided, the Legislature may establish or change rules by law.

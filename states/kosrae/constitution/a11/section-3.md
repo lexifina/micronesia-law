@@ -1,0 +1,1 @@
+Section 3. The use of real property shall in the public interest be regulated by law to assure public health, community well-being, the orderly and economical use of land, preservation of places of cultural or historic value, and island beauty.

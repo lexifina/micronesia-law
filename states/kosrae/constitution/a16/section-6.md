@@ -1,0 +1,1 @@
+Section 6. Except as otherwise provided by this Constitution, all rights, titles, actions, suits, contracts, liabilities, writs, proceedings, prosecutions, judgments, sentences, orders, decrees, appeals, causes of action, defenses, claims, and demands continue unaffected.

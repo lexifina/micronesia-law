@@ -1,0 +1,1 @@
+Section 7. The Governor and Lieutenant Governor receive annual salaries as prescribed by law. The salaries may not be increased or decreased for their terms of office except by general law applying to all State Government employees.

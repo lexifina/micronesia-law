@@ -1,0 +1,3 @@
+Section 2. The Governor and Lieutenant Governor are elected by the qualified voters of the State at a general election. The Governor and Lieutenant Governor may be elected together from one ticket. The person or pair receiving a majority of votes cast wins. If no person or pair receives a majority of the votes cast, a special election shall be held between the two persons or pairs receiving the highest number of votes in the general election. In the event that an independent candidate prevails over a pair of candidates on the same ticket, and there is no majority vote for an independent candidate for the office not filled by the prevailing independent candidate, then a special election shall be held to fill the office left vacant.
+
+(Amended by 1995 Con. Con.)

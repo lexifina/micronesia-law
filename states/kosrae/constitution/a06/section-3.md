@@ -1,0 +1,1 @@
+Section 3. The Governor nominates and appoints the Chief Justice and associate justices with the advice and consent of three-fourths of the Senators. Justices hold their offices during good behavior for terms of six years. Justices shall retire upon attaining the age of sixty-five years.

@@ -1,0 +1,1 @@
+Section 2. Elected officers of the chartered State Government on the effective date of this Constitution continue in office under this Constitution until succeeded by officers elected pursuant to this Constitution, unless removed from office pursuant to this Constitution.

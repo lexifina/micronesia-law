@@ -1,0 +1,1 @@
+Section 15. No bill may become law unless it passes two readings in the Legislature on separate days. No bill may pass final reading unless printed copies of the bill in the form to be passed have been made available to the Senators. Resolutions may be adopted upon a single reading in the Legislature.

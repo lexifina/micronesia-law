@@ -1,0 +1,1 @@
+Section 11. The Legislature is the judge of the qualifications of Senators and may, for misconduct, disorderly behavior, or neglect of duty by a Senator, punish the Senator by censure or upon a vote of three-fourths of the Senators, by suspension or expulsion of the Senator.

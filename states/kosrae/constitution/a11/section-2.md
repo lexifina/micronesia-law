@@ -1,0 +1,1 @@
+Section 2. There may be no nuclear, chemical, gas or biological weapons, or radioactive material hazardous to public health or safety, within the State. No hazardous waste or other hazardous substance may be disposed of within the State except as expressly authorized by State law.

@@ -1,0 +1,1 @@
+Section 4. Justices of the State Court are at least thirty-five years of age, are learned in the law, have never been convicted of a felony, and possess additional qualifications as may be prescribed by law.

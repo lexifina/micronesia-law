@@ -1,0 +1,1 @@
+Section 4. All laws in effect in this State on the effective date of this Constitution continue in effect, except to the extent they are inconsistent with this Constitution, until amended, repealed, or they expire by their own limitation.

@@ -1,0 +1,1 @@
+Section 8. No Senator may be held to answer before any other tribunal for any statement made or action taken in the exercise of his legislative functions, and Senators are, in all cases except felony or breach of the peace, privileged from arrest during their attendance at sessions or committee meetings of the Legislature, and in going to and returning from the same.

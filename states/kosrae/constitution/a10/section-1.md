@@ -1,0 +1,1 @@
+Section 1. Public money raised or received by the State Government shall be deposited within the State Treasury. No money may be withdrawn from the State Treasury except in accordance with appropriations or authorizations made by law.

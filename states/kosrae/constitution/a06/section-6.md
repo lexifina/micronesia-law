@@ -1,0 +1,3 @@
+Section 6. The State Court has original jurisdiction in all cases, except cases within the exclusive and original jurisdiction of inferior courts. The State Court has jurisdiction to review all decisions of inferior courts. Decisions of the Trial Division of the State Court may be appealed to the appellate division of the State Court, as shall be prescribed by law. Decisions of the highest division of the State Court may be appealed to the appellate division of the Supreme Court of the Federated States of Micronesia. The courts of the State constitute a unified judicial system for operation and administration.
+
+(Amended by 1995 Con. Con.)

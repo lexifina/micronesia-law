@@ -1,0 +1,1 @@
+Section 3. The first general election pursuant to this Constitution takes place on the first Tuesday after the first Monday of November of 1986. The terms of office of officers elected in the general election begin at noon on the second Monday of January of 1987.

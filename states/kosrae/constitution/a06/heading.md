@@ -1,0 +1,3 @@
+Article VI
+
+The Judiciary

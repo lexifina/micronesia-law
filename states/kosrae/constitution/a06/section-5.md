@@ -1,0 +1,1 @@
+Section 5. Compensation of justices of the State Court is prescribed by law. Compensation may not be increased or decreased during their terms of office, except by general law applying to all State Government employees.

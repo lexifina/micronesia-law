@@ -1,0 +1,1 @@
+Section 3. At least every ten years, the Legislature shall submit to the voters the question: "Shall there be a convention to amend the Constitution?" If a majority of the voters cast upon the question is in the affirmative, delegates to the constitutional convention shall be chosen no later than the next general election.

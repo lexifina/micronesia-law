@@ -1,0 +1,1 @@
+Section 15. Wangin sie lumeyan masap a fwa akwuki mu masap se la neke na akkeyeyukla pal luo inmasrlon len luo ke mukuikui lun Sroasr-Masap. Lemlem nukewa enenu in simla a kitakatelik nu sin Senators an ke lemlem na safla la an meet liki a tufwa aksafyeyuk akkeyeya an. Pusren ngusr nukewa ku in akkeyeyukla ke pal sefanna ke orekma lun Sroasr-Masap.

@@ -1,0 +1,1 @@
+Section 7. No Senator may hold another public office or public employment, nor may he for one year succeeding the term for which he was elected or appointed, be elected or appointed to any public office or employment which was created, or which had its emoluments increased, by legislative act during such term.

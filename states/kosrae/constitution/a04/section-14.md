@@ -1,0 +1,1 @@
+Section 14. No law may be passed except by bill. A law may embrace but one subject, which is expressed in its title. The enacting clause of each law is, . Be it enacted by the Kosrae State Legislature..

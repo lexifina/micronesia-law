@@ -1,0 +1,3 @@
+Section 3. The term of office of the Governor begins at noon on the second Tuesday of January following the general election and ends at noon on the second Tuesday of January four years thereafter. A Governor may not hold the same office for more than two consecutive terms and is eligible to hold the office of Governor only after one full term has intervened since his last day in office.
+
+(Amended by 1995 Con. Con. The beginning date for term of office is effective as of the first full Governor. s term beginning after ratification. The consecutive term provision is effective upon first general election after ratification.)

@@ -1,0 +1,3 @@
+Section 17. Upon receipt of a veto message from the Governor, the Legislature may reconsider the vetoed bill, or the item or items vetoed, and again vote upon the bill, the item or items. The vetoed bill, item or items, become law if approved by a vote with four-fifths of the Senators on one reading. If, upon receipt of a veto message from the Governor, the Legislature is not in session or recess, the Legislature may reconsider the vetoed bill, item or items, in the next regular or special session. A vetoed bill may be amended to meet the objections of the Governor and, if so amended and passed upon one reading, it shall again be presented to the Governor, and becomes law only if signed within ten days after presentation.
+
+(Amended by 1995 Con. Con.)

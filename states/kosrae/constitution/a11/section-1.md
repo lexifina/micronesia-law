@@ -1,0 +1,1 @@
+Section 1. A person has the right to a healthful, clean, and stable environment. While providing for the orderly development and use of natural resources, the State Government shall by law protect the State's environment, ecology, and natural resources from impairment in the public interest.

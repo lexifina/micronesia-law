@@ -1,0 +1,1 @@
+Section 14. Wangin sie masap a ku in akkeyeyukla el fwin tia fwasr ke inkanek lun lumeyan masap. Kais sie lumeyan masap a fwa kawuk nuke sripa sefanna su a akkalemyeyuk ke sifa an. Pusra se ma a sang nawu ikusyan masap se a fwak ouinge "A fwa akkeyeyukla sin Sroasr-Masap lun State Kosrae."

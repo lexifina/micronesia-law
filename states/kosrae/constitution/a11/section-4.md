@@ -1,0 +1,3 @@
+Section 4. The waters, land, and other natural resources within the marine space of the State are public property, the use of which the State Government shall regulate by law in the public interest, subject to the right of the owner of land abutting the marine space to fill in and construct on or over the marine space; provided, the right may be limited by other provisions of this article and any use of the waters, land and other natural resources within the marine space of the municipality by the State Government is subject to prior consultation between the State Government and the municipality where the marine space is situated. Consultation procedures shall be provided by statute.
+
+(Amended by 1995 Con. Con.)
