@@ -1,0 +1,9 @@
+§ 213. Numbering of laws.
+
+(1) Public laws shall be assigned a number by the High Commissioner as they become law, with or without his signature, in the order in which they become law. Numbers of public laws enacted by the First Regular Session, 1965, Congress of Micronesia, shall be preceded by the figure "1-"; numbers of public laws enacted by the Second Regular Session, 1966, Congress of Micronesia, shall be preceded by the figure "2-"; numbers of public laws enacted by the Third Regular Session, 1967, Congress of Micronesia, shall be preceded by the figure "3-"; numbers of laws enacted by the Fourth Regular Session, 1968, Congress of Micronesia, shall be preceded by the figure "4-"; numbers of public laws enacted by the Third Congress of Micronesia shall be preceded by the figure "3C-"; numbers of public laws enacted by the Fourth Congress of Micronesia shall be preceded by the figure "4C-"F; numbers of public laws enacted by the Fifth and succeeding Congresses shall be preceded by an arabic numeral representing the number of the Congress, followed by a hyphen, such as "5-".
+
+(2) Private laws enacted by the Congress of the Federated States of Micronesia shall be numbered in the same manner as public laws, as set forth in subsection (3) of this section, except that such laws shall be known as private laws and not as public laws.
+
+(3) Bills enacted by the Congress of the Federated States of Micronesia shall be assigned a number by the President of the Federated States of Micronesia as they become law, with or without his approval, in the order in which they become law. Public laws enacted by the First Congress of the Federated States of Micronesia shall be preceded by the figure "1" followed by a hyphen. Public laws enacted by subsequent Congresses shall be preceded by an arabic numeral representing the number of the appropriate Congress, followed by a hyphen, such as "2-".
+
+Source: TT Code 1980, 2 TTC 164; PL 1-33 § 1.
