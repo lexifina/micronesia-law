@@ -1,0 +1,5 @@
+§ 1203. Organization.
+
+The Commission shall consist of seven voting members. The voting members shall be appointed by the Truk District Administrator Governor with the advice and consent of the President and Speaker of the Truk District Chuuk State Legislature. The term of office shall be two years. Appointments to fill vacancies shall be made by the Truk District Administrator Governor with the advice and consent of the President and Speaker of the Legislature and such appointments shall be for the remainder of the unexpired term. No member may be simultaneously an employee of the Commission. The District State Director of Public Works and the Land Management Officer shall serve as ex-officio non-voting members of the Commission. The Commission shall elect a chairman, vice-chairman and treasurer at the first meeting; provided, however, that the first meeting shall be called by the Truk District Administrator who shall serve as chairman until the Commission shall elect a chairman.
+
+Source: TDL 21-30, § 4, modified.

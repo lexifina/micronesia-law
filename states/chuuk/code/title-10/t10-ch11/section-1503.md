@@ -1,0 +1,5 @@
+§ 1503. Membership.
+
+The Public Market Board shall consist of five members. Three members shall be appointed by the President and Speaker of the Truk District Chuuk State Legislature; initially, one of these members shall serve a term of three years, one appointee a term of two years, and one appointee a term of one year. Two members shall be appointed by the District Administrator Governor; initially, one of these appointees shall serve a term of three years, and the other shall serve a term of two years. Thereafter, each person appointed to the board shall serve a term of three years. Appointments shall be made by the District Administrator Governor or the President and Speaker of Truk District Chuuk State Legislature to fill unexpired terms of their respective appointees. Members may be appointed to succeed themselves. The membership shall include, but not be limited to, citizens of the Trust Territory Federated States of Micronesia. The District State Agriculturist shall sit as an Advisor to the Public Market Board.
+
+Source: 5 TDC § 103, modified.

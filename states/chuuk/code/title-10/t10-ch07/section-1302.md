@@ -1,0 +1,5 @@
+§ 1302. Commission on Youth.
+
+There is hereby created the Truk Chuuk Commission on Youth (hereinafter referred to as the "Commission") to be composed of not less than 12 members, representing Community Development, Education, Health Services, Employment, Law Enforcement and the Court, Youth and Parents. Additional members may be appointed not to exceed a total of 15. Members shall be appointed by the District Administrator Governor subject to the advice and consent of the Truk District Chuuk State Legislature. Members who are government employees shall serve without compensation. Members shall be appointed for three year terms. Any member of the Commission may be removed by the District Administrator Governor. The Community Development Officer or his designee shall serve as interim Chairman of the Commission until a permanent chairman is chosen at the first organizational meeting. The Commission shall determine its own procedures for carrying out the purposes of this act Chapter.
+
+Source: TDL 25-34, § 1(122), modified.

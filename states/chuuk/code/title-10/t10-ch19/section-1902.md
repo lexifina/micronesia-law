@@ -1,0 +1,5 @@
+§ 1902. Membership.
+
+There shall be five members on the Peace Corps Review Board, three shall be appointed by the President and Speaker of the Truk District Chuuk State Legislature for two year terms, one his appointees of whom shall be a member of the Truk District Chuuk State Legislature. Two shall be appointed by the District Administrator Governor for two year terms. and The Truk District Chuuk State Peace Corps Director shall be an ex officio member of the Board. The first meeting of the Peace Corps Review Board shall be called by the President and Speaker, the District Administrator Governor, or the Peace Corps Director. The Legislator shall serve as temporary Chairman until the Board elects a permanent Chairman. The members of the Peace Corps Review Board, except the Peace Corps Director, shall receive compensation for one meal per meeting and shall in addition receive five dollars ($5.00) per meeting from the funds appropriated pursuant to this Chapter, but shall receive no other compensation from funds appropriated by the Truk District Chuuk State Legislature.
+
+Source: TDL 23-23, § 2, modified.

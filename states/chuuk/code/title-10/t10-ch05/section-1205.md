@@ -1,0 +1,5 @@
+§ 1205. Operating Procedures.
+
+The Commission shall hold elections for the position of chairman, vice-chairman, and treasurer. Any member may be removed from office by the District Administrator Governor for inefficiency, neglect of duty, or misconduct in office, after sufficient notice and opportunity for a hearing before the District Administrator Governor. The Board shall hold a regular meeting each quarter and such special meetings as the Planning Director deems necessary, subject to the limitations imposed by law. A Planning Director shall be appointed by the District Administrator Governor, with the advice and consent of the President and Speaker of the Truk District Chuuk State Legislature. The Planning Director shall be the administrative and technical advisor and secretary of the Board. He shall be a person qualified by training, experience, and demonstrated ability to manage the affairs of planning. The Planning Director shall select his own staff.
+
+Source: TDL 21-30, § 6, modified.
