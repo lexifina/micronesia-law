@@ -1,0 +1,5 @@
+§ 1754. Proceedings not to be stayed.
+
+A responding court shall not stay the proceeding or refuse a hearing under this chapter because of any pending or prior action or proceeding for divorce, separation, annulment, dissolution, habeas corpus, adoption, or custody in this or any other jurisdiction. The court shall hold a hearing and may issue a support order pendente lite. In aid thereof it may require the obligor to give a bond for the prompt prosecution of the pending proceeding. If the other action or proceeding is concluded before the hearing in the instant proceeding and the judgment therein provides for the support demanded in the complaint being heard, the court must conform its support order to the amount allowed in the other action or proceeding. Thereafter the court shall not stay enforcement of its support order because of the retention of jurisdiction for enforcement purposes by the court in the other action or proceeding.
+
+Source: COM PL 4C-37 § 1; TT Code 1980, 39 TTC 424.

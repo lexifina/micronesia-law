@@ -1,0 +1,5 @@
+§ 1409. Orders in aid of judgment - Application.
+
+At any time after a finding for the payment of money by one party to another and before any judgment based thereon has been satisfied in full, either party may apply to the Court for an order in aid of judgment. Thereupon the Court, after notice to the opposite party, shall hold a hearing on the question of the debtor's ability to pay and determine the fastest manner in which the debtor can reasonably pay a judgment based on the finding. In making this determination the Court shall allow the debtor to retain such property and such portion of his income as may be necessary to provide the reasonable living requirements of the debtor and his dependents, including fulfillment of any obligations he may have to any clan, lineage, or other similar group, in return for which obligations he, or his dependents, receive any necessary part of the food, goods, shelter, or services required for their living.
+
+Source: TT Code 1966 § 289; TT Code 1970, 8 TTC 55; TT Code 1980, 8 TTC 55.

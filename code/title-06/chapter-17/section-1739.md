@@ -1,0 +1,5 @@
+§ 1739. Costs and fees.
+
+An initiating court shall not require payment of either a filing fee or other costs from the obligee but may request the responding court to collect fees and costs from the obligor. A responding court shall not require payment of a filing fee or other costs from the obligee but it may direct that all fees and costs requested by the initiating court and incurred in the Trust Territory when acting as a responding State, including fees for filing of pleadings, service of process, seizure of property, stenographic or duplication service, or other service supplied to the obligor, be paid in whole or in part by the obligor or by the State or political subdivision thereof. These costs or fees do not have priority over amounts due to the obligee.
+
+Source: COM PL 4C-37 § 1; TT Code 1980, 39 TTC 409.

@@ -1,0 +1,5 @@
+§ 1508. Issuance or denial of writ.
+
+A court or judge hearing the application for a writ of habeas corpus, and authorized to issue the writ, shall, without delay or formality, determine the facts, grant the writ unconditionally, deny the writ, or grant the writ on terms fixed by the court and discharge the person for whose relief the application has been brought, or make any order as to his disposition that law and justice may require. The court or judge authorized to issue the writ and receiving the report and recommendations of a judge of a District court as provided in section 1507 of this chapter, may act upon the matter, by dispatch or other speedy method, on the basis of the District court judge's report, or may order such further hearing or the submission of such further evidence as he deems law and justice require, and the clerk of courts of the District in which the matter is pending shall take such action in the matter as the judge or court may direct.
+
+Source: TT Code 1966 § 305; TT Code 1970, 9 TTC 106; TT Code 1980, 9 TTC 106.

@@ -1,0 +1,13 @@
+§ 1014. Proceedings when persons unable to pay fees.
+
+(1) Any court may authorize the commencement, prosecution, or defense of any case, action, or proceeding, civil or criminal, or any appeal therein, without prepayment of fees for serving of process, jury fees, witness fees, or filing fees, or giving security therefore by a permanent resident of the Trust Territory who makes a statement under oath that he is unable to pay such fees or give security therefor. This statement under oath shall state the nature of the case, action, or proceedings, defense, or appeal, and that the person making the statement believes that he is entitled to relief.
+
+(2) The officers of the court and the designated policeman shall issue and serve all process, and perform all duties in such cases without prepayment of fees or the giving of security therefor. Witnesses shall attend as in other cases.
+
+(3) The court may dismiss the case, action, or proceeding if the statement that the person is unable to pay fees is untrue, or if the court is satisfied that the case, action, or proceeding is malicious or has no substantial basis.
+
+(4) The court before whom any criminal case is pending or a judge thereof may order at any time that a witness summons be issued and served without prepayment of fees upon request of an accused who cannot pay witness fees. The request shall be supported by a statement under oath in which the accused shall state the name and address of each witness and the testimony which he is expected by the accused to give if summoned, and shall show that the evidence of the witness is material to the defense, that the accused cannot safely go to the trial without the witness, and that the accused is actually unable to pay the fees of the witness. If the court or judge orders the witness summons to be issued and served without prepayment of fees the fees of the witness so summoned shall be paid in the same manner in which similar fees are paid in case of a witness summoned on behalf of the Government.
+
+(5) In the event that a court authorizes a party to proceed without payment of fees pursuant to this section, the director of the Administrative Office, Trust Territory judiciary, shall pay all fees which would otherwise be due under subsection (3) of section 1015 of this chapter to the court reporter or other person who prepares a transcript. Such payment shall be made from funds appropriated for the operation of the judiciary and allocated to the District in which the proceeding appealed from was held.
+
+Source: TT Code 1966 § 262; TT Code 1970, 6 TTC 404; COM PL 6_101 § 2; TT Code 1980, 6 TTC 404.

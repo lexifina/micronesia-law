@@ -1,0 +1,5 @@
+§ 1738. Duty of initiating court.
+
+If the initiating court finds that the complaint sets forth facts from which it may be determined that the obligor owes a duty of support and that a court of the responding State may obtain jurisdiction of the obligor or his property, it shall so certify and cause three copies of the complaint and its certificate and one copy of this chapter to be sent to the responding court. Certification shall be in accordance with the requirements of the initiating State. If the name and address of the responding court is unknown and the responding State has an information agency comparable to that established in the initiating State, it shall cause the copies to be sent to the State information agency or other proper official of the responding State, with a request that the agency or official forward them to the proper court and that the court of the responding State acknowledge their receipt to the initiating court.
+
+Source: COM PL 4C-37 § 1; TT Code 1980, 39 TTC 408.

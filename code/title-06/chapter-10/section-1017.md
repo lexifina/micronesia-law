@@ -1,0 +1,5 @@
+§ 1017. Allocation of costs.
+
+All fees and expenses paid or incurred under this chapter for the service of process, witness fees, or filing fees on appeal, by any party prevailing in any matter other than a criminal proceeding, shall be taxed as part of the costs against the losing party or parties unless the court shall otherwise order; provided that no fees paid to a witness who is a party in interest and is called and examined on his own behalf or on behalf of others jointly interested with him shall be allowed or taxed as costs; and provided further that no costs shall be taxed against the United States of America or the Trust Territory.
+
+Source: TT Code 1966 § 265; TT Code 1970, 6 TTC 408; TT Code 1980, 6 TTC 408.
