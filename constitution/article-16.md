@@ -1,0 +1,3 @@
+ARTICLE XVI
+
+Effective Date

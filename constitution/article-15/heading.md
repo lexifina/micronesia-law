@@ -1,0 +1,3 @@
+ARTICLE XV
+
+Transition

@@ -1,0 +1,3 @@
+ARTICLE V
+
+Traditional Rights
