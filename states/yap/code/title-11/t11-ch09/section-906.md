@@ -1,0 +1,5 @@
+§906. Surrender of weapons.
+
+Any person who possesses any firearm, dangerous device or ammunition on the effective date of this chapter shall tender such firearm, dangerous device or ammunition to the Chief of Police or to any police officer within 60 days of said effective date and receive just compensation therefor. The Governor may extend this deadline for the neighboring islands. Likewise, not less than one year, or more than two years after the effective date of this chapter, and upon certification to the Legislature that it is in the public interest, the Governor by executive order may provide for a second "grace period" of 60 days with a similar extension for the neighboring islands. Such second grace period shall be preceded by a public education program. Any person who shall voluntarily surrender any firearm, dangerous weapon or ammunition pursuant to the provisions of this section shall not be subject to the penalties prescribed by section 904 of this chapter or section 1231 of the Trust Territory Weapons Control Act for such firearm, dangerous device or ammunition.
+
+Source: YSL 2-48 §2, modified.

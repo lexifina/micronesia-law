@@ -1,0 +1,5 @@
+§205. Sexual assault.
+
+Every person who intentionally subjects another person to sexual penetration by force, or forces another person to make a sexual penetration on himself or another or on a beast against the other person. s will, or who intentionally engages in sexual penetration with another person whom he knows or should know that the other person is mentally or physically incapable of resisting or understanding the nature of his conduct, or who is an accomplice or accessory to the sexual assault by a third person, shall be guilty of sexual assault, and upon conviction thereof, if serious bodily or psychological injury to the victim results or if a dangerous weapon was used by the defendant, shall be imprisoned for a period of not more than ten years, or fined not more than $10,000.00, or both; if such injury does not result and no weapon was used, the person shall be imprisoned for a period of not more than five years, or fined not more than $5,000.00, or both.
+
+Source: YSL 2-48 §2, as amended by YSL 3-22 §6, modified.

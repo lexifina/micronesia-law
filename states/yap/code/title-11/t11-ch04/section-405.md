@@ -1,0 +1,11 @@
+§405. Security to keep the peace.
+
+(a) A complaint may be made to any court that a person has threatened to commit an offense against the person or property of another. When such complaint is made, the court shall examine under oath the complainant and any witnesses he may produce, reduce the complaint to writing and cause it to be signed and sworn to by the complainant. If the court is satisfied that there is danger that such offense will be committed, the court shall issue a warrant to any policeman setting out the substance of the complaint and commanding the officer to apprehend the person complained of and bring him before the court at a certain time.
+
+(b) When the person complained of is brought before the court, the testimony produced on both sides shall be heard if the charge is denied. If it appears that there is no just reason to fear the commission of the offense, the defendant shall be discharged; and if the judge is of the opinion that the prosecution was commenced maliciously without proper cause he may give judgment against the complainant for the costs of the prosecution. If, however, the court finds there is just reason to fear the commission of such offense, the person complained of may be required to enter into an undertaking in a sum fixed by the court, not exceeding $500.00, to keep the peace toward the State and particularly toward the complainant. The defendant shall deposit the sum fixed in cash with the clerk of courts or the court may grant him permission to give bond in the same amount with one or more sufficient sureties. The undertaking to keep the peace shall be valid and binding for six months, and may upon the renewal of the complaint be extended for a longer period.
+
+(c) If the court finds, after hearing, that the defendant has violated his undertaking to keep the peace, the court may direct a forfeiture of the whole or such part of the deposit or bond as it appears that justice requires, and may enforce such forfeiture in the same manner as a forfeiture of bail in a criminal case.
+
+(d) If the defendant fulfills his undertaking to keep the peace, he may claim his deposit from the clerk of courts upon presentation of receipt.
+
+Source: YSL 2-48 §2, modified.

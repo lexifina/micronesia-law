@@ -1,0 +1,5 @@
+§1103. Consideration of previous convictions.
+
+Before imposing or suspending the execution of sentence upon a person found guilty of a criminal offense, or in suspending the imposition of sentence and granting probation, evidence of good or bad character, including any prior criminal record of the defendant, may be received and considered by the court.
+
+Source: YSL 2-48 §2, modified.
