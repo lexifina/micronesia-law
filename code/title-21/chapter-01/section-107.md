@@ -1,0 +1,5 @@
+§ 107. War emergency provisions - Penalties for violations.
+
+Any person who willfully does or causes or suffers to be done any act prohibited pursuant to the exercise of the President of the Federated States of Micronesia's authority under the preceding section, or who willfully fails to do any act which he is required to do pursuant to the exercise of the President's authority under the preceding section, or who willfully causes or suffers such failure, shall, upon conviction thereof, be punished for such offense by a fine of not more than $1,000, or by imprisonment for not more than a year, or both, and, if a firm, partnership, association, or corporation, by fine of not more than $5,000, except that any person who commits such an offense with intent to injure the Federated States of Micronesia, or with intent to secure an advantage to any foreign nation, shall, upon conviction thereof, be punished by a fine of not more than $20,000, or by imprisonment for not more than 20 years, or both.
+
+Source: TT Code 1966 § 1204(c); TT Code 1970, 35 TTC 5(3); TT Code 1980, 35 TTC 5(3); PL 7-37 § 8, modified.
