@@ -1,0 +1,5 @@
+§ 404. Observation of tariff.
+
+No air carrier, foreign air carrier or any ticket agent shall charge, demand, collect or receive greater or less or different compensation for air transportation, or for any service in connection therewith, than the rates, fares, and charges specified in its then currently effective tariffs of such air carrier or foreign air carrier; and no air carrier or foreign air carrier or ticket agent shall, in any manner or by any device, directly or indirectly, or through any agent or broker, or otherwise, refund or remit any portion of the rates, fares, or charges so specified, or extend to any person any privileges or facilities, with respect to matters required by the Secretary to be specified in such tariffs except those specified therein. Nothing in this title shall prohibit such air carrier or foreign air carrier, under such terms and conditions as the Secretary may prescribe, from issuing or interchanging tickets or passes for free or reduced rate transportation to their directors, officers, agents and employees and their immediate families.
+
+Source: PL 9-138 § 22.

@@ -1,0 +1,5 @@
+§ 704. Expenditure of national funds for airports.
+
+No national funds, other than those expended under this title, shall be expended (whether or not in cooperation with State or other local governmental agencies), for the acquisition, establishment, construction, alteration, repair, maintenance, or operation of any landing area or for the acquisition, establishment, construction, maintenance, or operation of air navigation facilities thereon, except upon written recommendation and certification by the Secretary that such landing area or facility is reasonably necessary for use in air commerce. Any interested person may apply to the Secretary, under regulations prescribed by him, for such recommendation and certification with respect to any landing area or air navigation facility proposed to be established, constructed, altered, repaired, maintained, or operated by, or in the interests of, such person. There shall be no exclusive right for the use of any landing area or air navigation facility upon which national funds have been expended.
+
+Source: PL 9-138 § 54.

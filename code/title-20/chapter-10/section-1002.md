@@ -1,0 +1,9 @@
+§ 1002. Complaints to and investigations by the Secretary.
+
+(1) Filing of complaints. Any person may file with the Secretary a complaint in writing with respect to anything done or omitted to be done by any person in contravention of any provision of this title, or of any requirement established pursuant thereto. If the person complained against does not satisfy the complaint and there appears any reasonable ground for investigating the complaint, it shall be the duty of the Secretary to investigate the matters set forth in the complaint. Whenever the Secretary is of the opinion that any complaint does not state facts which warrant an investigation or action, such complaint may be dismissed without hearing.
+
+(2) Investigations. The Secretary is hereby empowered to institute an investigation at any time, on his own initiative, in any case and as to any matter or thing within his jurisdiction by any provision of this title, concerning which a complaint is authorized to be made to or before the Secretary, or concerning which any question may arise under any of the provisions of this title, or relating to the enforcement of any of the provisions of this title. The Secretary shall have the same power to proceed with any investigation instituted on his own motion as though it had been made to him by complaint.
+
+(3) Orders to compel compliance. If the Secretary finds, after notice and hearing, in any investigation instituted upon complaint or upon his own initiative, with respect to matters within his jurisdiction, that any person has failed to comply with any provision of this title or any requirement established pursuant thereto, the Secretary shall, consistent with the provisions of this title, issue an appropriate order to compel such person to comply therewith.
+
+Source: PL 9-138 § 63.
