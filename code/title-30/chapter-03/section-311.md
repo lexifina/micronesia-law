@@ -1,0 +1,5 @@
+§ 311. Required permits.
+
+Prior to approving any application for financing a project, in whole or in part, from the Investment Development Fund which will involve a financial interest or other participation by a person who is not a citizen of the Federated States of Micronesia or by a partnership, corporation, or other business entity in which any interest is owned by a person who is not a citizen of the Federated States of Micronesia, the Federated Development Authority or Development Bank, whichever has authority to approve the application, shall ascertain that such person or entity possesses all necessary business licenses and foreign investment permits; PROVIDED that, in appropriate circumstances, the Federated Development Authority or Development Bank, as the case may be, may approve the application with release of financing conditioned on issuance of the necessary licenses and permits; PROVIDED FURTHER, that any project financed through the Investment Development Fund must comply with the terms and conditions of all required licenses and permits.
+
+Source: PL 5-122 § 12; PL 6-109 § 2.

@@ -1,0 +1,17 @@
+§ 303. Administration of the Investment Development Fund.
+
+(1) The Federated Development Authority shall be responsible for administering the Investment Development Fund subject to the advice and guidance of the Board of Advisors, in accordance with the provisions of this chapter and other applicable laws, the Investment Development Fund Agreement, and section 201 of this title.
+
+(2) The Federated Development Authority shall have the power and authority to do all such things as may be necessary to administer the Investment Development Fund, including, but not limited to, establishing guidelines, policies, and procedures for administration of the Investment Development Fund; establishing general terms and conditions for financing of projects from the Fund, including qualifications for prospective borrowers and maximum and minimum loan amounts; establishing guidelines for applications; establishing application, loan guarantee, and other fees and charges; and determining interest rates, repayment schedules, security requirements, and other specific terms and conditions for financings within the limits established by section 315 of this chapter; PROVIDED that, prior to establishing such guidelines, policies and procedures, and general terms and conditions, the Federated Development Authority shall afford the Board of Advisors and the Development Bank an adequate opportunity to comment on such matters; PROVIDED FURTHER, however, that no change in guidelines, policies, and procedures, and general terms and conditions, shall apply to any application for financing pending on the date the change is adopted, if the effect of applying it shall adversely affect, in a material way, the approval of the financing sought.
+
+(3) The Federated Development Authority shall be responsible for:
+
+(a) Approving financing for the projects submitted for funding pursuant to section 309 of this chapter;
+
+(b) Approving the actions by the Development Bank taken pursuant to subsection (5) of this section as the Federated Development Authority deems appropriate.
+
+(4) In exercising its authority under subsection (2) above, the Federated Development Authority shall request technical assistance from the Development Bank.
+
+(5) The Development Bank, pursuant to the direction of the Federated Development Authority, shall be responsible for administering all loans, loan guarantees, lease and sale-leaseback arrangements, and other similar financings, including the maintenance of all files on such financings, the monitoring of the progress of projects funded from such financings, collecting any repayments of such financings (including resort to property hypothecated to secure payments due under a financing, or legal action to enforce payment obligations), and, only with specific approval from the Federated Development Authority on a case-by-case basis, renegotiating the terms of such financing. Except as otherwise provided in this chapter, the authority and responsibilities of the Development Bank, with respect to the administration of the Fund, shall be executed by the President of the Development Bank pursuant to the guidelines, policies, and procedures, and general terms and conditions, prescribed by the Federated Development Authority and this chapter, and the Board of Directors of the Development Bank shall have no authority or responsibility with respect to the administration of the Fund.
+
+Source: PL 5-122 § 4.

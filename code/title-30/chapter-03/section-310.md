@@ -1,0 +1,5 @@
+§ 310. Development Bank approval.
+
+No financing shall be funded from the private-sector reserve created pursuant to section 316 of this chapter without the written approval of the President of the Development Bank or his designee. In reviewing each application for financing, the Development Bank shall consider the comments, if any, of the sponsoring State or National Government, the Board of Advisors and the Department of Resources and Development of the Federated States of Micronesia. If the Development Bank denies the financing sought in an application, it may at the same time approve a lesser or alternative financing, or approve a financing upon condition that the project proposal be amended in some respect. The financing approval shall specify the type of financing approved, the rate of interest, if any, and the length of payment grace periods, if any, and the property to be hypothecated to secure repayment of the financing. In each case, the approval is conditioned upon the recipient's execution of definitive legal documentation of the financing, in form and substance acceptable to the Development Bank.
+
+Source: PL 5-122 § 11.
