@@ -1,0 +1,113 @@
+FIFTEENTH CONGRESS OF THE FEDERATED STATES OF MICRONESIA
+THIRD REGULAR SESSION, 2008 CONGRESSIONAL BILL NO. 15-89, C.D.1, C.D.2
+PC NO. 15-220 PUBLIC LAW NO. 15-41
+AN ACT
+To further amend title 52 of the Code of the Federated States of
+Micronesia, as amended, by repealing section 205 thereof and enacting a
+one-time increase in base salaries for certain public service
+employees, and for other purposes.
+BE IT ENACTED BY THE CONGRESS OF THE FEDERATED STATES OF MICRONESIA:
+1 Section 1. Section 205 of title 52 of the Code of the
+2 Federated States of Micronesia, as enacted by Public Law No. 7-
+3 121, is hereby repealed and a new section 205 is hereby enacted
+4 to read as follows:
+5 "Section 205. Base Salary schedule of biweekly salary
+6 rate.
+7 Steps
+8 Pay
+9 Level 1 2 3 4 5 6 7
+10 1 $137.46 $141.46 $145.46 $149.46 $154.26 $159.06 $163.86
+11 2 141.46 145.46 149.46 154.26 159.06 163.86 169.46
+12 3 145.46 149.46 154.26 159.06 163.86 169.46 175.06
+13 4 149.46 154.26 159.06 163.86 169.46 175.06 181.46
+14 5 154.26 159.06 163.86 169.46 175.06 181.46 187.86
+15 6 159.06 163.86 169.46 175.06 181.46 187.86 195.06
+16 7 163.86 169.46 175.06 181.46 187.86 195.06 202.26
+17 8 169.46 175.06 181.46 187.86 195.06 202.26 210.26
+18 9 175.06 181.46 187.86 195.06 202.26 210.26 218.26
+1 10 181.46 187.86 195.06 202.26 210.26 218.26 227.06
+CONGRESSIONAL BILL NO. 15-89, C.D.1, C.D.2
+PC NO. 15-220 PUBLIC LAW NO. 15-41
+2 11 187.86 195.06 202.26 210.26 218.26 227.06 236.66
+3 12 195.06 202.26 210.26 218.26 227.06 236.66 246.26
+4 13 202.26 210.26 218.26 227.06 236.66 246.26 256.66
+5 14 210.26 218.26 227.06 236.66 246.26 256.66 267.86
+6 15 218.26 227.06 236.66 246.26 256.66 267.86 279.86
+7 16 227.06 236.66 246.26 256.66 267.86 279.86 291.86
+8 17 236.66 246.26 256.66 267.86 279.86 291.86 304.66
+9 18 246.26 256.66 267.86 279.86 291.86 304.66 318.26
+10 19 256.66 267.86 279.86 291.86 304.66 318.26 332.66
+11 20 267.86 279.86 291.86 304.66 318.26 332.66 347.86
+12 21 279.86 291.86 304.66 318.26 332.66 347.86 364.66
+13 22 291.86 304.66 318.26 332.66 347.86 364.66 382.26
+14 23 304.66 318.26 332.66 347.86 364.66 382.26 400.66
+15 24 318.26 332.66 347.86 364.66 382.26 400.66 420.66
+16 25 332.66 347.86 364.66 382.26 400.66 420.66 441.46
+17 26 347.86 364.66 382.26 400.66 420.66 441.46 463.86
+18 27 364.66 382.26 400.66 420.66 441.46 463.86 487.06
+19 28 382.26 400.66 420.66 441.46 463.86 487.06 511.86
+20 29 400.66 420.66 441.46 463.86 487.06 511.86 538.26
+21 30 420.66 441.46 463.86 487.06 511.86 538.26 566.26
+22 31 441.46 463.86 487.06 511.86 538.26 566.26 595.86
+23 32 463.86 487.06 511.86 538.26 566.26 595.86 627.06
+24 33 487.06 511.86 538.26 566.26 595.86 627.06 660.66
+25 34 511.86 538.26 566.26 595.86 627.06 660.66 695.86
+1 35 538.26 566.26 595.86 627.06 660.66 695.86 733.46
+2 of 4
+CONGRESSIONAL BILL NO. 15-89, C.D.1, C.D.2
+PC NO. 15-220 PUBLIC LAW NO. 15-41
+2 36 566.26 595.86 627.06 660.66 695.86 733.46 773.46
+3 37 595.86 627.06 660.66 695.86 733.46 773.46 815.86
+4 38 627.06 660.66 695.86 733.46 773.46 815.86 860.66
+5 39 660.66 695.86 733.46 773.46 815.86 860.66
+6 40 695.86 733.46 773.46 815.86 860.66
+7 41 733.46 773.46 815.86 860.66
+8 42 773.46 815.86 860.66
+9 The provisions of this schedule shall not operate to
+10 decrease the base salary biweekly rate of employees
+11 employed on the effective date of the amending act
+12 codified in this section. Furthermore, the base
+13 salary biweekly rate of such employees shall not be
+14 increased beyond the rate in effect on the effective
+15 date of the amending act codified in this section.”
+16 Section 2. Effective date. This act shall become
+17 effective on October 1, 2008.
+18
+19
+20
+21
+22
+23
+24
+25
+3 of 4
+CONGRESSIONAL BILL NO. 15-89, C.D.1, C.D.2
+PC NO. 15-220 PUBLIC LAW NO. 15-41
+1 Section 3. This act shall become law upon approval by the
+2 President of the Federated States of Micronesia or upon its
+3 becoming law without such approval.
+4
+5
+6
+7
+8 June 20, 2008
+9
+10
+11
+12
+13 /s/ Manny Mori
+Manny Mori
+14 President
+Federated States of Micronesia
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+4 of 4
