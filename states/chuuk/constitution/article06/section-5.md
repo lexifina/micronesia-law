@@ -1,0 +1,1 @@
+Section 5. No person is eligible to serve as Governor unless at least 35 years of age on the day of election, was a born Chuukese and is of Chuukese descent, has been a resident of the State of Chuuk for at least 25 years prior to the day of election, is a citizen of the Federated States of Micronesia, and has never been convicted of a felony.

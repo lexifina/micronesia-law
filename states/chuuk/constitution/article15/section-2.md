@@ -1,0 +1,1 @@
+Section 2. Until superseded by officers of the State Government under this Constitution, all officers of the chartered state government and its subdivisions, or under its laws, shall continue their functions and duties, and shall be governed in their performance by the Truk State Charter. Article V, VI, and VII of this Constitution shall not apply to such performance.

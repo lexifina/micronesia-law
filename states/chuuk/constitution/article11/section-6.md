@@ -1,0 +1,1 @@
+Section 6. Chuukese is the State language, but both Chuukese and English are official languages. In case of conflict, Chuukese shall prevail, except when the concept is foreign, has not been accepted into Chuukese, and has no equivalent translation in Chuukese.

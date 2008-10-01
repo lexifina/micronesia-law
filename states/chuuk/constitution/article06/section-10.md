@@ -1,0 +1,1 @@
+Section 10. The executive departments of Health, Education, Transportation, Marine Resources, and Agriculture may not be divided, combined, or eliminated. Other executive departments may be established by statute. The powers, functions, and responsibilities of all executive departments shall be prescribed by statute.

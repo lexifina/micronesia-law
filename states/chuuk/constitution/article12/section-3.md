@@ -1,0 +1,1 @@
+Section 3. The Legislature shall prescribe by statute a minimum period of voter residency; disqualifications for conviction of crime, mental incompetence, or insanity; and for the protection of voting in the State of Chuuk. Except as so provided, no resident entitled to vote may be denied the privilege to vote or be interfered with in voting.

@@ -1,0 +1,1 @@
+Section 12. The enacting clause of every bill shall be as follows: "Be it enacted by the Chuuk State Legislature:". No law may be enacted except by bill. Bills may originate in either house and may be amended or rejected by the other.

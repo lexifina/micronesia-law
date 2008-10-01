@@ -1,0 +1,1 @@
+Section 6. There shall be a Lieutenant Governor who shall have the same qualifications as the Governor. The Lieutenant Governor shall perform the duties assigned by the Governor and prescribed by statute.

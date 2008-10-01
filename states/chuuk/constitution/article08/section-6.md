@@ -1,0 +1,1 @@
+Section 6. Each fiscal year, the Legislature shall appropriate for the operation of the municipal governments at least 8 percent of the state operation funds, and shall appropriate to the municipalities for development projects at least 40 percent of the development funds that may be allocated.

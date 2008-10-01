@@ -1,0 +1,1 @@
+Section 2. Nothing in this Constitution takes away the role or function of a traditional leader as recognized by Chuukese custom and tradition, or prevents a traditional leader from being recognized, honored, and given formal or functional roles in government.

@@ -1,0 +1,1 @@
+Section 18. Each house shall have and exercise all the authority and attributes inherent in legislative assemblies, and may institute and conduct investigations, issue subpoenas, and administer oaths.

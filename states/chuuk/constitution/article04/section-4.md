@@ -1,0 +1,1 @@
+Section 4. Traditional rights over all reefs, tidelands, and other submerged lands, including their water columns, and successors rights thereto, are recognized. The Legislature may regulate their reasonable use.

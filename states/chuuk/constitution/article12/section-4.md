@@ -1,0 +1,1 @@
+Section 4. There shall be an independent Election Commission vested with powers, duties, and responsibilities, as prescribed by statute, for the administration of elections in the State of Chuuk, including voter registration and the conduct and certification of elections.

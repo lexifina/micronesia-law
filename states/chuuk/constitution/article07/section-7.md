@@ -1,0 +1,1 @@
+Section 7. The Governor shall nominate and appoint, with the advice and consent of the Senate, the Chief Justice and Associate Justices of the State Supreme Court, who shall hold their offices during good behavior. The Legislature shall prescribe by statute for the appointment and removal of the judges of inferior state courts and municipal courts.

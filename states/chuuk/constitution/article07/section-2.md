@@ -1,0 +1,1 @@
+Section 2. The State Supreme Court is a court of record and consists of a trial division and an appellate division. It is the highest court in the State of Chuuk and consists of a Chief Justice and 4 Associate Justices, all of whom shall be members of both divisions. Upon request of the Chief Justice, the number of Associate Justices may be increased pursuant to statute.

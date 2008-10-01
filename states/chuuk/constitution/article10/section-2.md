@@ -1,0 +1,1 @@
+Section 2. The State Government shall provide for the establishment, management, and support of a statewide system of public schools which shall, within the limits of its resources, provide an education of quality and relevancy, free from sectarian control and available to all persons in the State of Chuuk.

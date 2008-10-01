@@ -1,0 +1,1 @@
+Section 7. The State Government has the power to tax, and may delegate certain taxing powers to the municipal governments by statute. All taxes levied by the State Government shall be prescribed by statute.

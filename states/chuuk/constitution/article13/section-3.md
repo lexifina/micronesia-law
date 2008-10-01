@@ -1,0 +1,1 @@
+Section 3. The Legislature may prescribe the conditions and procedures for the admittance of a new municipality and of new territory as a municipality, but upon admission each new municipality shall enjoy the same powers and privileges, and shall be subject to the same obligations, as existing municipalities.

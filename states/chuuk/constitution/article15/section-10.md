@@ -1,0 +1,1 @@
+Section 10. No change in salary pursuant to this Constitution may take effect until after the general election held in March of 1990. Until prescribed by statute, these annual salaries shall apply: Governor --$25,000; Lieutenant Governor --$22,000; Chief Justice --$23,000; and each Associate Justice --$20,000.

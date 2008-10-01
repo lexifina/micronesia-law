@@ -1,0 +1,1 @@
+Section 4. The appellate division of the State Supreme Court has jurisdiction to review all decisions of the trial division, of inferior state courts, and of the municipal courts. Decisions of the appellate division of the State Supreme Court may be appealed to the Supreme Court of the Federated States of Micronesia, whose decisions are final.

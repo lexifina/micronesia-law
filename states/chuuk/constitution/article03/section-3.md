@@ -1,0 +1,1 @@
+Section 3. The right of the people to be secure in their persons, houses, and possessions against unreasonable search, seizure, or invasion of privacy may not be violated. No warrant may be issued but upon probable cause, supported by affidavit, specifically describing the place to be searched and the persons or things to be seized.

@@ -1,0 +1,1 @@
+Section 9. Except as limited by this Constitution, the Governor and Lieutenant Governor shall each receive an annual salary as prescribed by statute. They may hold no other public office or public or private employment or occupation.

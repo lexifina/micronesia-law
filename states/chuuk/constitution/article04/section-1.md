@@ -1,0 +1,1 @@
+Section 1. Existing Chuukese custom and tradition shall be respected. The Legislature may prescribe by statute for their protection. If challenged as violative of Article III, protection of Chuukese custom and tradition shall be considered a compelling social purpose warranting such governmental action.

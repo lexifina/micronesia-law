@@ -1,0 +1,1 @@
+Section 3. If conflicting constitutional amendments submitted at the same election are approved, the proposed amendment receiving the highest number of affirmative votes shall prevail to the extent of such conflict.

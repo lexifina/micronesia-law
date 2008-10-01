@@ -1,0 +1,1 @@
+Section 1. The legislative power of the State Government is vested in the Legislature, which consists of the Senate and the House of Representatives. This power extends to all rightful subjects of legislation not inconsistent with this Constitution or the Constitution of the Federated States of Micronesia.

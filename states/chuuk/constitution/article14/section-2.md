@@ -1,0 +1,1 @@
+Section 2. A proposed amendment shall become effective if approved in the next general election by a majority of the votes cast on that amendment and if a majority of the registered voters have cast votes on the amendment.

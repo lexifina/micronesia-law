@@ -1,0 +1,3 @@
+Article XIV
+
+AMENDMENT

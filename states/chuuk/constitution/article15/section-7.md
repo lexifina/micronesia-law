@@ -1,0 +1,1 @@
+Section 7. The First Legislature elected under this Constitution may consider any bill disapproved by the governor under the Charter and not returned in time to be considered by its predecessor. The Senate shall, in such case, be deemed the originating house and shall consider the disapproved bill first.

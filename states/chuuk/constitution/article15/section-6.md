@@ -1,0 +1,1 @@
+Section 6. All gubernatorial appointments and senatorial confirmations provided for under this Constitution, or under statutes adopted in implementation thereof, shall be made by the respective officers elected in the first general election in 1990.

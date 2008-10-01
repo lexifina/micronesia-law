@@ -1,0 +1,1 @@
+Section 6. A vacancy in either house of the Legislature shall be filled for the unexpired term by a special election, but an unexpired term of less than one year shall be filled by appointment of the Governor.

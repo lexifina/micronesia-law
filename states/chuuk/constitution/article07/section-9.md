@@ -1,0 +1,1 @@
+Section 9. No person is eligible to serve as the Chief Justice or as an Associate Justice unless at least 35 years of age, was a born Chuukese, has been a resident of the State of Chuuk for at least 25 years, is a citizen of the Federated States of Micronesia, and has never been convicted of a felony. Other qualifications may be prescribed by statute.

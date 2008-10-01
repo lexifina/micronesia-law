@@ -1,0 +1,1 @@
+Section 1. A general election shall be held every 2 years on the first Tuesday following the first Monday in March. If the general election date for the Congress of the Federated States of Micronesia is changed from March, or reasons such as natural disaster preclude the holding of an election on the date set, the election shall be held as prescribed by statute.

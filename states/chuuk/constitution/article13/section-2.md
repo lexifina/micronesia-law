@@ -1,0 +1,1 @@
+Section 2. The following are the municipalities in the State of Chuuk: Weno, Fono, Tonoas, Fefen, Parem, Siis, Uman, Udot, Eot, Ramanum, Fanapanges, Polle, Paata, Wonei, Tol, Nema, Losap, Piis-emmwar, Namoluk, Ettal, Moch, Kuttu, Ta, Satowan, Lukunoch, Oneop, Houk, Polowat, Tamatam, Pollap, Onoun, Makur, Onou, Unanu, Piherarh, Nomwin, Fananu, Ruo, and Murilo.

@@ -1,0 +1,3 @@
+Article IV
+
+TRADITIONAL RIGHTS

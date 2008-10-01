@@ -1,0 +1,1 @@
+Section 10. Compensation of Justices and judges shall be prescribed by statute, but shall not be diminished during their terms of office unless there is a general reduction of all salaries prescribed by statute.

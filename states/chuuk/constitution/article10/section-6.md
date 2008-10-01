@@ -1,0 +1,1 @@
+Section 6. The State Government shall provide for the protection and promotion of health, and shall ensure, within the limits of its resources, that no person is discriminated against in the distribution of medical care, or is refused medical care because of that person's inability to pay.

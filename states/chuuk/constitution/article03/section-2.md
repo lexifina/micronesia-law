@@ -1,0 +1,1 @@
+Section 2. No person may be deprived of life, liberty, or property without due process of law, be denied equal protection under the law, be denied the enjoyment of civil rights, or be discriminated against in the exercise of civil rights, on account of race, sex, religion, language, dialect, ancestry, national origin, or social status.

@@ -1,0 +1,1 @@
+Section 11. The Chief Justice is the administrative head of the state judicial system, and with the approval of the Associate Justices may appoint an administrative director to supervise the administrative operation of the state judicial system. The Chief Justice may appoint and prescribe duties of other officers and employees of the state judicial system.

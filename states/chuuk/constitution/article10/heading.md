@@ -1,0 +1,3 @@
+Article X
+
+EDUCATION AND HEALTH

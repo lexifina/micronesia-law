@@ -1,0 +1,1 @@
+Section 1. The Legislature shall provide by law for the development and enforcement of standards of environmental quality, and for the establishment of an independent state agency vested with responsibility for environmental matters.

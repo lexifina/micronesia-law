@@ -1,0 +1,1 @@
+Section 5. No appropriation bills, except those recommended by the Governor for an urgent public purpose requiring immediate passage and those providing for the continuing operation of the State Government, may be considered until the budget has been enacted.

@@ -1,0 +1,1 @@
+Section 4. In all criminal prosecutions, the accused has the right to a speedy trial, to be informed of the nature and cause of the accusation, to confront opposing witnesses, to compel attendance of supporting witnesses, and to be assisted by defense counsel.

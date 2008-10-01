@@ -1,0 +1,1 @@
+Section 4. Each Senator shall serve for a 4 year term. Each Representative shall serve for a 2 year term. The terms of all members of the Legislature shall begin at noon on the sixth Tuesday following the general election.

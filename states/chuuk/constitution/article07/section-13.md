@@ -1,0 +1,1 @@
+Section 13. The Chief Justice shall promulgate rules of evidence, and rules governing the administration of all state courts, the regulation of the judicial profession, and practice and procedure in civil and criminal matters. Judicial rules may be amended by statute.

@@ -1,0 +1,1 @@
+Section 3. No person may monopolize or attempt to monopolize, or combine or conspire with any person to monopolize, any part of trade or commerce, if such action results in the restraint thereof. The Legislature shall prescribe by statute for the implementation of this section.

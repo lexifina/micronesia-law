@@ -1,0 +1,3 @@
+Article III
+
+DECLARATION OF RIGHTS

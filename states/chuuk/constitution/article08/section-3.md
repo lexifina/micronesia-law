@@ -1,0 +1,1 @@
+Section 3. No withdrawal, in draft or other form, may be made from any bank account of the State Government if the amount in the account, after deducting the aggregate amount of all obligations outstanding against the account, is not sufficient to cover such withdrawal.

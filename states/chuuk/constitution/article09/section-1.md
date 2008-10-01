@@ -1,0 +1,1 @@
+Section 1. A governmental official is disqualified from ruling upon any matter in which the official has a personal or financial interest. Statutes and administrative rules shall be adopted elaborating upon and implementing this disqualification.
