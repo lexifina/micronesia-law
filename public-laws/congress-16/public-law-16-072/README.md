@@ -1,0 +1,7 @@
+# Public Law No. 16-72: To further amend Public Law No. 16-58, as amended by Public Law No.16-64, by amending section 4 thereof to modify the use of certain funds previously appropriated to fund public projects and social programs in the State of Pohnpei, and for other purposes. [CB 16-185| CD2]
+
+PL 16-72 · as enacted, 2011-04-19 · <https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-16-72.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Public Law No. 16-72 | [whole-act.md](whole-act.md) | 0 |  |
