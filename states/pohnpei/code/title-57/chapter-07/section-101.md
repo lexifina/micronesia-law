@@ -1,0 +1,3 @@
+§7-101. Declaratory judgments. In a case of an actual controversy within its jurisdiction, a court of competent jurisdiction, upon the filing of an appropriate pleading, may declare the rights and other legal relations of any interested party seeking such declaration, whether or not further relief is or could be sought. Any such declaration shall have the force and effect of a final judgment or decree and shall be reviewable as such. Further necessary or proper relief based on a declaratory judgment or decree may be granted, after reasonable notice and hearing, against any adverse party whose rights have been determined by such judgment.
+
+Source: S.L. No. 3L-99-95 §13-1, 7/20/95 PART B [RESERVED – JUDGMENTS] JUDICIAL PROCEEDINGS

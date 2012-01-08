@@ -1,0 +1,3 @@
+§8-121. Postponement of sale to another date or time. Whenever it is impossible to perform the sale at the appointed date and time or whenever a request in writing signed by the judgment debtor and execution creditor for a postponement of the sale to an agreed date and hour is given to the officer conducting the sale under execution, such officer shall thereupon, by public declaration, postpone the sale to the day and hour so fixed in such request and at the place originally fixed by the person for the sale. In the case of postponements, notice of each thereof must be given by public declaration by the person conducting the sale at the time and place last appointed for the sale. No other notice of postponed sale need be given.
+
+Source: S.L. No. 3L-99-95 §11-21, 7/20/95

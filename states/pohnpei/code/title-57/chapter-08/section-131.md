@@ -1,0 +1,3 @@
+§8-131. Application to other state courts with respect to orders in aid of judgment. A judgment creditor who has obtained an execution may, instead of applying to the court in which the action was tried, apply for an order in aid of judgment to another court of competent jurisdiction within the Pohnpei Judiciary, in whose jurisdiction the judgment debtor lives or has his usual place of business or employment. The court to which application is made shall then proceed with notice to the opposite party, hearing, determination, and the issuance of such order in aid of judgment as it deems just, as provided in this chapter.
+
+Source: S.L. No. 3L-99-95 §11-32, 7/20/95

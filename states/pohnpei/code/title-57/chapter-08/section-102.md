@@ -1,0 +1,3 @@
+§8-102. Judgments affecting land. A judgment adjudicating an interest in land, after the time for appeal therefrom has expired without notice of appeal being filed or after any appeal duly taken has been finally determined or after an order has been entered that an appeal shall not stay the judgment, shall operate the release or transfer the interest in land in accordance with the terms of the judgment, when a copy thereof, certified by the Clerk of the Pohnpei Supreme Court, or any judge of the Court of Land Tenure, or justice of the Supreme Court, is recorded in the Register of Titles and Interests in Land of the Court of Land Tenure.
+
+Source: S.L. No. 3L-99-95 §11-2, 7/20/95

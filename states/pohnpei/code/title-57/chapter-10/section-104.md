@@ -1,0 +1,3 @@
+§10-104. Effect of failure to tender sufficient witness fees and expenses. The failure to tender the sums specified in §§10-102 and 10-103 for transportation costs or subsistence, or any part of either or both, however, shall not exempt the witness from complying with the summons if he has the means to comply. Any question as to the sufficiency of the amount tendered shall be brought promptly to the attention of the court or official before whom appearance is required, and the same is hereby authorized to make such order as to payment of the witness fees and expenses as is just.
+
+Source: S.L. No. 3L-99-95 §10-4, 7/20/95

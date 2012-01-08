@@ -1,0 +1,3 @@
+§1-125. Manner of service outside the state. Service of summons outside the state shall be made under this title and Title 4 Chapters 1 through 9 in like manner as service within this state by any officer or person authorized to make service of summons for an action before a court of competent jurisdiction in the place where the defendant is served. An affidavit of the server shall be filed with the court issuing said summons stating the time, manner, and place of service. The court may consider the affidavit or any competent proofs in determining whether service has been properly made.
+
+Source: S.L. No. 3L-99-95 §5-5, 7/20/95

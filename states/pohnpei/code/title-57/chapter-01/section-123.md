@@ -1,0 +1,3 @@
+§1-123. Return of service or execution. Each police officer of the Division of Police and Security shall certify, and every other person, public or private, shall report under oath or affirm by endorsement on or attached to every process delivered to him for execution or service, the manner and the time of such execution or service or the reason for failure to make such execution or service. The process so endorsed, together with a statement of all fees and expenses charged, shall be returned without delay to the court or official by whom it was issued. In no event shall the process be returned later than the date specified by the issuing court or official.
+
+Source: S.L. No. 3L-99-95 §5-3, 7/20/95
