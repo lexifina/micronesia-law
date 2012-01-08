@@ -1,0 +1,3 @@
+§1-101. Declaration of policy.  The Legislature finds that the purchase, obtaining, use, and consumption of tobacco products, alcoholic beverages, and narcotic drugs are injurious to the health and welfare of the citizens of Pohnpei, are disruptive of the social fabric of our society, and are an unnecessary burden on the limited financial resources of Pohnpeian families. It is therefore the declared policy of the Legislature to discourage activities which seek to promote or encourage the purchase, obtaining, use or consumption of these commodities and to prohibit the commercial distribution of tobacco products to or on behalf of minors.
+
+Source: S.L. No. 3L-63-94 §1, 8/15/94

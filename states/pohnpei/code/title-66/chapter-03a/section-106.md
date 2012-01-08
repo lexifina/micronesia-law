@@ -1,0 +1,3 @@
+§3A-106. Application to certain places.  This chapter is not intended to regulate smoking in a private workplace which is fully open to the outside atmosphere, such as a farm field or a building construction site prior to the emplacement of the roof on the building being constructed nor is this chapter intended to regulate smoking in a retail service establishment, such as a traditional sakau bar, which is open to the outside atmosphere and for which solid walls surround not more than 20% of the structure, even though such places may be visited by nonsmokers, excepting such places open to the outside atmosphere in which smoking is prohibited by regulation issued pursuant to this chapter.
+
+Source: S.L. No. 7L-104-11 §1, 1/1/12

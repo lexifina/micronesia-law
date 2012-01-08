@@ -1,0 +1,3 @@
+§3A-101. Findings and intent.  The people of Pohnpei recognize that exposure to secondhand smoke is known to cause cancer in humans. Children are especially vulnerable to such exposure. Secondhand smoke is also a known cause of other diseases including pneumonia, asthma, bronchitis, and heart disease. Citizens are often exposed to secondhand smoke in public places and in work places, and are likely to develop chronic, potentially fatal diseases as a result of such exposure. In order to protect the health and welfare of all citizens, it is necessary to prohibit smoking in these places.
+
+Source: S.L. No. 7L-104-11 §1, 1/1/12

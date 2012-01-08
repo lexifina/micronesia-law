@@ -1,0 +1,3 @@
+§3A-105. Owners, lessees to post signs prohibiting smoking.  Owners, or in the case of a leased or rented space the lessee or other person in charge, of a place regulated under this chapter shall prohibit smoking in public places and places of employment and shall post signs prohibiting smoking as appropriate under this chapter. Signs shall be posted conspicuously at each building entrance. In the case of retail stores, restaurants, bars and other retail service establishments, signs shall be posted conspicuously at each entrance and in prominent locations throughout the place.
+
+Source: S.L. No. 7L-104-11 §1, 1/1/12

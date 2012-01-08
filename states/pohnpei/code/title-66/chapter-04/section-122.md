@@ -1,0 +1,13 @@
+§4-122. Prescriptions. 
+
+(1) Except when dispensed directly by a practitioner, other than a pharmacy, to an ultimate user, no controlled substance in Schedule II may be dispensed without the written prescription of a practitioner.
+
+(2) In emergency situations, as defined by rule of the Director, Schedule II drugs may be dispensed upon oral prescription of a practitioner reduced promptly to writing and filled by the pharmacy. Prescriptions shall be retained in conformity with the requirements of §4-120. No prescription for a Schedule II substance may be refilled.
+
+(3) Except when dispensed directly by a practitioner, other than a pharmacy, to an ultimate user, a controlled substance included in Schedules III or IV, which is a prescription drug, shall not be dispensed without a written or oral prescription of a practitioner. The prescription shall not be filled or refilled more than six months after the date thereof or be refilled more than five times, unless renewed by the practitioner.
+
+(4) A controlled substance included in Schedule V shall not be distributed or dispensed other than for a medical purpose.
+
+(5) No prescription for a controlled substance shall be filled or refilled with more than a 30-day supply, based upon the dosage units contained in the prescription.
+
+Source: S.L. No. 2L-198-91 §22, 6/27/91
