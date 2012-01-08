@@ -1,0 +1,3 @@
+§3-105. Responsibility of transferee. The transferee shall be personally responsible for any property received by him under any order issued pursuant to this chapter, and any party claiming an interest in such property may, after demand, maintain an action against the transferee; PROVIDED, that no such action shall be brought against the transferee after two years from the date of the order under which the property was transferred to him.
+
+Source: TTC §343(e) (1966); 13 TTC §55 (1970); 13 TTC §55 (1980) TITLE 50 [RESERVED] (Next page is Title 51, Division VII divider) DIVISION VII OF THE CODE FAMILY TITLE 51 --- TITLE 55 Division Cover Page titlE 51 Domestic relations Title Cover Page

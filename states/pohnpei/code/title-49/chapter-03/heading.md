@@ -1,0 +1,1 @@
+CHAPTER 3 PROBATE OF SMALL ESTATES Section 3-101 Complaints for transfer of decedent’s personalty to beneficiaries and creditors; when authorized 3-102 Complaints for transfer of decedent’s personalty to beneficiaries and creditors; contents 3-103 Order of transfer; procedure if transfer withheld 3-104 Procedure if debts exceed value of assets 3-105 Responsibility of transferee
