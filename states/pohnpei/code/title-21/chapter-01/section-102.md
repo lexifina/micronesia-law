@@ -1,0 +1,3 @@
+§1-102. Commission created. There is hereby established in and for the state of Pohnpei an entity to be known as the Pohnpei State Sports Commission (hereinafter referred to as Commission) which Commission shall exist and operate with the vision and solely for the purpose specified in §1-101. The Commission shall be attached to the Office of Social Affairs for administrative and support services, which Office shall provide office and meeting space for the Commission and shall accord the Commission reasonable use of its administrative, technical, and clerical personnel.
+
+Source: S.L. No. 4L-86-98 §2, 11/18/98; S.L. No. 5L-14-00 §3-43, 10/1/00

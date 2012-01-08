@@ -1,0 +1,3 @@
+§1-106. Commission finances. Commissioners shall be compensated for meetings at the rates established by the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded by Pohnpei law, when actually attending meetings of the Commission, except that those members who are government employees shall receive, instead, their regular salaries while performing functions of the Commission. Commissioners shall also receive travel expenses and per diem at Pohnpei Government rates when these amounts would be payable to Pohnpei Government employees in the same circumstances.
+
+Source: S.L. No. 4L-86-98 §6, 11/18/98
