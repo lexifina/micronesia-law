@@ -1,0 +1,3 @@
+§2-111. Immediate possession procedure; possession after proceedings commenced. In the event the government determines that it requires immediate possession of the property after eminent domain proceedings have been commenced, but before the rights of the parties and the amount of compensation are determined, a declaration of taking shall be filed in the court and a sum of money that is considered to be fair value of the land shall be paid to the Clerk of the Pohnpei Supreme Court. A summons shall be issued and served in the same manner as the summons in §2-106, that shall refer to the original summons already served on the defendants, and shall otherwise conform to the requirements set out in §2-110.
+
+Source: TTC §1310 (1966); 10 TTC §58 (1970); 10 TTC §58 (1980)

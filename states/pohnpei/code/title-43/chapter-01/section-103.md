@@ -1,0 +1,3 @@
+§1-103. Interest in improvements. In acquiring any interest in real property the government will acquire at least an equal interest in all building structures or other improvements located on that real property which will be removed or which will be adversely affected by the completed project.
+
+Source: P.L. No. 6-71 §1; 67 TTC §453 (1980)

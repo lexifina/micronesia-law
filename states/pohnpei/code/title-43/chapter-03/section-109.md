@@ -1,0 +1,3 @@
+§3-109. Administration. In order to prevent unnecessary expense and duplication of functions, and to promote uniform and effective administration of relocation assistance programs for displaced persons, the agency with the approval of the Governor may enter into contracts with any individual, firm, association or corporation for services in connection with those programs, or may carry out its functions under this chapter through any federal agency or any department or instrumentality of the state of Pohnpei or its political subdivisions having an established organization for conducting relocation assistance programs.
+
+Source: P.L. No. 6-71 §2; 67 TTC §509 (1980)
