@@ -1,0 +1,3 @@
+§1-108. Legislature Administrative Manual: contents. The Manual shall be arranged in parts, each of which shall contain in orderly sequences chapters on specific subjects for which there is a need for organization and instruction. A table of contents will set forth in detail the subjects to be contained in the respective parts and chapters. Chapters for inclusion in the Manual will be developed on the basis of need or direction of the Pohnpei Legislature. When revisions become necessary the entire chapter or appropriate pages shall be rewritten and substituted for the existing chapter.
+
+Source: D.L. No. 4L-39-76 §2(B)(1), 7/1/76

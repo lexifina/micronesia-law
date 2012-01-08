@@ -1,0 +1,3 @@
+§2-107. Notice to witnesses. Service of a subpoena requiring the attendance of a person or the production of evidence shall be made at least five days prior to the date of the investigative hearing unless a shorter period of time is authorized by majority vote of all members of the committee in a particular instance when, in their opinion, the giving of five days notice is not practical; PROVIDED that if a shorter time is authorized, the person subpoenaed shall be given reasonable notice of the hearing, consistent with the particular circumstances involved.
+
+Source: S.L. No. 2L-157-90 §7, 7/18/90

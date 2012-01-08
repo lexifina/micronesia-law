@@ -1,0 +1,7 @@
+§9-109. Buildings and grounds improvement fund: budget authorization; administration. 
+
+(1) There is hereby established a Legislature buildings and grounds improvement fund for the purpose of financing the construction, improvement, renovation, and repair of Pohnpei Legislature buildings and such other buildings as shall be under the jurisdiction and control of the Legislature, and the landscaping and improvement of their surrounding grounds.
+
+(2) There is hereby authorized for appropriation from the general fund of Pohnpei a sum or sums to be determined from time to time in the Comprehensive Budget Act for the Legislature buildings and grounds improvement fund. The sum herein authorized for appropriation shall be administered and expended by the Chief of Administration and Budget of the Legislature, upon the direction of the Speaker thereof, solely for the purposes specified in Subsection (1) of this section. The Chief of Administration and Budget shall submit an annual report on or before October 15 each year on all matters relating to the administration and expenditure of the sum appropriated under the authorization of this section for the previous fiscal year. The balance of all sums appropriated under the authorization of this section, shall remain available until fully expended.
+
+Source: D.L. No. 4L-37-76 §§1 & 2, 5/24/76; D.L. No. 4L-136-78 §32, 3/27/78; S.L. No. 2L-98-81 §1, 11/24/81; S.L. No. 5L-48-01 §6, 9/05/01

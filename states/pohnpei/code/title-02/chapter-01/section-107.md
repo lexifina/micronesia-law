@@ -1,0 +1,3 @@
+§1-107. Legislature Administrative Manual: established. There is hereby established a Legislature Administrative Manual, hereinafter referred to as “Manual,” which shall be adopted by resolution of the Pohnpei Legislature and shall incorporate all provisions for the administration and management of the Legislature staff. The Manual shall provide the means for disseminating in an orderly fashion, instructions from the Legislature relative to the management and administration of the Legislature staff, its organization, delegations of authority, policies, and certain procedures of general and continuous application affecting the day-to-day administrative operations of the Legislature staff.
+
+Source: D.L. No. 4L-39-76 §2(B), 7/1/76

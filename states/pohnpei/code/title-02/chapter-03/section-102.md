@@ -1,0 +1,3 @@
+§3-102. Appointment of the Commissioner for Legislative Investigations. The office of Legislative Investigations shall be under the leadership and guidance of the Commissioner for Legislative Investigations, who shall be appointed by the Speaker of the Legislature with the advice and consent of a majority of the total membership of the Legislature. In making his selection, the Speaker shall be mindful of the need to obtain the services of an expert in the field of government investigations whose previous work experiences indicate that the individual maintains a high degree of professionalism in his investigatory activities.
+
+Source: S.L. No. 3L-83-94 §2, 11/24/94

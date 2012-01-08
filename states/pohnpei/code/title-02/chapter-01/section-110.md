@@ -1,0 +1,5 @@
+§1-110. Legislature Administrative Manual: Chief of Administration and Budget’s responsibilities. The Chief of Administration and Budget shall be responsible for the coordination and general control over Manual issuances. The Chief of Administration and Budget shall, upon direction of the Speaker and in consultation with the Legislative Clerk and the Legislative Counsel, be responsible for incorporating in the Manual all matters pertaining to the same, and shall, upon direction of the Speaker, cause the Manual and further issuances to be printed and distributed to such persons and agencies as the Speaker deems necessary, or as may be designated by the Pohnpei Legislature.
+
+Source: D.L. No. 4L-39-76 §2(B)(4), 7/1/76 Notes: 1. D.L. No. 4L-39-76 §1, 7/1/76 repealed PDC §1-4, as amended by D.L. No. 3L-58-73, 5/29/73. 2. D.L. No. 4L-39-76 §3, 7/1/76 repealed PDC §1-11, as amended by D.L. No. 3L-58-73, 5/29/73. 3. D.L. No. 4L-39-76
+
+§4, 7/1/76 repealed D.L. No. 3L-84-74, 6/29/74 relating to staff training and research.
