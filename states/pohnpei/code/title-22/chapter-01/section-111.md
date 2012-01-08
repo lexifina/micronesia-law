@@ -1,0 +1,11 @@
+§1-111. Investigation and decision by Review Board. 
+
+(1) Within 60 calendar days following receipt of a referral or removal from the Chief of the Division of Historic Preservation pursuant to §1-110, the Review Board shall conduct a study of the undertaking and its potential effect on the historic properties of the state.
+
+(2) If the Board shall find that the proposed undertaking may have a significant effect on historic properties, the Review Board shall immediately initiate consultations with the project administrator, the landowner, and any local authorities having concerns or interests in the proposed undertaking, and shall take into account local customs, interests, and desires with respect to the proposed undertaking. The goal of the consultations shall be to maximize the beneficial effects or to eliminate or mitigate any harmful effects to the historic property. The economic, social and other benefits to be gained from the activity shall be balanced and weighed equally against this goal.
+
+(3) At the conclusion of its investigations and consultations, but not later than 60 calendar days following the referral or removal of the matter from the Chief of the Division of Historic Preservation, the Review Board shall issue its decision to approve or deny the application and shall notify the applicant in writing of its decision. Upon the issuance of an affirmative decision of the Review Board, the Chief of the Division of Historic Preservation shall issue a historic preservation permit to the applicant to proceed; PROVIDED that such permit shall include such conditions as the Review Board deems necessary to protect or to minimize the adverse effects on the historic properties of the state while allowing the undertaking to proceed.
+
+(4) If no Board decision has been rendered within 60 calendar days following the referral or removal of an application pursuant to §1-110, the applicant shall be entitled to the issuance of a permit in like manner as if the Review Board had rendered a decision in the applicant’s favor; PROVIDED, HOWEVER, that for good cause, and upon majority vote of the full membership of the Review Board, without regard to vacancies, the Review Board may extend its period of review for an additional period, not to exceed 60 additional calendar days.
+
+Source: S.L. No. 5L-88-02 §11, 1/11/03

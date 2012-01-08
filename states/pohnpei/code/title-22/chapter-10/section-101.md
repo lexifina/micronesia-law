@@ -1,0 +1,15 @@
+§10-101. Traditional Affairs Fund: administration; authorization for appropriation. 
+
+(1) There is hereby established a Pohnpei Traditional Affairs Fund, hereinafter referred to as “fund,” for the purpose of supporting the traditions and culture of this state, and for the support of traditional leaders in affairs of state and government.
+
+(2) The paramount chiefs of the state shall collectively appoint a representative to serve at their pleasure or for a term as they shall specify and record with the Governor, or his designee, for the purpose of forwarding requests for the use of the fund created by Subsection (1) of this section.
+
+(3) Prior to the expenditure of any sums under the fund, the paramount chiefs shall meet and agree upon procedures for the formalization and submission through their representative of requests for the use of the fund. Such procedures shall be established in writing with the approval of the paramount chiefs noted thereon and filed with the Governor. The procedures may be amended in the same manner as their establishment. The Governor shall provide coordinating services for the traditional leaders in their activities pursuant to this subsection.
+
+(4) Requests shall be prepared and submitted by the designated representative on such form or forms prescribed by the Director of the Department of Treasury and Administration, and shall state in specifics the amount requested and the purposes for which the request is made. Requests may only be made for purposes prescribed by Subsection (1) of this section.
+
+(5) The request shall be submitted to the Governor who shall, upon concurrence of the Education and Cultural Affairs Committee of the Pohnpei Legislature, grant award of the request or shall return the request stating the reasons, whether substantive or procedural, for its denial. The Education and Cultural Affairs Committee shall be deemed to concur in the award of a request if it has not taken action thereon within 15 days following receipt of the request from the Governor.
+
+(6) There is hereby authorized for appropriation from the general fund of Pohnpei a sum or sums to be determined annually in the Comprehensive Budget Act for the financing of the fund established by Subsection (1) of this section. The fund may also be financed by private donations and from authorized grant funds pursuant to the Financial Organization and Management Act, Title 11 Chapter 2. The Chief shall report annually on or before October 15 to the Governor and Legislature on all matters relating to the administration and expenditure of the fund for the previous fiscal year. All appropriated sums from the general fund shall remain available until fully expended.
+
+Source: S.L. No. 2L-71-81 §§1 – 3, 6/30/81; S.L. No. 5L-14-00 §3-25, 10/1/00 TITLES 23-25 [RESERVED] CUSTOMS, TRADITIONS, & HISTORIC PRESERVATION (Next page is Title 26, Division III divider) DIVISION III OF THE CODE NATURAL RESOURCES TITLE 26 --- TITLE 30 Division Cover Page titlE 26 Conservation and resources Title Cover Page

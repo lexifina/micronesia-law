@@ -1,0 +1,3 @@
+§1-112. Work in progress. Notwithstanding the issuance of a clearance under §1-110 or the granting of a permit under §1-111, in the event that it is determined that a registered historic property or any other property which by its nature is clearly recognized as historic property is likely to be affected by the continuation of any undertaking specified in said sections, the project administrator shall immediately notify the Chief of the Division of Historic Preservation thereof. Work on the undertaking affecting that property shall immediately cease and shall not be commenced again until a clearance is issued or a permit granted therefor pursuant to the procedures specified in §§1-110 and 1-111.
+
+Source: S.L. No. 5L-88-02 §12, 1/11/03
