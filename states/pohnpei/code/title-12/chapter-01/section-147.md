@@ -1,0 +1,3 @@
+§1-147. Disclosure of taxes due. Any taxpayer who sells his business or stock of goods, or quits his business, shall obtain from the Commissioner a certificate of clearance or notice of tax status for presentation to his purchaser, successor or assigns, hereinafter cumulatively referred to as “purchaser.” Any purchaser of a business or stock of goods shall obtain from the seller or the Commissioner a certificate of clearance or notice of tax status issued by the Commissioner. Failure by a taxpayer or purchaser to obtain such certificate of clearance or notice of tax status shall be considered an attempt to evade or defeat taxes due punishable under §1-156.
+
+Source: S.L. No. 4L-35-97 §8-1, 5/10/97

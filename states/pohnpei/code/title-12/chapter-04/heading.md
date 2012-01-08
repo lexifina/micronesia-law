@@ -1,0 +1,1 @@
+CHAPTER 4 HOTEL AND VEHICLE RENTAL TAX Section 4-101 Definitions 4-102 Imposition of hotel tax 4-103 [Reserved] 4-104 Tax to be stated and charged separately from rent 4-105 Certificate of registration 4-106 Returns and payment

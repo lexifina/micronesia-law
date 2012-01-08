@@ -1,0 +1,3 @@
+§7-104. Transition. Nothing in this chapter shall be interpreted to authorize any person to receive a refund of any portion of a business license fee that was paid prior to the effective date of this chapter. Nothing in this chapter shall be interpreted to authorize any person not to pay a business license fee such person was required to pay prior to the effective date of this chapter.
+
+Source: S.L. No. 6L-103-07 §4, 8/2/07 TITLES 13 – 15 [RESERVED] (Next page is Volume II, Title 16, Division II divider) DIVISION II OF THE CODE HUMAN RESOURCES TITLE 16 --- TITLE 25 Division Cover Page titlE 16 Law and public safety Title Cover Page
