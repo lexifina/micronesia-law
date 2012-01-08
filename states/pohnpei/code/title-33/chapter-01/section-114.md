@@ -1,0 +1,3 @@
+§1-114. Employee rights and responsibilities. Within 120 days following its organization, the Board shall establish rules and regulations governing the selection, promotion, performance evaluation, demotion, suspension, dismissal, and other disciplinary rules for employees for the Authority. Employees of the Authority shall be eligible to participate in any health insurance plan, life insurance plan, retirement fund, and workers’ compensation insurance available to Pohnpei Government employees. The Authority shall contribute to such programs on the basis of periodic billings as determined by the governing authorities thereof.
+
+Source: S.L. No. 4L-93-99 §2-12, 12/25/98

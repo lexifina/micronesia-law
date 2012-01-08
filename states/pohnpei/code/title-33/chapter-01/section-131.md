@@ -1,0 +1,3 @@
+§1-131. Procurement, accounting, and personnel rules applicable during transition. Until such time as procurement and personnel rules and regulations are adopted by the Board, those procurement and personnel rules and regulations now applicable to the PTA agency and the employees working for the PTA agency and not inconsistent with this chapter shall be applicable to the Authority. The Financial Organization and Management Act, Title 11 Chapter 2, as amended, shall apply to the Authority until §1-112 is fully complied with as certified by the Pohnpei Auditor.
+
+Source: S.L. No. 4L-93-99 §3-7, 12/25/98

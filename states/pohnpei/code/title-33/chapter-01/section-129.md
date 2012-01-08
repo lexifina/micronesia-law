@@ -1,0 +1,3 @@
+§1-129. Assumption of functions by Authority. On the date the Authority assumes its functions under this chapter, the Board of Directors or the Commissioner of Transportation, as the case may be, shall immediately commence to employ necessary personnel for the operation of the Authority or contract for the necessary services. The Authority shall for one year offer continuing employment to all employees of the PTA agency assigned to full-time duties coming under the jurisdiction of the Authority at levels no less than they received from said agency and with recognition of accumulated leave, and of seniority with the government in the personnel system established by the Authority.
+
+Source: S.L. No. 4L-93-99 §3-5, 12/25/98

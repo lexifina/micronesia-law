@@ -1,0 +1,11 @@
+§1-111. Procurement code. Within 120 days following its organization, the Board, by regulation, shall provide for a comprehensive procurement code for the Authority which shall provide for cost- effective means to obtain services, supplies and materials and construction contracts at competitive prices and which shall ensure all business entities within the state are accorded reasonable notice and fair opportunity to engage in business activities with the Authority. Among other things, the procurement code shall provide that:
+
+(1) The purchase of all supplies and materials, and the construction of all works, when the expenditure exceeds $25,000, shall be let, by contract, to the lowest responsible bidder. Notice requesting bids shall be published at least ten days before bids are received. The Board may reject any and all bids and readvertise at its discretion.
+
+(2) If, after rejecting bids for materials and supplies, the Board determines that, in its opinion, the materials and supplies may be purchased at a lower price in the open market, the Board may authorize such purchases without further observance of the provisions requiring contracts, bids or notices. The Authority, as an instrumentality of the Pohnpei Government, shall utilize the services of the government purchasing agencies wherever practical.
+
+(3) In case of major public calamity, or whenever it is in the interest of safety or necessary to keep the roads and highways open and passable, the Board may determine that the public interest and necessity demand the immediate expenditure of funds to keep the roads and highways open to traffic or in a safe condition, and thereupon authorize the expenditure of such sums as may be needed without the observation of the provisions requiring contracts, bids or notices.
+
+(4) No member of the Board shall have any financial interest, direct or indirect, in any contract awarded by the Board. This provision shall not apply to contracts awarded to a corporation in which such member does not hold or maintain a managerial or professional position or relationship or in which he owns less than five percent (5%)of the entire capital stock. The procurement code shall establish procedures for the timely verification of this restriction by its general counsel.
+
+Source: S.L. No. 4L-93-99 §2-9, 12/25/98
