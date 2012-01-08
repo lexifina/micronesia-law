@@ -1,0 +1,3 @@
+§16-107. Existing cards.  Any person subject to §16-106, in possession of, or having authority over a credit or cash flow card described in §16-106 or after the effective date of this part [May 31, 2000], shall, within ten working days following the effective date of this part, render the card unusable and deliver the card, so nullified, to the Governor along with a written report of the steps which have been taken to notify the issuer of the card that the card has been canceled. Said report shall also include a description of all steps being taken to close any lines of credit or debit authority and any outstanding charges that remain on the account or line of credit which the card represents.
+
+Source: S.L. No. 5L-03-00 §2, 5/31/00

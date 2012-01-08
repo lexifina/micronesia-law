@@ -1,0 +1,3 @@
+§1-106. Intoxication.  An act committed while in a state of voluntary intoxication is no less criminal by reason thereof, and intoxication does not, in itself, constitute a physical or mental disease, disorder or defect. When recklessness establishes an element of the offense and the defendant, due to voluntary intoxication, was unaware of the risk that he would have been aware of had he been sober, such unawareness is immaterial. Intoxication means a disturbance of mental or physical capabilities resulting from the introduction of any substance into the body.
+
+Source: S.L. No. 3L-89-95 §1-11, 4/6/95

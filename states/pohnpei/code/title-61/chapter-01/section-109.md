@@ -1,0 +1,3 @@
+§1-109. Discretion as to prosecution of crimes for which there is a satisfactory customary settlement.  Prior to any subsequent prosecution of an offender under the crimes of Pohnpei, the pertinent officers of the Attorney General’s office shall first ascertain whether there has been a customary settlement with respect to the offensive action and whether the victim or victims of the offensive action are satisfied therewith. If such findings are made, the Attorney General may, in his discretion, close the case and abstain from any further action relative thereto.
+
+Source: S.L. No. 3L-89-95 §1-17, 4/6/95

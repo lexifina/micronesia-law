@@ -1,0 +1,3 @@
+§4-102. Criminal conspiracy.  If two or more persons conspire either to commit any crime against Pohnpei, and one or more of such parties do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be guilty of conspiracy, and upon conviction thereof shall be imprisoned for a period of not more than three years, or fined not more than $1,000, or both such fine and imprisonment. If, however, the offense, the commission of which is the object of conspiracy, carries a penalty less than that herein prescribed, the punishment for such conspiracy shall not exceed the maximum penalty provided for such offense.
+
+Source: S.L. No. 3L-89-95 §2-5, 4/6/95

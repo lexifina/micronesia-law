@@ -1,0 +1,3 @@
+§10-113. Impersonating a public servant.  Every person who willfully and unlawfully impersonates a public servant by falsely pretending to be a public servant with purpose to induce another to submit to such pretended official authority or otherwise to act in reliance upon that pretence to his prejudice, shall be guilty of impersonating a public servant and upon conviction thereof shall be imprisoned for a period of not more than two years or fined not more than $500, or both such fine and imprisonment. For purposes of this section, “public servant” includes officers and employees of the local governments of Pohnpei.
+
+Source: S.L. No. 3L-89-95 §3-9, 4/6/95

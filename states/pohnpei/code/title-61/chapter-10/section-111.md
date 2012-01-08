@@ -1,0 +1,3 @@
+§10-111. Concealment, removal or alteration of record or process.  Every person who willfully and unlawfully conceals, removes, takes away, mutilates, obliterates, alters or destroys, or attempts to do so, or willfully takes and carries away any record or process in or from the executive branch, any court, adjudicatory body, the Legislature or official authorized to issue or serve the same, shall be guilty of tampering with record or process, as the case may be, and upon conviction thereof, shall be imprisoned for a period of not more than three years or fined not more than $1,000, or both such fine and imprisonment.
+
+Source: S.L. No. 3L-89-95 §3-1, 4/6/95

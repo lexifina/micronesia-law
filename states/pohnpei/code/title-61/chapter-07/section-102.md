@@ -1,0 +1,3 @@
+§7-102. Incest.  Every person who knowingly and unlawfully engages in sexual intercourse, contact or penetration with another, as defined in §5-142(3), of a relationship of blood or adoption of a grandparent, parent, brother or sister of the full or half blood, or children and their children of said person shall be guilty of incest, and upon conviction thereof shall be imprisoned for a period of not more than three years or fined not more than $3,000, or both such fine and imprisonment; PROVIDED, HOWEVER, that the burden of proof of such relationship or affinity shall rest with the prosecution.
+
+Source: S.L. No. 3L-89-95 §8-3, 4/6/95 CRIMINAL LAW

@@ -1,0 +1,3 @@
+§4-101. Criminal attempt.  Every person who unlawfully attempts to commit any of the crimes as prescribed by the laws of Pohnpei which attempt falls short of actual commission of the crime itself, shall be guilty of attempt to commit said crime, and where no separate provision is made by law for punishment upon conviction of such attempt, a person so convicted shall be punished by imprisonment for a term not exceeding half of the maximum term of imprisonment for the offense attempted, or by a fine in an amount not exceeding half of the fine which may lawfully be imposed upon conviction for commission of the offense attempted, or by both such fine and imprisonment.
+
+Source: S.L. No. 3L-89-95 §2-1, 4/6/95

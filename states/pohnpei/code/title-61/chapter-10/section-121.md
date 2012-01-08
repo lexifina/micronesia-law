@@ -1,0 +1,3 @@
+§10-121. Compounding a crime.  Every person who, having knowledge that a crime has been, is being, or is about to be committed, unlawfully, knowingly, and willfully agrees for a reward not to report the crime to the appropriate authority shall be guilty of compounding a crime, and upon conviction thereof shall be imprisoned for a period of not more than one year or fined not more than $500, or both such fine and imprisonment. This section shall not be construed to prevent any person from offering or accepting in good faith a customary settlement in relation to his offensive action or that of any other person.
+
+Source: S.L. No. 3L-89-95 §2-3, 4/6/95
