@@ -1,0 +1,3 @@
+§3-107. Civil penalties. Any seller of an item imported into Pohnpei who shall violate any of this chapter or any regulation issued hereunder may be required to void the sale and refund the price paid by the buyer, or refund the illegal portion of the price paid by the buyer. In addition thereto, the seller may be required to pay treble the amount of the illegal part of the price to the buyer. In the event the buyer shall not request any refund of damages, the Commission may order the seller to pay the illegal part of the price to the Commission. All funds collected by the Commission shall be deposited in the general fund of Pohnpei.
+
+Source: D.L. No. 3L-72-73 §8, 10/30/73

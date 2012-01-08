@@ -1,0 +1,3 @@
+§5-112. Violations. Any person who, by oneself, or by the person’s servant or agent, or as the servant or agent of another person, knowingly violates any provision of this chapter shall be guilty of a misdemeanor punishable by imprisonment of not more than 30 days, a fine of not more than $200, or both such imprisonment and fine; PROVIDED that, for conviction of a third or subsequent offense, the punishment shall be imprisonment of not less than 3 days or more than 30 days, or a fine of not less than $100 or more than $500, or both such imprisonment and fine.
+
+Source: S.L. No. 6L-80-06 §12, 1/31/07

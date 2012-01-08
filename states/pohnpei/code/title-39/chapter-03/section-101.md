@@ -1,0 +1,3 @@
+§3-101. Purpose. The people of Pohnpei are heavily reliant upon imported items, including basic foodstuffs, fuel, building materials, and supplies necessary for earning a living. The price charged to the ultimate consumer for the imported items often rises too many times the import cost, especially in time of shortage. The market pricing system has proven inadequate to control this exploitation of the public because of the irregularity of shipping and the lack of supply sources. The purpose of this chapter is to protect the people of Pohnpei from such exploitation by imposing price controls on the sale of imported items in Pohnpei and providing for enforcement of the price controls.
+
+Source: D.L. No. 3L-72-73 §2, 10/30/73

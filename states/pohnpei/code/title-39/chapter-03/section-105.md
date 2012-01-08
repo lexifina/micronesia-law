@@ -1,0 +1,11 @@
+§3-105. Price Control Commission. 
+
+(1) There is hereby established a Price Control Commission in Pohnpei to be composed of five members appointed by the Governor with the advice and consent of the Legislature. The members appointed shall be citizens residing in Pohnpei State. The membership of the Commission shall not include more than one person having a controlling ownership or a managerial interest in one or more businesses in Pohnpei. The Administrator for the Office of Economic Affairs shall be an ex-officio member of the Commission, without the right to vote.
+
+(2) The term of office of the appointed members of the Commission shall be two years. Appointments to fill vacancies shall be for the remainder of the unexpired term.
+
+(3) At the first meeting and annually thereafter the Commission shall elect a Chairman from among its appointed members. Meetings shall be held not less than every 60 days and may be called by the Chairman, three of the appointed members, or the Governor. A quorum of the Commission shall be four appointed members, and the assent of three members present and voting shall be required for all decisions requiring a vote. The Commission shall adopt by-laws for its own government.
+
+(4) Members of the Commission shall be compensated at rates established by the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded, when actually attending meetings of the Commission; PROVIDED, that those members who are government employees shall instead receive their regular salaries while performing functions of the Commission. The Office of Economic Affairs shall offer technical assistance to the Commission and provide records within its possession as requested by the Commission. The Attorney General shall serve as counsel for the Commission. The Governor shall provide clerical and administrative assistance as requested by the Commission. The Commission is authorized to hire its own staff to the extent that if additional assistance is required, and may seek assistance from any other source.
+
+Source: D.L. No. 3L-72-73 §6, 10/30/73; D.L. No. 4L-154-78 §1, 9/14/78; S.L. No. 1L-71-86 §4-8, 4/1/86; S.L. No. 5L-14-00 §3-15, 10/1/00

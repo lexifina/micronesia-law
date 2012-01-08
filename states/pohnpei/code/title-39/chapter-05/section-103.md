@@ -1,0 +1,3 @@
+§5-103. Systems of weights and measures. The customary system of weights and measures used in the United States of America and the metric system of weights and measures are jointly recognized and either one or both of these systems shall be used for all commercial and governmental purposes in the state of Pohnpei. The definitions of basic units of weights and measures, the tables of weights and measures and weights and measures equivalents as published by the National Bureau of Standards of the United States of America, unless some other definition is promulgated by the Administrator, are recognized and shall govern weighing and measuring equipment and transactions in the state of Pohnpei.
+
+Source: S.L. No. 6L-80-06 §3, 1/31/07

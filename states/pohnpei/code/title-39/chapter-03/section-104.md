@@ -1,0 +1,3 @@
+§3-104. Limitation on price. In the instance of the first sale within Pohnpei of any item that has been imported from outside the state, the seller may include the following items in his price to the buyer, and no others: cost of the goods; actual charges for inland and overseas freight; insurance; import taxes or duties; and a sum not greater than fifty percent (50%) of the cost of the goods. In the instance of a second or subsequent sale of the same item within Pohnpei, the subsequent seller shall not charge a price to the buyer which is more than twenty percent (20%) greater than the price paid or promised to be paid by the seller for the item.
+
+Source: D.L. No. 3L-72-73 §5, 10/30/73

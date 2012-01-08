@@ -1,0 +1,3 @@
+§5-105. Technical requirements for weighing and measuring devices. The specifications, tolerances and other technical requirements for weighing and measuring devices as adopted by the United States’s National Conference on Weights and Measures and published in the United States National Bureau of Standards Handbook 44, ‘Specifications, Tolerances and Other Technical Requirements for Commercial Weighing and Measuring Devices’, and supplements thereto or revisions thereof, shall apply to weighing and measuring devices in the state of Pohnpei, except insofar as modified or rejected by regulation.
+
+Source: S.L. No. 6L-80-06 §5, 1/31/07

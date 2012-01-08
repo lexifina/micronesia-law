@@ -1,0 +1,3 @@
+§5-114. Presumptive evidence. Whenever there shall exist a weight or measure or weighing or measuring device in or about any place in which or from which buying or selling is commonly carried on, there shall be a rebuttable presumption that such weight or measure or weighing or measuring device is regularly used for the business purposes of that place.
+
+Source: S.L. No. 6L-80-06 §14, 1/31/07
