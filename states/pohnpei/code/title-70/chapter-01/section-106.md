@@ -1,0 +1,3 @@
+§1-106. Area and age restrictions. The owner or operator of any commercial bingo establishment in Pohnpei State shall physically separate, by ropes, wall, fence or other physical barrier sufficient to prevent bodily contact between the players and nonparticipants in the bingo activities, the area in which bingo activities are conducted from access by the general public. No person shall enter the restricted area who is under the age of 18 years whether or not he is accompanied by a parent or guardian of 18 years of age or older. No person shall participate in the bingo establishment who is not within the restricted area so specified.
+
+Source: D.L. No. 3L-130-75 §6, 6/3/75
