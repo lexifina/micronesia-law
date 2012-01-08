@@ -1,0 +1,3 @@
+§5-104. Commission powers regarding information.  The Governor may request any information and data that the Commission deems necessary. Requests for information shall be specific and detailed and shall establish a reasonable time frame for the production of the information requested. The Commission shall establish operational rules for the safeguarding of any confidential information or materials received by the Commission, to include disciplinary actions and procedures regarding the negligent or intentional release of such confidential information or materials.
+
+Source: S.L. No. 4L-05-96 §4, 3/14/96

@@ -1,0 +1,3 @@
+§6-103. Construction.  The Pohnpei Development Plan adopted by §6-102 shall be deemed a planning document for the purpose of guiding Pohnpei Government officials and private sector developers as to the major goals and strategies for the development of Pohnpei. Project descriptions, detailed plans, implementation schedules, and initiation dates that are not already provided in the Pohnpei Development Plan, inclusive of subsequent amendments thereto, and authorized funding levels shall be as provided in future authorization laws of Pohnpei, and the annual Comprehensive Budget Act of this state.
+
+Source: S.L. No. 4L-28-97 §2, 2/18/97
