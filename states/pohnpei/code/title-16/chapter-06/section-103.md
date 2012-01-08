@@ -1,0 +1,3 @@
+§6-103. Proof.  Any person requesting issuance of an identification card must present to the issuing officer proof of his name, age, birth date and place of birth. It shall be sufficient for the purposes of this section if the applicant presents a valid and proper birth certificate, issued by any authorized personnel of the Pohnpei Government or of any other state, territory or nation, containing the above information, or a copy of such a certificate. If an applicant is unable to produce a valid birth certificate or copy thereof, the Chief may accept as proof of the above information any other evidence, oral or written, that satisfies him as to the validity of the information.
+
+Source: PDC §1-202(c), 3/71; S.L. No. 5L-14-00 §3-51, 10/1/00

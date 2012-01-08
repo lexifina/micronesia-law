@@ -1,0 +1,3 @@
+§1-104. Personnel and officers of the Division.  The Division shall consist of a Chief of the Division of Police and Security, such captains, lieutenants, sergeants, patrolmen, and other employees as the Chief of Police and Security may deem advisable within the limits of the funds appropriated for the Division; PROVIDED, HOWEVER, that the number of captains, lieutenants, and sergeants shall not exceed twenty-five percent (25%) of the total number of members of the Division exclusive of the Chief, but this requirement shall not be interpreted so as to require the demotion of any member of the Division of Police and Security existing immediately prior to the effective date of this chapter [November 22, 1999].
+
+Source: S.L. No. 4L-139-99 §4, 11/22/99

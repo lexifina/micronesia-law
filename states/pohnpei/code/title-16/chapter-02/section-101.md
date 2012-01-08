@@ -1,0 +1,3 @@
+§2-101. Legislative findings and intent.  The Legislature is cognizant of Article 7 §§6 & 7 of the Pohnpei Constitution, which authorizes the state government to delegate aspects of the administration of public safety to the local governments of this state. The Legislature further recognizes the importance of local government involvement in the maintenance of public safety within their respective communities. It is therefore the intent of this legislation to authorize the execution of joint law enforcement agreements between the state government and the local governments of this state, and to provide for an annual subsidy to the local governments for their assistance in the enforcement of state laws under such agreements.
+
+Source: S.L. No. 4L-119-99 §1, 7/23/99

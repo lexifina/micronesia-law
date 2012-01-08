@@ -1,0 +1,1 @@
+CHAPTER 4 FISH AND WILDLIFE DIVISION Section 4-101 Division established 4-102 Definitions 4-103 Division duties and responsibilities 4-104 Officers’ duties 4-105 Police powers 4-106 Summons and citation 4-107 Failure to obey a summons or citation 4-108 Regulations authorized 4-109 Sharing of personnel and resources

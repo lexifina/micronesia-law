@@ -1,0 +1,3 @@
+§1-114. Commission established.  There is hereby established in and for Pohnpei State, a Pohnpei Police Commission, hereinafter referred to as “Commission,” which shall be composed of five members appointed by the Governor with the advice and consent of the Legislature. Three Commission members shall be appointed from the Pohnpei Government, and two members shall be appointed from the private sector. The Commission shall function in an advisory manner only, and shall meet and advise pursuant to those rules and regulations the Commission shall choose to promulgate.
+
+Source: S.L. No. 4L-139-99 §15, 11/22/99

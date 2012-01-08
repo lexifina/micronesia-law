@@ -1,0 +1,3 @@
+§3-102. Responsibility.  The responsibility of the Emergency Service Unit is to provide professional training within the Department of Public Safety to existing officers so they can act as first responders in cases of fire, disaster and medical emergency. The Department shall coordinate and conduct search and rescue operations, and cooperate with established search and rescue agencies of other states, the Government of the Federated States of Micronesia, the Government of the United States of America and its agencies, and any other regional governments or search and rescue agencies, in developing plans and programs, and mutual aid agreements for search and rescue activities within the state of Pohnpei.
+
+Source: S.L. No. 7L-80-11 §2, 1/14/11
