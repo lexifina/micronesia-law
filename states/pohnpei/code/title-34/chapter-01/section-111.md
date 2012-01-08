@@ -1,0 +1,9 @@
+§1-111. Appointment of comptroller and general counsel; duties of each. The general manager shall appoint a comptroller and a general counsel, both of whom shall report to the general manager. The comptroller and the general counsel may be terminated for good cause by the general manager. The comptroller and the general counsel shall be compensated at a rate determined by the Board. Such officers may be full-time employees of the Corporation, shared with Pohnpei Government agencies, or be placed on retainer from the private sector. The general manager may appoint one or more assistants to any such office.
+
+(1) The comptroller shall have custody of all monies of the Corporation and shall pay out such money only in accordance with the direction of the Board and as provided in the annual budget of the Corporation. The Board shall appoint an agent as its trustee for payment of bonds issued by it and for such related purposes as the Board may provide.
+
+(2) The general counsel shall advise the Board and the general manager in all legal matters to which the Corporation is a party or in which the Corporation is legally interested, and may represent the Corporation before the Congress of the Federated States of Micronesia, the Pohnpei Legislature, boards and governmental agencies of Pohnpei, the Federated States of Micronesia, and the United States of America.
+
+(3) The Corporation may use the services of the attorneys for the Pohnpei Government to serve as attorneys for the Corporation, or it may appoint such attorney or attorneys as it may deem necessary, and it shall provide payment of all legal services rendered. All official documents, contracts, bonds, and other instruments in writing shall be approved as to form and legality by the general counsel for the Corporation. Such approval may be conclusively evidenced by the signature of the general counsel thereon.
+
+Source: S.L. No. 2L-179-91 §11, 2/14/91

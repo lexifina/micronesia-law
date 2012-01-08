@@ -1,0 +1,3 @@
+§1-116. Manual of administration. The Board shall establish a manual of administration to include rules and regulations governing the selection, promotion, performance evaluation, demotion, suspension, dismissal, and other disciplinary rules for employees of the Corporation. Employees of the Corporation shall be eligible to participate in any health insurance plan, life insurance plan, retirement fund, and workers’ compensation insurance available to Pohnpei Government employees. The Corporation shall contribute to such programs on the basis of periodic billings as determined by the governing authorities thereof.
+
+Source: S.L. No. 2L-179-91 §16, 2/14/91

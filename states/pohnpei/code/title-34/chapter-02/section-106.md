@@ -1,0 +1,3 @@
+§2-106. Compensation and expenses. Members of the Board who are not employed by the Pohnpei Government or its instrumentalities shall be compensated at rates established by the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded by Pohnpei law, for attendance at Board meetings. When required to travel for official purposes, members of the Board shall receive travel expenses and per diem at Pohnpei Government rates and in accordance with Pohnpei Government policies. Such other expenses may be paid to Board members as are authorized by law.
+
+Source: D.L. No. 4L-191-79 §6, 8/9/79; S.L. No. 1L-71-86 §4-3, 4/1/86

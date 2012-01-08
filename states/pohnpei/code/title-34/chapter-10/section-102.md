@@ -1,0 +1,7 @@
+§10-102. Authorization to borrow on the public credit. 
+
+(1) Acknowledging the authority of Pohnpei State to receive foreign financial assistance under Article XII §1(b) of the FSM Constitution, and mindful of the requirements of Article 11 §13 of the Pohnpei Constitution, the Government of Pohnpei State is hereby authorized to borrow from the ADB through the national government of the Federated States of Micronesia and onlend to the PUC an amount equivalent to one-million, one-hundred-seventy-four-thousand (1,174,000) special drawing rights and not more than $100,000 in consultancy services for a Pohnpei water supply and sanitation project. In this connection, the Governor is hereby authorized to negotiate and execute such financing agreements among the Pohnpei Government, the national government, and the PUC as are necessary to carry out the purposes of this chapter. Such agreements shall set forth the terms and conditions of the loan as described in this chapter and the terms and conditions of onlending the proceeds of the loan by the Pohnpei Government to the PUC. All such agreements shall be negotiated to be in conformity with this chapter.
+
+(2) It shall be a condition of an agreement between the Pohnpei Government and the PUC that water tariffs shall not be increased by the PUC for two years after the effective date of this chapter [effective date is December 4, 1997] without an appropriate amendment to this law repealing this subsection.
+
+Source: S.L. No. 4L-57-97 §2, 12/4/97

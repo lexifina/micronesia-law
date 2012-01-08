@@ -1,0 +1,3 @@
+§2-113. Authorization for appropriation; administration. There is hereby authorized for appropriation from the general fund of Pohnpei a sum or sums to be determined annually in the Comprehensive Budget Act for the operational expenses of the Pohnpei State Board of Residential Properties and Public Utilities. The sums shall be administered and expended by the Chairman of the Board solely for the purposes specified in this section. The balance of any sums so appropriated under this authorization remaining unexpended or unobligated for expenditure at the end of the fiscal year for which they were appropriated shall revert to the general fund of Pohnpei.
+
+Source: D.L. No. 4L-191-79 §15, 8/9/79
