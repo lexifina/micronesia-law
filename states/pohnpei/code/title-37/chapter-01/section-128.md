@@ -1,0 +1,3 @@
+§1-128. Notice of shareholders’ meetings.  Written notice stating the place, day, and hour of the meeting and, in case of a special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than 10 nor more than 50 days before the date of the meeting, either personally or by mail, by or at the direction of the president, the secretary or the officer or persons calling the meeting, to each shareholder of record entitled to vote at such meeting. If mailed, such notice shall be deemed to be delivered when deposited in the Federated States of Micronesia mail addressed to the shareholder at his address as it appears on the stock transfer books of the corporation, with postage thereon prepaid.
+
+Source: S.L. No. 3L-92-95 §28, 4/18/95

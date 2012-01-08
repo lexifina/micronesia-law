@@ -1,0 +1,29 @@
+§2-135. Power of partner to bind partnership to third persons after dissolution. 
+
+(1) After dissolution, a partner can bind the partnership, except as provided in Subsection (3) of this section:
+
+(a) By any act appropriate for winding up partnership affairs or completing transactions unfinished at dissolution; or
+
+(b) By any transaction which would bind the partnership if dissolution had not taken place, provided the other party to the transaction, though he had not so extended credit, had nevertheless known of the partnership prior to dissolution, and, having no knowledge or notice of dissolution, the fact of dissolution had not been advertised in a newspaper of general circulation in the place (or in each place if more than one) at which the partnership business was regularly carried on.
+
+(2) The liability of a partner under Subsection (1)(b) of this section shall be satisfied out of partnership assets alone when such partner had been, prior to dissolution:
+
+(a) Unknown as a partner to the person with whom the contract is made; and
+
+(b) So far unknown and inactive in partnership affairs that the business reputation of the partnership could not be said to have been in any degree due to his connection with it.
+
+(3) The partnership is in no case bound by any act of a partner after dissolution:
+
+(a) Where the partnership is dissolved because it is unlawful to carry on the business, unless the act is appropriate for winding up partnership affairs; or
+
+(b) Where the partner has become bankrupt; or
+
+(c) Where the partner has no authority to wind up partnership affairs, except by a transaction with one whom:
+
+(i) Had extended credit to the partnership prior to dissolution and had no knowledge or notice of his want of authority; or
+
+(ii) Had not extended credit to the partnership prior to dissolution, and, having no knowledge or notice of his want of authority, has not been advertised in the manner provided for advertising the fact of dissolution in Subsection (1)(b) of this section.
+
+(4) Nothing in this section shall affect the liability under §2-116 of any person who, after dissolution, represents himself or consents to another representing him as a partner in a partnership engaged in carrying on business.
+
+Source: S.L. No. 3L-111-95 §6-7, 11/24/95

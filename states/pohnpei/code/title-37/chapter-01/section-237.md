@@ -1,0 +1,3 @@
+§1-237. Certificates and certified copies to be received in evidence.  All certificates issued by the Registrar of Corporations in accordance with this chapter, and all copies of documents filed in his office in accordance with this chapter when certified by him, shall be taken and received in all courts, public offices, and official bodies as prima facie evidence of the facts therein stated. A certificate by the Registrar of Corporations under the great seal of this state, as to the existence or nonexistence of the facts relating to corporations shall be taken and received in all courts, public offices, and official bodies as prima facie evidence of the existence or nonexistence of the facts therein stated.
+
+Source: S.L. No. 3L-92-95 §137, 4/18/95

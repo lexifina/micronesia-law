@@ -1,0 +1,7 @@
+§2-121. Partner accountable as a fiduciary. 
+
+(1) Every partner must account to the partnership for any benefit, and hold as trustee for it any profits derived by him without the consent of the other partners from any transaction connected with the formation, conduct or liquidation of the partnership or from any use by him of its property.
+
+(2) This section applies also to the representatives of a deceased partner engaged in the liquidation of the affairs of the partnership as the personal representatives of the last surviving partner.
+
+Source: S.L. No. 3L-111-95 §4-4, 11/24/95

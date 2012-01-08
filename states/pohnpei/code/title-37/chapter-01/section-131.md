@@ -1,0 +1,3 @@
+§1-131. Quorum of shareholders.  Unless otherwise provided in the articles of incorporation, a majority of the shares entitled to vote, represented in person or by proxy, shall constitute a quorum at a meeting of shareholders, but in no event shall a quorum consist of less than one-third of the shares entitled to vote at the meeting. If a quorum is present, the affirmative vote of the majority of the shares represented at the meeting and entitled to vote on the subject matter shall be the act of the shareholders, unless the vote of a greater number or voting by classes is required by this chapter or the articles of incorporation or bylaws.
+
+Source: S.L. No. 3L-92-95 §31, 4/18/95

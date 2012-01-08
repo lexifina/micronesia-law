@@ -1,0 +1,3 @@
+§1-111. Renewal of registered name.  A corporation that has in effect a registration of its corporate name, may renew such registration from year to year by annually filing an application for renewal setting forth the facts required to be set forth in an original application for registration and a certificate of good standing as required for the original registration and by paying a fee of $12 to the Registrar of Corporations. A renewal application may be filed between October 1 and December 31 each year, and shall extend the registration for the following calendar year.
+
+Source: S.L. No. 3L-92-95 §11, 4/18/95

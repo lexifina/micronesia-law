@@ -1,0 +1,27 @@
+§7-107. Categories of economic sectors.  The following system of categories of economic sectors, as listed in Subsections (1) through (3) of this section and as expanded by Subsection (4) of this section, is hereby established for the purpose of implementing the policy of Pohnpei to guide foreign investment in the state’s economy:
+
+(1) Open “Pohnpei Green List” category: -78-
+
+(a) Preferred Joint Venture Sector: Except for the prohibited category of investments identified in Subsection (3) of this section, no special criteria needs to be met before a foreign investment permit is issued to a business in which not less than sixty percent (60%) of the total equity of the business is held by citizens of the Federated States of Micronesia; PROVIDED that in order to qualify as a “preferred joint venture” under this sector, the applicant must provide convincing evidence to the satisfaction of the Registrar of Corporations that the named FSM citizen investors in the joint venture truly own and fully control, by such means as voting rights of common stock in the corporation, not less than the required sixty percent (60%) of the total equity in the joint venture.
+
+(b) Initial Capitalization Sector: Except for economic sectors restricted by Subsection (1)(c) of this section and economic sectors prohibited by Subsection (3) of this section, foreign investment in any business with an initial capitalization of $250,000 or more, or $50,000 in the case of a professional service, no further equity requirements nor special criteria needs to be met, before a foreign investment permit is issued.
+
+(c) Special Investment Sector: Subject to the capitalization requirements of Subsection (1)(b) of this section, no special criteria needs to be met before a foreign investment permit is issued to a business in the following economic sectors in which not more than forty-nine percent (49%) of the total equity of the business is held by noncitizens; PROVIDED that in order to qualify as a “special investment” business under this sector, the applicant must provide convincing evidence to the satisfaction of the Registrar of Corporations that the named FSM citizen investors in the business truly own and fully control, by such means as voting rights of common stock in the corporation, not less than the required fifty-one percent (51%) of the total equity in the business:
+
+(i) Service industries, except that businesses providing professional services or tourist services as defined by §7-102 of this chapter shall be governed pursuant to Subsections (1)(a) and (1)(b) of this section;
+
+(ii) Retail trade;
+
+(iii) Exploration, development and extraction of land-based mineral resources and of marine-based mineral resources within the marine regulatory jurisdiction of the state; and
+
+(iv) Exploration, cutting and milling of naturally occurring timber resources.
+
+(2) Discretionary “Pohnpei Amber List” category: In addition to such permits as may be granted without special criteria beyond that specified in Subsection (1) of this section, the Registrar of Corporations may, upon written concurrence of a majority of the members of the DRP-FIP, grant a foreign investment permit to a business within such categories with less than the citizenship investment therein required by Subsection (1)(a) of this section; less than the initial capitalization requirement required by Subsection (1)(b) of this section; or possessing more than forty-nine percent (49%) noncitizen-owned equity therein stipulated by Subsection (1)(c) of this section; upon a finding that the applicant business will be of significant benefit to the economy of Pohnpei. A permit issued under this subsection may, with the written concurrence of a majority of the DRP-FIP, carry special conditions as to equity ownership, citizen employment, minimum capital investment and length of the term of the investment permit; PROVIDED that such conditions shall later be waived upon a showing to the satisfaction of the Registrar of Corporations that the business has attained and will maintain the capitalization and, where applicable, the equity requirements of the Pohnpei Green List category of this section.
+
+(3) Prohibited “Pohnpei Red List” category. Notwithstanding any other provision of this section, no foreign investment shall be permitted in the following economic sectors:
+
+(a) [RESERVED].
+
+(4) Temporary category. Except as prohibited by Subsection (3) of this section, a temporary category permit may be issued by the Registrar of Corporations for a business activity of limited duration when found by the Registrar of Corporations in his discretion that the business activity to be -79- covered by the permit is temporary in nature, will be of significant benefit to the economy of the state, and is requested in connection with a project undertaken by the FSM National Government, the Pohnpei Government, a local government of Pohnpei, an enterprise licensed to do business in Pohnpei, or a non-profit organization authorized to conduct religious or humanitarian activities in Pohnpei. A permit issued under this subsection may carry special conditions, including, but not limited to restrictions on side-contracts not related to the project for which the temporary permit is sought, citizen employment, and length of the term of the temporary investment permit, which may not exceed 36 months.
+
+Source: S.L. No. 7L-83-11 §2, 3/18/11

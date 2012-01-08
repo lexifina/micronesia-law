@@ -1,0 +1,3 @@
+§1-139. Quorum of directors.  A majority of the number of directors fixed by or in the manner provided in the bylaws or in the absence of a bylaw fixing or providing for the number of directors, then of the number stated in the articles of incorporation, shall constitute a quorum for the transaction of business unless a greater number is required by the articles of incorporation or the bylaws. The act of the majority of the directors present at a meeting at which a quorum is present shall be the act of the board of directors, unless the act of a greater number is required by the articles of incorporation or the bylaws.
+
+Source: S.L. No. 3L-92-95 §39, 4/18/95

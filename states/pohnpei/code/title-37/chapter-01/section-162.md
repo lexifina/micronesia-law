@@ -1,0 +1,3 @@
+§1-162. Effect of certificate of amendment.  Upon the issuance of the certificate of amendment by the Registrar of Corporations, the amendment shall become effective and the articles of incorporation shall be deemed to be amended accordingly. No amendment shall affect any existing cause of action in favor of or against such corporation, or any pending suit to which such corporation shall be a party, or the existing rights of persons other than shareholders; and, in the event the corporate name shall be changed by amendment, no suit brought by or against such corporation under its former name shall abate for that reason.
+
+Source: S.L. No. 3L-92-95 §62, 4/18/95

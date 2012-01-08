@@ -1,0 +1,3 @@
+§1-201. Decree of involuntary dissolution.  In proceedings to liquidate the assets and business of a corporation, when the costs and expenses of such proceedings and all debts, obligations, and liabilities of the corporation shall have been paid and discharged and all of its remaining property and assets distributed to its shareholders, or in case its property and assets are not sufficient to satisfy and discharge such costs, expenses, debts, and obligations, all the property and assets have been applied so far as they will go to their payment, the court shall enter a decree dissolving the corporation, whereupon the existence of the corporation shall cease.
+
+Source: S.L. No. 3L-92-95 §101, 4/18/95

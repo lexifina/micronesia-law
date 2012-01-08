@@ -1,0 +1,11 @@
+§7-124. Conflict of interest. 
+
+(1) If the Registrar of Corporations, or any member of the DRP-FIP, advisor thereto or government officer or employee involved in the administration of this chapter shall be interested, either directly or indirectly, through his business holdings, by an agent disclosed or undisclosed or by a marital relationship, in any application submitted under this chapter or consideration by the Registrar of Corporations of an existing permit, such interest shall be disclosed to the Registrar of Corporations and shall be set forth in the public records of the Office of the Attorney General, and the person having such interest therein shall not participate in any further actions of the Pohnpei Government relative thereto outside of formal meetings or hearings wherein such person is requested to appear.
+
+(2) The Registrar of Corporations, and each member of the DRP-FIP, with respect to discretionary permits, shall be prohibited from obtaining any interest, either directly or indirectly, through his business holdings, by an agent disclosed or undisclosed or by undue influence within a marital relationship, in any business which is granted a foreign investment permit under this chapter within three years following the granting of a permit, or a decision of the Registrar of Corporations to amend the permit to substantially expand the scope of permitted activities thereunder.
+
+(3) The Registrar of Corporations, and each member of the DRP-FIP, with respect to discretionary permits, and any advisor or government employee having public or fiduciary responsibilities under this chapter shall not at any time suggest an arrangement with a potential foreign investor or permit holder, whether or not personally initiated by said officer, member, advisor or employee, which would result in a direct or indirect business relationship therewith, whether in person, through his business holdings, by disclosed or undisclosed agent or by marital relationship.
+
+Source: S.L. No. 7L-83-11 §2, 3/18/11
+
+Editor’s note: The original Chapter 7 of Title 37 of this Code was repealed pursuant to S.L. No. 7L-83-11 on March 18, 2011. (Next page is Title 38 divider) 1/09/12) ( - - 85 37 Title titlE 38 Professions and occupations Title Cover Page

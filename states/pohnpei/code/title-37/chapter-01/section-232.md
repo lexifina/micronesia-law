@@ -1,0 +1,3 @@
+§1-232. Penalties imposed upon officers and directors.  Each officer and director of a corporation, domestic or foreign, who fails or refuses within the time prescribed by this chapter to answer truthfully and fully interrogatories propounded to him by the Registrar of Corporations in accordance with this chapter, or who signs any articles, statement, report, application or other document filed with the Registrar of Corporations which is known to such officer or director to be false in any material respect, shall be deemed to be guilty of a misdemeanor and upon conviction thereof may be fined in any amount not exceeding $500.
+
+Source: S.L. No. 3L-92-95 §132, 4/18/95

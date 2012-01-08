@@ -1,0 +1,11 @@
+§1-121. Determination of amount of stated capital. 
+
+(1) In case of the issuance by a corporation of shares having a par value, the consideration received therefor shall constitute stated capital to the extent of the par value of such shares, and the excess, if any, of such consideration shall constitute capital surplus.
+
+(2) In case of the issuance by a corporation of shares without par value, the entire consideration received therefor shall constitute stated capital unless the corporation shall determine as provided in this section that only a part thereof shall be stated capital. Within a period of 60 days after the issuance of any shares without par value, the board of directors may allocate to capital surplus any portion of the consideration received for the issuance of such shares. No such allocation shall be made of any portion of the consideration received for shares without par value having a preference in the assets of the corporation in the event of involuntary liquidation except the amount, if any, of such consideration in excess of such preference.
+
+(3) If shares have been or shall be issued by a corporation in merger or consolidation or in acquisition of all or substantially all of the outstanding shares or of the property and assets of another corporation, whether domestic or foreign, any amount that would otherwise constitute capital surplus under the foregoing provisions of this section may instead be allocated to earned surplus by the board of directors of the issuing corporation except that its aggregate earned surplus shall not exceed the sum of the earned surpluses as defined in this chapter of the issuing corporation and of all other corporations, domestic or foreign, that were merged or consolidated or of which the shares or assets were acquired.
+
+(4) The stated capital of a corporation may be increased from time to time by resolution of the board of directors directing that all or a part of the surplus of the corporation be transferred to stated capital. The board of directors may direct that the amount of the surplus so transferred shall be deemed to be stated capital in respect of any designated class of shares.
+
+Source: S.L. No. 3L-92-95 §21, 4/18/95

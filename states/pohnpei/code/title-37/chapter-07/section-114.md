@@ -1,0 +1,3 @@
+§7-114. Investigation by Office of the Attorney General.  The Attorney General or a person authorized by him for the purposes of this chapter, may upon his own initiative at any time, with probable cause, and shall, upon request of the Registrar of Corporations, call for the production of books and papers of any noncitizen doing business in Pohnpei, and examine its officers, members of its board of directors, its agents or its employees, under oath concerning its business activities. The Attorney General shall submit to the Registrar of Corporations copies of all such documents or examinations.
+
+Source: S.L. No. 7L-83-11 §2, 3/18/11

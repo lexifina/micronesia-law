@@ -1,0 +1,11 @@
+§1-178. Sale of assets other than in regular course of business.  A sale, lease, exchange or other disposition of all, or substantially all, the property and assets, with or without the good will, of a corporation, if not in the usual and regular course of its business, may be made upon such terms and conditions and for such consideration, which may consist in whole or in part of cash or other property, including shares, obligations or other securities of any other corporation, domestic or foreign, as may be authorized in the following manner:
+
+(1) The board of directors shall adopt a resolution recommending such sale, lease, exchange or other disposition and directing the submission thereof to a vote at a meeting of shareholders, which may be either an annual or a special meeting.
+
+(2) Written notice shall be given to each shareholder of record, whether or not entitled to vote at such meeting, not less than 20 days before such meeting, in the manner provided in this chapter for the giving of notice of meetings of shareholders, and, whether the meeting be an annual or a special meeting, shall state that the purpose, or one of the purposes is to consider the proposed sale, lease, exchange or other disposition.
+
+(3) At such meeting the shareholders may authorize such sale, lease, exchange or other disposition and may fix, or may authorize the board of directors to fix, any or all of the terms and conditions thereof and the consideration to be received by the corporation therefor. Such authorization shall require the affirmative vote of the holders of a majority of the shares of the corporation entitled to vote thereon, unless any class of shares is entitled to vote thereon as a class, in which event such authorization shall require the affirmative vote of the holders of a majority of the shares of each class of shares entitled to vote as a class thereon and of the total shares entitled to vote thereon.
+
+(4) After such authorization by a vote of shareholders, the board of directors nevertheless, in its discretion, may abandon such sale, lease, exchange or other disposition of assets, subject to the rights of third parties under any contracts relating thereto, without further action or approval by shareholders.
+
+Source: S.L. No. 3L-92-95 §78, 4/18/95

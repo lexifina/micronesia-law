@@ -1,0 +1,11 @@
+§1-197. Procedure in liquidation of corporation by court. 
+
+(1) In proceedings to liquidate the assets and business of a corporation the court shall have power to issue injunctions, to appoint a receiver or receiver pendente lite, with such powers and duties as the court, from time to time, may direct, and to take such other proceedings as may be requisite to preserve the corporate assets wherever situated, and carry on the business of the corporation until a full hearing can be had.
+
+(2) After a hearing had upon such notice as the court may direct to be given to all parties to the proceedings and to any other parties in interest designated by the court, the court may appoint a liquidating receiver or receivers with authority to collect the assets of the corporation, including all amounts owing to the corporation by subscribers on account of any unpaid portion of the consideration for the issuance of shares. Such liquidating receiver or receivers shall have authority, subject to the order of the court, to sell, convey, and dispose of all or any part of the assets of the corporation wherever situated, either at public or private sale. The assets of the corporation or the proceeds resulting from a sale, conveyance or other disposition thereof shall be applied to the expenses of such liquidation and to the payment of the liabilities and obligations of the corporation, and any remaining assets or proceeds shall be distributed among its shareholders according to their respective rights and interests. The order appointing such liquidating receiver or receivers shall state their powers and duties. Such powers and duties may be increased or diminished at any time during the proceedings.
+
+(3) The court shall have power to allow from time to time, as expenses of the liquidation, compensation to the receiver or receivers and to attorneys in the proceeding, and to direct the payment thereof out of the assets of the corporation or the proceeds of any sale or disposition of such assets.
+
+(4) A receiver of a corporation appointed under this section shall have authority to sue and defend in all courts in his own name as receiver of such corporation. The court appointing such receiver shall have exclusive jurisdiction of the corporation and its property, wherever situated.
+
+Source: S.L. No. 3L-92-95 §97, 4/18/95

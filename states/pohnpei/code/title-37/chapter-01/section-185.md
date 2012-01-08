@@ -1,0 +1,3 @@
+§1-185. Effect of statement of intent to dissolve.  Upon the filing by the Registrar of Corporations of a statement of intent to dissolve, whether by consent of shareholders or by act of the corporation, the corporation shall cease to carry on its business, except insofar as may be necessary for the winding up thereof, but its corporate existence shall continue until a certificate of dissolution has been issued by the Registrar of Corporations or until a decree dissolving the corporation has been entered by a court of competent jurisdiction as provided in this chapter.
+
+Source: S.L. No. 3L-92-95 §85, 4/18/95

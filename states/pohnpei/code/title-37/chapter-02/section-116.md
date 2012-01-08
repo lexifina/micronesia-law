@@ -1,0 +1,11 @@
+§2-116. Partner by estoppel. 
+
+(1) When a person, by words spoken or written, or by conduct, represents himself, or consents to another representing him to anyone as a partner in an existing partnership or with one or more persons not actual partners, he is liable to any such person to whom such representation has been made, who has, on the faith of such representation, given credit to the actual or apparent partnership, and if he has made such representation or consented to its being made in a public manner he is liable to such person, whether the representation has or has not been made or communicated to such person so giving credit by or with the knowledge of the apparent partner making the representation or consenting to its being made.
+
+(a) When a partnership liability results, he is liable as though he were an actual member of the partnership.
+
+(b) When no partnership liability results, he is liable jointly with the other persons, if any, so consenting to the contract or representation as to incur liability, otherwise separately.
+
+(2) When a person has been thus represented to be a partner in an existing partnership, or with one or more persons not actual partners, he is an agent of the persons consenting to such representation to bind them to the same extent and in the same manner as though he were a partner in fact, with respect to persons who rely upon the representation. Where all the members of the existing partnership consent to the representation, a partnership act or obligation results; but in all other cases it is the joint act or obligation of the person acting and the persons consenting to the representation.
+
+Source: S.L. No. 3L-111-95 §3-8, 11/24/95

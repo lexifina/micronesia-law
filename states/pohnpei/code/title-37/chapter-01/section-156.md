@@ -1,0 +1,3 @@
+§1-156. Organization meeting of directors.  After the issuance of the certificate of incorporation an organization meeting of the board of directors named in the articles of incorporation shall be held, either within or without this state, at the call of a majority of the directors named in the articles of incorporation, for the purpose of adopting bylaws, electing officers, and transacting such other business as may come before the meeting. The directors calling the meeting shall give at least three days’ notice thereof by mail to each director so named, stating the time and place of the meeting.
+
+Source: S.L. No. 3L-92-95 §56, 4/18/95

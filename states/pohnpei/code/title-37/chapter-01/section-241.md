@@ -1,0 +1,3 @@
+§1-241. Action by shareholders without a meeting.  Any action required by this chapter to be taken at a meeting of the shareholders of a corporation, or any action which may be taken at a meeting of the shareholders, may be taken without a meeting if a consent in writing, setting forth the action so taken, shall be signed by all of the shareholders entitled to vote with respect to the subject matter thereof. Such consent shall have the same effect as a unanimous vote of shareholders, and may be stated as such in any articles or document filed with the Registrar of Corporations under this chapter.
+
+Source: S.L. No. 3L-92-95 §141, 4/18/95

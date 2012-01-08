@@ -1,0 +1,3 @@
+§1-206. Powers of foreign corporation.  A foreign corporation which shall have received a certificate of authority under this chapter shall, until a certificate of revocation or of withdrawal shall have been issued as provided in this chapter, enjoy the same, but not greater, rights and privileges as a domestic corporation organized for the purposes set forth in the application pursuant to which such certificate of authority is issued; and, except as provided otherwise in this chapter, shall be subject to the same duties, restrictions, penalties, and liabilities now or hereafter imposed upon a domestic corporation of like character.
+
+Source: S.L. No. 3L-92-95 §106, 4/18/95

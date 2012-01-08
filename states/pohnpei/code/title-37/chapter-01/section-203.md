@@ -1,0 +1,3 @@
+§1-203. Deposit in Treasury of amount due certain shareholders.  Upon the voluntary or involuntary dissolution of a corporation, the portion of the assets distributable to a creditor or shareholder who is unknown or cannot be found, or who is under disability and there is no person legally competent to receive such distributive portion, shall be reduced to cash and deposited in a special trust fund in the Treasury and shall be paid over to such creditor or shareholder or to his legal representative upon proof satisfactory to the Director of the Department of Treasury and Administration of his right thereto.
+
+Source: S.L. No. 3L-92-95 §103, 4/18/95
