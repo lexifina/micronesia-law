@@ -1,0 +1,3 @@
+§3-109. Willful violations; penalty.  Any employer who willfully hinders or delays the Chief or the Chief’s authorized representative in the performance of the Chief’s duties in the enforcement of this chapter; or who willfully refuses to admit the Chief or the Chief’s authorized representative to any place of employment; or who fails to keep or who falsifies any record required under §3-108(2), or who refuses to make such records accessible or to give information required for the proper enforcement of this chapter, upon demand, to the Chief or the Chief’s authorized representative, shall be fined not more than $500, or imprisoned not more than 30 days, or both such fine and imprisonment.
+
+Source: S.L. No. 2L-195-91 §9, 10/1/91

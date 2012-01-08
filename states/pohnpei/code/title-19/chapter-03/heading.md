@@ -1,0 +1,1 @@
+CHAPTER 3 WAGE AND HOUR Section 3-101 Short title 3-102 Policy 3-103 Definitions 3-104 Minimum wage 3-105 Maximum hours 3-106 Wage discrimination prohibited 3-107 Non-waiver 3-108 Duty of Chief; employer’s records 3-108A Minimum wage review 3-109 Willful violations; penalty 3-110 Disclosure of information 3-111 Penalties; collection of unpaid wages; injunctions; etc.
