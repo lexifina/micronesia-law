@@ -1,0 +1,3 @@
+§1-108. New and temporary residents; visitors. Visitors, new residents, and temporary residents in the state shall not import, transport, purchase, use or possess any firearm, dangerous device or ammunition in the state without an identification card issued pursuant to this chapter. Any person who possesses any firearms, dangerous devices or ammunition shall, before or immediately upon his entrance into the state, turn it in to the Attorney General or the Chief of the Division of Police and Security of the Department of Public Safety. Such firearm, dangerous device or ammunition shall be returned to such person upon his being issued an identification card pursuant to this chapter or upon his departure from the state.
+
+Source: S.L. No. 2L-136-82 §8, 10/7/82

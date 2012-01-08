@@ -1,0 +1,13 @@
+§1-120. Cancellation, denial, suspension, and revocation of licenses. 
+
+(1) Any license issued pursuant to this chapter shall be surrendered for cancellation immediately on the discontinuance or termination of business or upon the holder’s discontinuing the manufacturing, selling, acquisition for sale or repair of firearms, and the sale of ammunition.
+
+(2) The issuing officer or agency may deny, suspend or revoke an identification card or a license issued pursuant to this chapter for failure of the applicant or holder to meet or continue to meet any of the requirements for eligibility therefor, or for any violation of this chapter or regulations in force pursuant thereto.
+
+(3) The Office of the Attorney General, by regulation, shall make classifications of offenses and other violations of this chapter or regulations in force thereunder. Regulations made pursuant to this subsection shall set forth those offenses and violations for which identification cards and licenses may be suspended or revoked, and those for which the penalty must be revocation. Such regulations shall be of general application.
+
+(4) Any person who, by reason of the suspension or revocation of his identification card is no longer eligible to continue possession of a firearm, dangerous device or ammunition shall surrender any and all firearms, dangerous devices, and ammunition to the Chief of the Division of Police and Security of the Department of Public Safety, or shall dispose of the firearms, dangerous devices, and ammunition forthwith under the direction and supervision of the Chief of the Division of Police and Security. In the case of suspension of an identification card, the owner of the firearm, dangerous device or ammunition may request that the constabulary keep the same during the period of suspension and, except as herein provided, the firearm, dangerous device or ammunition shall be restored to the owner when he again becomes eligible to possess the same and request return. Any firearm, dangerous device or ammunition in the possession of the Chief of the Division of Police and Security pursuant to this subsection may be disposed of, without compensation to the owner, upon revocation of the suspended identification card or at the end of 60 days after receipt or the date of termination of the suspension, whichever is later. However, if proceedings in connection with the suspension or revocation are not yet finally determined, disposal shall not be until such final determination has been made.
+
+(5) Any denial, suspension or revocation of an identification card or a license shall be subject to review by the Governor upon request by an aggrieved person, and thereafter by the Pohnpei Supreme Court.
+
+Source: S.L. No. 2L-136-82 §20, 10/7/82

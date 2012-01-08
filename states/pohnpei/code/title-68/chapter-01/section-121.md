@@ -1,0 +1,15 @@
+§1-121. Shipment and delivery of firearms, dangerous devices, and ammunition. 
+
+(1) No person shall ship, transport or deliver any firearms, dangerous devices or ammunition to anyone other than a licensed manufacturer, wholesaler, dealer or person who possesses a valid identification card.
+
+(2) Any person who ships, transports or delivers firearms or dangerous devices to a manufacturer, wholesaler, dealer or person possessing an identification card in the state shall, before delivery, furnish to the Office of the Attorney General an invoice listing his name and address, the name and address of the manufacturer, wholesaler, dealer or person possessing the identification card to whom such firearms or dangerous devices are to be delivered, the place of origin of the shipment, the number of firearms and dangerous devices of each type, and the manufacturer and serial number of each firearm and dangerous device in the shipment.
+
+(3) Any person who ships, transports or delivers ammunition to a manufacturer, wholesaler, dealer or person possessing an identification card in the state shall, before delivery, furnish to the Office of the Attorney General an invoice listing his name and address, the name and address of the manufacturer, wholesaler, dealer or person possessing an identification card to whom the ammunition is to be delivered, the place of origin of the shipment, and the quantity of ammunition of each type in the shipment.
+
+(4) If shipment is by common carrier, a copy of the invoice required by Subsections (2) and (3) of this section shall also be delivered to the common carrier. The common carrier shall deliver the invoice and any said shipment to the Chief of the Division of Police and Security of the Department of Public Safety who will verify the accuracy of the shipment and compliance with this chapter before delivery to the manufacturer, wholesaler, dealer or person possessing an identification card. A copy of the invoice shall be left with the manufacturer, wholesaler, dealer or person possessing an identification card at the time of delivery.
+
+(5) If shipment is by other than common carrier, a copy of the invoice shall be furnished to the manufacturer, wholesaler, dealer or person possessing an identification card at the time of delivery.
+
+(6) No person shall ship, transport or deliver firearms, dangerous devices or ammunition via air without first complying with international regulations pertaining to air shipment of firearms, dangerous devices or ammunition.
+
+Source: S.L. No. 2L-136-82 §21, 10/7/82

@@ -1,0 +1,3 @@
+§1-116. Private sale or transfer. No person other than a manufacturer, wholesaler or dealer licensed pursuant to this chapter shall transfer a firearm or dangerous device to any person other than a manufacturer, wholesaler or dealer without first ascertaining that the transferee is the holder of an identification card issued pursuant to this chapter. Prior to any such transfer, the transferor shall furnish to the Office of the Attorney General in person or by registered or certified mail, return receipt requested, a properly completed form approved by the Office of the Attorney General providing information equivalent to that required to be furnished by a dealer upon the transfer by him of a firearm or dangerous device.
+
+Source: S.L. No. 2L-136-82 §16, 10/7/82
