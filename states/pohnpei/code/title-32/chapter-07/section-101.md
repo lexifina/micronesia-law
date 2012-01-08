@@ -1,0 +1,3 @@
+§7-101. Watercraft operation: culverts, bridges, tunnels. Any person who operates any motorboat, motor canoe or other watercraft propelled by motor shall proceed slowly and exercise reasonable care and caution when operating within 60 feet of the culvert beneath the causeway to Dekehtik Island and any other culvert, bridge, and tunnel in Pohnpei State. Any person who operates any motorboat, motor canoe or other watercraft propelled by motor in violation of this section shall, upon conviction thereof, be imprisoned for a period of not more than six months, or fined not more than $100, or both such fine and imprisonment.
+
+Source: S.L. No. 2L-222-71 §1, 6/16/71

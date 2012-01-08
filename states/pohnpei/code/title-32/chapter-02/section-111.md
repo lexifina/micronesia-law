@@ -1,0 +1,3 @@
+§2-111. Nonconforming buildings. A nonconforming building may be maintained and repaired, except as otherwise provided in this chapter. A building or structure nonconforming as to this chapter shall not be added to or enlarged in any manner, unless said building or structure, including such additions and enlargements, is made to conform to all this chapter. Any nonconforming use of a building or structure existing on the effective date of this chapter [December 2, 1987] may be continued. The use of a nonconforming building may be changed to conform with any use which is permitted in the zone.
+
+Source: S.L. No. 1L-198-87 §11, 12/2/87

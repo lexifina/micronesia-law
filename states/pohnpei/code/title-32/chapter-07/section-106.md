@@ -1,0 +1,3 @@
+§7-106. Watercraft operation: passing. Every motorboat, motor canoe, and other watercraft driven by a motor, when passing in the waters of Pohnpei State another watercraft of less than 25 feet in length going in any direction shall slow down and exercise reasonable care so that no hazard is created to the other craft or its passengers. Any person who operates a motorboat, motor canoe or other watercraft driven by a motor in violation of this section shall, upon conviction thereof, be imprisoned for a period of not more than six months, or fined not more than $100, or both such fine and imprisonment, and in addition shall pay restitution to any person who suffers loss or injury primarily as a result of the violation.
+
+Source: PDC §5-103, 3/71

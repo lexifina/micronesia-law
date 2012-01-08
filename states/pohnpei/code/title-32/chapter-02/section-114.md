@@ -1,0 +1,3 @@
+§2-114. Building permit required. Before commencing the construction of a new building or structure, or the alteration, enlargement or moving of an existing building or structure within the boundaries of the zone, a permit authorizing such work shall first be obtained from the Authority. No building permit shall be issued by the Authority for the erection, alteration, enlargement or use of any building or structure or part thereof, or for the use of any land, which is not in accordance with this chapter. Any building permit issued in conflict with this chapter shall be null and void.
+
+Source: S.L. No. 1L-198-87 §14, 12/2/87; S.L. No. 2L-224-91 §3-11(2), 1/13/92

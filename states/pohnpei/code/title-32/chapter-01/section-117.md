@@ -1,0 +1,3 @@
+§1-117. Right to challenge Authority’s rules or regulations. Any person substantially interested or affected in his rights as to person or property by a rule or regulation adopted by the Authority may petition the Authority for a reconsideration of such rule or regulation, or for an amendment, modification or waiver thereof. Such petition shall set forth a clear statement of the facts and grounds upon which reconsideration, amendment, modification or waiver is sought. The Authority shall grant the petitioner a public hearing within 30 days after filing of said petition and the Authority’s decision upon the petition shall be publicly released not more than 20 days after the final public hearing held upon the petition.
+
+Source: S.L. No. 2L-224-91 §2-14, 1/13/92

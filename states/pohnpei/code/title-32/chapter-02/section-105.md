@@ -1,0 +1,3 @@
+§2-105. Designation of Dekehtik Island as a transportation zone. In order to carry out the purposes and provisions of this chapter, Dekehtik Island is hereby designated as a “transportation zone.” The aforesaid zone symbols and the boundaries of such zone shall be shown upon a map and made a part of this chapter, being designated as the “transportation zoning map.” Said map and all the notations, references and other information shown thereon are as much a part of this chapter as if the matters and information set forth by said map were fully described herein.
+
+Source: S.L. No. 1L-198-87 §5, 12/2/87

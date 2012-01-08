@@ -1,0 +1,3 @@
+§1-102. Purpose. It is the sense of the Legislature that because of the distance between the islands of this state and their remoteness from large commercial centers of the world, transportation constitutes a vital link in the state’s efforts toward social development and economic self-sufficiency. It is the purpose of this chapter to establish an Authority to facilitate use of available transportation systems, and to promote Pohnpei as the natural crossroads for north and south as well as east and west travel and transport through the Pacific region.
+
+Source: S.L. No. 2L-224-91 §1-2, 1/13/92
