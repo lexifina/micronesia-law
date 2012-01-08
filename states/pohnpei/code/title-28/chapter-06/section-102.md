@@ -1,0 +1,3 @@
+§6-102. Impounding. Any stray livestock may be impounded by any person if such livestock is found doing damage to property, injury to people or creating unsanitary conditions and odors which affect people’s health and comfort, and that person shall notify the chief executive of the local jurisdiction, mayor of the town or Chief of the Division of Police and Security or their duly appointed representatives within three days of the capture. The person impounding a stray animal may claim just compensation for its keep from the owner, or may keep the animal if no owner appears within 60 days.
+
+Source: PDC §11-1(b), 3/71; S.L. No. 5L-14-00 §3-52, 10/1/00

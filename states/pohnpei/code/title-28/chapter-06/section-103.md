@@ -1,0 +1,3 @@
+§6-103. Penalties. Any person who is found negligent in carrying out §6-101, or any person who willfully causes livestock to damage property, injure people or create unsanitary conditions and odors affecting people’s health and comfort, whether owned by him or not, or any person who fails to report the capture of any stray livestock as provided for in §6-102 shall, upon conviction thereof, be imprisoned for a period of not more than three months, or fined not more than $50, or both such fine and imprisonment.
+
+Source: PDC §11-1(c), 3/71; S.L. No. 5L-14-00 §3-52, 10/1/00 CHAPTERS 7 – 9 [RESERVED] AGRICULTURE & LIVESTOCK
