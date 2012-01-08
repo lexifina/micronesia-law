@@ -1,0 +1,3 @@
+§2-110. Issuance of warrant or penal summons on information. The Attorney General may file an information signed by him in any court competent to try the accused for a criminal offense or offenses charged therein. If the information states the essential facts constituting a criminal offense or offenses by one or more persons named or described therein and is supported by one or more written statements under oath showing to the satisfaction of the court that there is probable cause to believe or strongly suspect that the offense complained of has been committed by such person or persons, the court shall, upon request of the Attorney General, issue its warrant or penal summons as upon a complaint.
+
+Source: TTC §454 (1966); 12 TTC §60 (1970); 12 TTC §60 (1980)

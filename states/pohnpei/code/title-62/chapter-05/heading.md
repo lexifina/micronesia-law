@@ -1,0 +1,1 @@
+CHAPTER 5 BAIL Section 5-101 Right to bail 5-102 Who may fix bail; allowing bail after conviction 5-103 Notice by police of requests to have bail fixed 5-104 Amount of bail 5-105 Form and disposition of bail; sufficiency of sureties 5-106 Modification of bail 5-107 Exoneration and release of bail 5-108 Personal recognizance

@@ -1,0 +1,3 @@
+§10-130. Procedures of chapter not deemed waiver of state of Pohnpei’s rights. Nothing in this chapter shall be deemed to constitute a waiver by the state of Pohnpei of its right, power or privilege to try such demanded person for crime committed within the state of Pohnpei, or of its right, power or privilege to regain custody of such person by extradition proceedings or otherwise for the purpose of trial, sentence or punishment for any crime committed within the state of Pohnpei; nor shall any proceedings had under this chapter which result in, or fail to result in, extradition be deemed a waiver by the state of Pohnpei of any of its rights, privileges or jurisdiction in any way whatsoever.
+
+Source: 12 TTC §480 (1970); 12 TTC §480 (1980)

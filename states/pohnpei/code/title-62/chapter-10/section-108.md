@@ -1,0 +1,3 @@
+§10-108. Governor’s warrant of arrest; issuance; recitals. If the Governor decides that a demand for extradition of a person charged with, or convicted of, a crime in a state should be complied with, he shall sign a warrant of arrest, which shall be sealed with the state of Pohnpei seal, and be directed to the Attorney General, Director of the Department of Public Safety, Chief of the Division of Police and Security or other person whom he may think fit to be entrusted with the execution thereof. The warrant must substantially recite the facts necessary to the validity of its issuance.
+
+Source: 12 TTC §458 (1970); 12 TTC §458 (1980)

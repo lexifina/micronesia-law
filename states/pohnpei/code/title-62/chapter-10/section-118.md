@@ -1,0 +1,3 @@
+§10-118. Bail; discharge, recommitment or renewal. If the accused is not arrested under warrant of the Governor by the expiration time specified in the warrant, bond or undertaking, the Pohnpei Supreme Court may discharge him or may recommit him to a further day, or may again take bail for his appearance and surrender, as provided in §10-117. At the expiration of the second period of commitment, or if he has been bailed and appeared according to the terms of his bond or undertaking, the court may either discharge him, or may require him to enter into a new bond or undertaking, to appear and surrender himself at another day.
+
+Source: 12 TTC §468 (1970); 12 TTC §468 (1980)

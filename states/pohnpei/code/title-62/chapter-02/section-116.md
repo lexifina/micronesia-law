@@ -1,0 +1,3 @@
+§2-116. Disposition of persons arrested by private persons. Any private person making an arrest shall deliver the arrested person to a policeman or an official authorized to issue a warrant without unnecessary delay and shall explain the cause of the arrest. Except where transportation difficulties are involved, or neither a policeman nor an official authorized to issue a warrant can be located promptly, such delay should not extend beyond a few hours during the daytime or early evening nor beyond ten o’clock on the following morning in the case of persons arrested during the nighttime.
+
+Source: TTC §462 (1966); 12 TTC §66 (1970); 12 TTC §66 (1980)

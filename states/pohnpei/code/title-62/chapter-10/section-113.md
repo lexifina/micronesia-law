@@ -1,0 +1,3 @@
+§10-113. Governor’s warrant of arrest; confinement in jail authorized when necessary. The officer or person executing the Governor’s warrant of arrest, or the agent of the demanding state to whom the prisoner is to be delivered may, when necessary, confine the prisoner in any jail of the government of the state of Pohnpei and the warden of such jail shall receive and safely keep the prisoner until the officer or person having charge of him is ready to proceed on his route, such officer or person being chargeable with the expense of keeping the prisoner.
+
+Source: 12 TTC §463 (1970); 12 TTC §463 (1980)

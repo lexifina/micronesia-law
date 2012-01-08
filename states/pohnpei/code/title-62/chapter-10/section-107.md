@@ -1,0 +1,3 @@
+§10-107. Extradition of persons not present in demanding state at time of commission of crime. The Governor may also surrender, on demand of the executive authority of any other state, any person in the state of Pohnpei charged in such state, in the manner provided in §10-103, with committing an act in the state of Pohnpei, or in a third state, intentionally resulting in a crime in the state whose executive authority is making the demand. This chapter, not otherwise inconsistent, shall apply to such cases, even though the accused was not in that state at the time of the commission of the crime, and has not fled therefrom.
+
+Source: 12 TTC §457 (1970); 12 TTC §457 (1980)

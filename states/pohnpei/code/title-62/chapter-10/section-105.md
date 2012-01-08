@@ -1,0 +1,3 @@
+§10-105. Extradition of person imprisoned or awaiting trial in a state. When it is desired to have returned to the state of Pohnpei a person charged in the state of Pohnpei with a crime and such person is imprisoned or is held under criminal proceedings then pending against him in a state, the Governor may agree with the executive authority of such state for the extradition of such person before the conclusion of such proceedings or his term of sentence in such state, upon condition that such person be returned to such state at the expense of the state of Pohnpei as soon as the prosecution in the state of Pohnpei is terminated.
+
+Source: 12 TTC §455 (1970); 12 TTC §455 (1980)
