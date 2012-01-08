@@ -1,0 +1,1 @@
+CHAPTER 2 PROTECTION OF MINORS Section 2-101 Declaration of policy 2-102 Definitions 2-103 Reporting procedure 2-104 Immunity of reporting persons from liability 2-105 Physician-patient privilege not applicable 2-106 Penalties
