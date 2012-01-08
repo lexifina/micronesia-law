@@ -1,0 +1,3 @@
+§3-109. Authorization for appropriation.  There is hereby authorized for appropriation from the General Fund of Pohnpei such sums as may be determined annually in the Comprehensive Budget Act for the Pohnpei Recycling Program and for the exercise of the powers and duties set forth herein. Such sums shall be deposited into the Recycling Fund and shall not revert to the General Fund. All sums appropriated for any fiscal year remaining unexpended or unobligated at the end of such fiscal year shall remain available to the Recycling Fund and in the state of Pohnpei.
+
+Source: S.L. No. 7L-96-11 §1, 8/1/11

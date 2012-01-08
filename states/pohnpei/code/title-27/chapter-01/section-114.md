@@ -1,0 +1,3 @@
+§1-114. Criminal acts and penalties.  Any person who knowingly makes any false statement, representation or certification in any application, record, report, plan, permit, regulation or order issued under this chapter, or other document filed or required to be maintained under this chapter, or who falsifies, tampers with or knowingly renders inaccurate any monitoring device or method required to be maintained under this chapter or by any permit, regulation or any order issued under this chapter, shall be guilty of a misdemeanor, and upon conviction thereof, shall be fined not less than $100 nor more than $1,000, or imprisoned for not more than six months, or both such fine and imprisonment.
+
+Source: S.L. No. 3L-26-92 §14, 11/19/92

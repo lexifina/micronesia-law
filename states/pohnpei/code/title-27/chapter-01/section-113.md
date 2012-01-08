@@ -1,0 +1,3 @@
+§1-113. Judicial review.  Any person who may be adversely affected by the enforcement of any standard, policy, regulation, permit or order of the Agency or who alleges its invalidity, may file a -7- petition for a declaratory judgment in the Pohnpei Supreme Court. The Court shall declare the standard, policy, regulation, permit or order invalid if it finds that it exceeds the statutory authority of the Agency or is arbitrary and capricious. An appeal may be had from the decision of the Court to the Appellate Division of the Supreme Court as provided by law.
+
+Source: S.L. No. 3L-26-92 §13, 11/19/92

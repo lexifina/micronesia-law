@@ -1,0 +1,3 @@
+§2-104. Public education.  The public policy of this state recognizes that the most efficient means to abate the pollution of our natural environment caused by litter and the improper disposal of waste is through the concerted actions of an educated, concerned and cooperative public. Litter and improperly disposed wastes cannot pollute our environment if they never occur in the first place. To this end, the Environmental Protection Agency shall develop and maintain a continuous and vigorous program of public education for both children and adults as to their responsibilities in keeping Pohnpei clean.
+
+Source: S.L. No. 6L-66-06 §4, 5/18/06
