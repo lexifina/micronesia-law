@@ -1,0 +1,3 @@
+§3-103. Authorization. There is hereby authorized for appropriation such sums from such funds of the Treasury as are determined annually in the Comprehensive Budget Act for the purpose of establishing and operating the Pohnpei trade and investment offices. All sums appropriated under the authorization of this section shall be administered and expended by the Governor solely for the purposes stated in this chapter. Any balance of the sums appropriated in a fiscal year not expended or obligated for expenditure on or before the close of the fiscal year for which appropriated shall revert to the fund of the Treasury from which appropriated.
+
+Source: S.L. No. 4L-62-98 §3, 1/6/98

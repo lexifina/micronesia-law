@@ -1,0 +1,3 @@
+§3-101. Findings. The Legislature has determined that trade and investment offices, established outside of Pohnpei State, can be an effective means of promoting, establishing, and facilitating trade and investment between Pohnpei and other parts of the world. Such offices can also be established and maintained, on a cost-effective basis, where the host country, or entities therein, provide assistance for the benefit of their own trade and investment. The Legislature finds that a statutory framework should be enacted, by which such offices can be established at the direction of the Governor upon concurrence of the Legislature.
+
+Source: S.L. No. 4L-62-98 §1, 1/6/98

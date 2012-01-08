@@ -1,0 +1,3 @@
+§7-102. Purposes. The Legislature has extensively reviewed the concept of the Pacific Islands Development Bank as proposed by the Association of Pacific Island Legislatures and considers this regional financial institution to represent yet another opportunity to assist the people of Pohnpei in the creation and in the maintenance of sustained expansion of private and public economic development initiatives. The Legislature further considers the Pacific Islands Development Bank operation as a non- duplicator of our present development banking activities.
+
+Source: S.L. No. 2L-109-89 §1-2, 7/5/89

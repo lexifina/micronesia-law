@@ -1,0 +1,3 @@
+§11-101. Objective of the Office of Economic Affairs. The Office of Economic Affairs, created by 3 PC 1-105(2), shall have the objectives of implementing policy determinations with respect to economic development in the state and stimulating those agricultural, industrial and economic development efforts which offer the most immediate promise of expanding the economy of the state. The office shall endeavor to gain an understanding of those functions and activities of other governmental and of private agencies, which relate to the field of economic development. It shall, at all times, encourage initiative and creative thinking in harmony with its objectives.
+
+Source: S.L. No. 6L-86-06 §7, 12/20/06

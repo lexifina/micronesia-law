@@ -1,0 +1,3 @@
+§5-103. Management of the loan fund. The loan fund shall be administered and managed by the Federated States of Micronesia Development Bank, hereinafter referred to as the “Development Bank”. The terms and conditions of loans made against the loan fund shall be promulgated by the Development Bank and the Administrator of the Office of Economic Affairs and approved by the Pohnpei Legislature. The Office of Economic Affairs shall enter into an intergovernmental agreement with the Development Bank that shall specify the management role, duties, and liabilities of the Bank in regard to the administration of the loan fund.
+
+Source: S.L. No. 1L-148-87 §3, 7/14/87; S.L. No. 5L-14-00 §3-30, 10/1/00
