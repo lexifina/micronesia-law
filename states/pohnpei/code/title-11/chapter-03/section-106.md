@@ -1,0 +1,3 @@
+§3-106. Reporting required. Within 15 days following the close of a fiscal quarter, the Governor shall file with the Legislature and the Public Auditor a complete report of all transactions undertaken pursuant to each line of credit agreement entered into pursuant to §3-101 and active within that fiscal quarter; PROVIDED that the final quarterly report for each fiscal year shall include a summary of all four quarters and a final accounting for the full fiscal year; PROVIDED FURTHER that no draws upon any line of credit established under this chapter may be made after the 15th day following the close of a fiscal quarter until the report required for that quarter has been filed in the manner prescribed by this section.
+
+Source: S.L. No. 1L-81-86 §6, 9/4/86

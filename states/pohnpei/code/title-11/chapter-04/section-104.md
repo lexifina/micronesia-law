@@ -1,0 +1,3 @@
+§4-104. Authorization to borrow. The state is hereby authorized to participate in the medium- term note program and any other program for borrowing established or permitted by the National Compact Funds Financing Act including, without limitation, programs involving public offering or private placement of bonds or direct borrowing from commercial banks or similar financial institutions. The maximum amount of the state’s Compact funds that may be pledged to secure repayment and to cover the costs of borrowing under any financial program is designated in §4-112. The specific amount that may be pledged and used to cover the costs of the borrowing shall be authorized by statute.
+
+Source: S.L. No. 2L-133-89 §4, 10/18/89

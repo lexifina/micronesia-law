@@ -1,0 +1,3 @@
+§4-111. Alteration of rights. After the issuance of any bonds, the state will not limit or alter, or seek to limit or alter the rights thereby vested and vested pursuant to the indenture including, without limitation, the irrevocable pledge by the President of pledged Compact funds, until the bonds, together with interest and premium, if any, thereon, are fully paid and discharged; PROVIDED, that nothing herein contained shall preclude such limitation or alteration if and when adequate provision is made in accordance with the terms of the indenture for protection of the holders of the bonds. The FSM is hereby authorized to make this undertaking for the state in the bonds and the indenture.
+
+Source: S.L. No. 2L-133-89 §11, 10/18/89

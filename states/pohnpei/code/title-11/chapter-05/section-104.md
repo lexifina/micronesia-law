@@ -1,0 +1,3 @@
+§5-104. Loan negotiations. The Governor of the state of Pohnpei shall negotiate with recognized public loan entities and established commercial lending institutions for loan capital for capital improvement projects for the schools listed in §5-103 on such terms as shall be commercially reasonable and at competitive interest rates. The Governor is authorized to negotiate for compensating balances to be deposited as an inducement to a preferred interest rate; PROVIDED that the deposit is placed in an institution authorized for the deposit of Pohnpei Treasury monies as specified in §2-107.
+
+Source: S.L. No. 4L-133-99 §4, 11/10/99

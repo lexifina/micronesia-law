@@ -1,0 +1,3 @@
+§1-110. Legislature authorizations and appropriations. Unless otherwise provided by state constitutional law, no authorizations of expenditures or appropriation bills, except those recommended by the Governor for immediate passage, may be enacted until the bill appropriating money for the budget for the next fiscal year is enacted. The Comprehensive Budget Act and any additional authorizations of expenditures and appropriations shall be consistent with the terms and conditions of the Budget Transmission Act for the respective fiscal year for which such Comprehensive Budget Act and additional authorizations and appropriations are enacted.
+
+Source: S.L. No. 2L-87-81 §9, 10/22/81; S.L. No. 5L-90-03 §3, 1/28/03

@@ -1,0 +1,3 @@
+§6-105. Contract award and renewal, extension, amendment, change-order, cancellation, termination, reissuance, and other modifications thereof. The contracting officer, upon prior consultation with the Office of the Attorney General and written approval of the Contract Review Board, shall be responsible for the execution of contracts on behalf of the Pohnpei Government and any renewal, extension, amendment, change-order, cancellation, termination, reissuance or other modification thereof; PROVIDED that if the aggregate value of the modification be less than $2,500, the Contract Review Board shall be given prior notice, but need not concur in the action.
+
+Source: S.L. No. 1L-199-87 §5, 12/3/87; S.L. No. 5L-14-00 §3-44, 10/1/00

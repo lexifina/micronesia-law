@@ -1,0 +1,7 @@
+§4-108. Indemnification. 
+
+(1) Recognizing the complexity of any financing program pursued under this chapter and the National Act, the state hereby agrees to indemnify and hold harmless all officers, employees or other agents acting for or on behalf of the state from any and all claims, causes of action, demands, losses, costs or damages, including all court costs and attorneys’ fees, regardless whether suit, hereinafter called “claims,” is actually brought, arising from or relating to any act or omission directly or indirectly related to the matters contained in this chapter or the National Act, or related to the establishment or implementation of any financing program, or to the repayment of any borrowing under any financing program. The state shall accept tender of defense upon demand and immediately reimburse any payment of claims by the officer, employee or other agent of the state.
+
+(2) This indemnification and hold-harmless covers claims that are foreseeable and unforeseeable, whether the act or omission is deemed to be within or outside the scope of employment or responsibility, and whether caused by negligence or recklessness of any degree, or otherwise. Moreover, without limitation, this indemnification and hold-harmless specifically applies to the special counsel with respect to any opinions or advice which may be required or rendered. This indemnification and hold-harmless does not apply to any criminal acts.
+
+Source: S.L. No. 2L-133-89 §8, 10/18/89

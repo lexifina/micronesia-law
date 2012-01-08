@@ -1,0 +1,3 @@
+§7-105. Transfer of equity. No sale, divestment or other transfer of any share in a corporation or other equity of a corporation held by the state of Pohnpei may occur unless authorized by law enacted specifically therefor or as a result of a corporate merger or other corporate action taken by or applied to the corporation in the normal course of business. Any monies received from such transfer shall be deposited in the general fund of Pohnpei. Any equity in another corporation or other consideration so received as a result of such transfer shall be held in trust pursuant to §7-101.
+
+Source: S.L. No. 7L-20-08 §2, 11/26/08 CHAPTERS 8 – 9 [RESERVED]

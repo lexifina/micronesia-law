@@ -1,0 +1,3 @@
+§5-109. Administration of financed projects. Unless another administrator is stipulated in the approval statute enacted pursuant to §5-107, the Governor shall be responsible for the administration and expenditure of monies received through public credit solely for the project so identified and not in excess of the amount so authorized for the particular project. In the administration of such monies and the projects financed thereby, the Governor or other designated administrator shall be subject to all financial management, procurement, conflicts of interest, public contracting, and other requirements specified by law and regulation.
+
+Source: S.L. No. 4L-133-99 §9, 11/10/99
