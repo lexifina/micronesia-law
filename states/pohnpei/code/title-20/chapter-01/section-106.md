@@ -1,0 +1,3 @@
+§1-106. Composition of the Board; vacancies.  All powers vested in the Corporation shall be exercised by the Board, which shall consist of seven members, called directors, who shall be appointed by the Governor with the advice and consent of the Pohnpei Legislature. Persons so appointed shall hold membership on the Board for a period of two years, subject to reappointment, and until their successors have been appointed and qualified. All vacancies occurring on the Board shall be filled by the Governor, with the advice and consent of the Legislature, but only for the unexpired term of the director whose vacancy is being filled.
+
+Source: S.L. No. 3L-42-93 §6, 8/15/93

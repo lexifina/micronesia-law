@@ -1,0 +1,3 @@
+§1-109. Appointment of a Commissioner of Public Broadcasting; duties.  The Board shall appoint a Commissioner of Public Broadcasting, hereinafter referred to as “Commissioner,” who shall be its chief executive officer and shall fix his compensation. The Commissioner shall have full charge and control of the operation and maintenance of all broadcasting facilities and other real and personal property controlled by the Corporation, of construction of any facilities, and of necessary work on vehicles and equipment controlled by or required to be rebuilt or repaired by the Corporation.
+
+Source: S.L. No. 3L-42-93 §9, 8/15/93

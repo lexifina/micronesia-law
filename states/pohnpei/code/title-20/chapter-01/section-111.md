@@ -1,0 +1,9 @@
+§1-111. Appointment of treasurer and general counsel; duties of each.  The Board shall also appoint a treasurer and a general counsel, both of whom shall serve at the pleasure of the Board and whose duties and compensation shall be fixed by the Board. Such officers may be full-time employees of the Corporation, shared with Pohnpei Government agencies, or be placed on retainer from the private sector. The Board may appoint one or more assistants to any such office.
+
+(1) The treasurer shall have custody of all monies of the Corporation and shall pay out such money only in accordance with the direction of the Board and as provided in the annual budget of the Corporation. The Board shall appoint an agent as its trustee for payment of bonds issued by it and for such related purposes as the Board may provide.
+
+(2) The general counsel shall advise the Board and the Commissioner in all legal matters to which the Corporation is a party or in which the Corporation is legally interested and may represent the Corporation before the Congress of the Federated States of Micronesia, the Pohnpei Legislature, boards and governmental agencies of Pohnpei, the Federated States of Micronesia, and other governments and international organizations.
+
+(3) The Corporation may use the services of the attorneys for the Pohnpei Government to serve as attorneys for the Corporation, or it may appoint such attorney or attorneys as it may deem necessary, and it shall provide payment of all legal services rendered other than those provided without cost by the Pohnpei Government. All official documents, contracts, bonds, and other instruments in writing shall be approved as to form and legality by the general counsel for the Corporation. Such approval may be conclusively evidenced by the signature of the general counsel thereon.
+
+Source: S.L. No. 3L-42-93 §11, 8/15/93
