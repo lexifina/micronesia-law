@@ -1,0 +1,1 @@
+CHAPTER 2 WORK-RELEASE PROGRAM Section 2-101 Short title 2-102 Purpose and policy 2-103 Definitions 2-104 Establishment of a work-release program 2-105 Prisoners’ welfare fund 2-106 Advisory council for the work-release program 2-107 Meetings of the Council 2-108 Eligibility 2-109 Work schedule: removal or revocation of work privilege

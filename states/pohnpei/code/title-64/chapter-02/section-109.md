@@ -1,0 +1,3 @@
+§2-109. Work schedule: removal or revocation of work privilege. The Director shall devise a work schedule suitable for employment and the institution. The Director, with notification to the employer, may remove or revoke any work privilege accorded to an inmate enrolled in a work-release program due to such inmate’s lack of participation, commission of another crime or for other special circumstances that may endanger the life or safety of another person or the public.
+
+Source: S.L. No. 5L-05-00 §9, 5/30/00 TITLE 65 [RESERVED] CORRECTIONS & REHABILITATION (Next page is Title 66, Division X divider) DIVISION X OF THE CODE REGULATED SUBSTANCES, DEVICES, AND ACTIVITIES TITLE 66 --- TITLE 70 Division Cover Page TITLE 66 REGULATED SUBSTANCES Title Cover Page
