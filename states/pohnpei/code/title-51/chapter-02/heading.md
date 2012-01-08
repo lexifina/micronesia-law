@@ -1,0 +1,1 @@
+CHAPTER 2 MARRIAGE Section 2-101 Two noncitizens or noncitizen and FSM citizen: requisites of marriage contract 2-102 Two noncitizens or noncitizen and FSM citizen: license 2-103 Two noncitizens or noncitizen and FSM citizen: ceremony 2-104 Records; certificate; register 2-105 Marriage between citizens

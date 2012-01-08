@@ -1,0 +1,1 @@
+CHAPTER 6 CHILD ABUSE Section 6-101. Declaration of policy 6-102. Definitions 6-103. Reporting procedure 6-104. Immunity of reporting persons from liability 6-105. Physician-patient privilege not applicable 6-106. Violations; penalties

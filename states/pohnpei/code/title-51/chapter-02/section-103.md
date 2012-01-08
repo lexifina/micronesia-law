@@ -1,0 +1,3 @@
+§2-103. Two noncitizens or noncitizen and FSM citizen: ceremony. The presence of at least two witnesses is requisite for the celebration of a marriage between two noncitizens or between a noncitizen and a citizen of the FSM. The marriage rite may be performed and solemnized by an ordained minister, a justice of the Pohnpei Supreme Court, the Governor or by any person authorized by law to perform marriages, upon presentation to him of a license to marry as prescribed in §2-102. The person solemnizing a marriage may receive a fee to be stipulated by the parties, or the gratification tendered to him.
+
+Source: TTC §692 (1966); 39 TTC §53 (1970); 39 TTC §53 (1980)

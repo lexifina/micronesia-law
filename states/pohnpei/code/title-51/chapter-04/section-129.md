@@ -1,0 +1,3 @@
+§4-129. Application of payments made under orders of another court. A support order made by a court of the state of Pohnpei pursuant to this chapter does not nullify and is not nullified by a support order made by a court of another state pursuant to a substantially similar act or any other law, regardless of priority of issuance, unless otherwise specifically provided by the court. Amounts paid for a particular period pursuant to any support order made by a court of another state shall be credited against the amounts accruing or accrued for the same period under any support order made by a court of the state of Pohnpei.
+
+Source: P.L. No. 4C-37 §1; 39 TTC §425 (1980)

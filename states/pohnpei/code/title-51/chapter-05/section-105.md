@@ -1,0 +1,7 @@
+§5-105. Effect of decree. After a decree of adoption has become absolute, the child adopted and the adopting parents shall hold towards each other the legal relation of parent and child and have all the rights and be subject to all the duties of that relationship. The natural parents of the adopted child are, from the time of adoption, relieved of all parental duties toward the child and all responsibilities for the child so adopted, and have no right over it. A child adopted under this chapter shall have the same rights of inheritance as a person adopted in accordance with recognized custom at the place where the land is situated in the case of real estate, and at the place where the decedent was a resident at the time of his death in the case of personal property. Where there is no recognized custom as to rights of inheritance of adopted children, a child adopted under this chapter shall inherit from his adopting parents the same as if he were the natural child of the adopting parents, and he may also inherit from his natural parents and kindred the same as if no adoption has taken place.
+
+Source: TTC §710 (1966); 39 TTC §255 (1970); 39 TTC §255 (1980)
+
+Note: The phrase "parent or" appeared in the first and final sentences of this section in the 1966 edition of the Trust Territory Code, but was deleted from the 1970 and 1980 editions of the Trust Territory Code. See Public Law 3C-51, §1 and §3, 9/22/70.
+
+Cross-reference: See 49 PC 1-106.

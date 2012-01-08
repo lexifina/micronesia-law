@@ -1,0 +1,1 @@
+CHAPTER 5 ADOPTION Section 5-101 Jurisdiction 5-102 Adoption by decree 5-103 Consent or notice required 5-104 Appearance of child; best interests of child to control; citizenship considerations 5-105 Effect of decree
