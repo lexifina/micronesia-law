@@ -1,0 +1,1 @@
+CHAPTER 1 OFFICE OF THE AUDITOR Section 1-101 Definitions 1-102 Auditor: appointment; tenure; removal 1-103 Auditor: salary 1-104 Auditor: duties 1-105 Auditor: powers 1-106 Examination under oath 1-107 Discovery of irregularities 1-108 Appropriate prosecution 1-109 Employees and independent contractors 1-110 Required reports 1-111 Penalty for violation and false evidence
