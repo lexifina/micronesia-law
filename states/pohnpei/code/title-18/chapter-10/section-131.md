@@ -1,0 +1,7 @@
+§10-131. Full scholarship. Because of the desirability of encouraging young people to provide service in the highest and best tradition in our striving to develop Pohnpei State for and by its own people, it is especially appropriate at this time to create and establish educational scholarship programs to develop increased opportunities for young Pohnpeians to prepare and pursue careers in areas that serve the public.
+
+(1) In establishing eligibility requirements and curricular criteria pursuant to §10-125, on which the selection of awards of full scholarships shall be based, the Board shall ensure that only applicants of exceptionally high academic achievement or demonstrated capacity to perform well in their chosen field of study, shall be awarded full scholarships; PROVIDED that each recipient pursuing an undergraduate degree under this section must maintain a grade point average of at least 2.5 and that each recipient pursuing a professional or graduate degree in their fields of study must maintain a grade point average of 3.00 or its equivalent.
+
+(2) Each full scholarship awarded under this section shall not exceed the cost for tuition, fees, books, room and board, and transportation costs to and returning from studies at the end of each academic year, including emergency expenses as defined by the Director, and a monthly pocket allowance of not more than $50 for students with one or two dependents and $100 for students with three or more dependents.
+
+Source: S.L. No. 1L-195-87 §11, 11/17/87

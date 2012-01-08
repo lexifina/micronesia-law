@@ -1,0 +1,3 @@
+§1-107. Expense and compensation of Board Members. Members of the Board shall be compensated at the rates established by the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded by Pohnpei law, when actually performing functions of the Board at the direction of the Chairman, except that those members who are Pohnpei Government employees shall instead be granted administrative leave from their regular duties while performing functions of the Board. All members shall also receive travel expenses and per diem at Pohnpei Government rates when those amounts would be payable to Pohnpei Government employees in the same circumstances.
+
+Source: S.L. No. 4L-123-99 §2-4, 9/1/99

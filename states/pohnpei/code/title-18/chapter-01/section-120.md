@@ -1,0 +1,3 @@
+§1-120. Parent-Teacher Associations. The Department shall establish a Parent-Teacher Association for each public school. The principal administrator of each private school shall establish such association for his or her respective private school. The associations’ functions shall be to involve parents in the formal education of their children, and assist teachers in understanding the background of their students. All educational staff members of a school, and all parents, guardians, or other persons responsible for students enrolled at a school shall be considered members.
+
+Source: S.L. No. 4L-123-99 §3-9, 9/1/99

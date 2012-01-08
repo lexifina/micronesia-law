@@ -1,0 +1,3 @@
+§1-134. Public use of school facilities. The public shall be allowed to use public school facilities for lawful purposes at reasonable hours when the facilities are not in use by the Department. Any one wishing to do so shall submit a request in writing to the appropriate school principal, who may, with the approval of the Director or his designee, issue a permit. The Director may prescribe reasonable fees and charges for the use of public school facilities and shall ensure that the state is indemnified against any damage or loss on account of the use of the facilities by others.
+
+Source: S.L. No. 4L-123-99 §4-14, 9/1/99

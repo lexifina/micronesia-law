@@ -1,0 +1,3 @@
+§10-124. Pohnpei Scholarship Board. There is hereby established a Pohnpei Scholarship Board. The Board shall consist of eleven members who shall be appointed by the Governor with the advice and consent of the Legislature. The members of the Board shall be legal residents or citizens of Pohnpei. Each member appointed to the Board shall serve for a term of three years; PROVIDED, HOWEVER, that four of the initial members as designated by the Governor shall serve for a term of two years. A member of the Board may be removed for cause by the Governor. Vacancies on the Board shall be filled in the same manner as the original appointment.
+
+Source: S.L. No. 1L-195-87 §4, 11/17/87

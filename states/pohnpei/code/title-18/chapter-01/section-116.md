@@ -1,0 +1,3 @@
+§1-116. School districts; effect. For the better control and management of public schools, the Director, upon approval of the Board, may designate public school districts, establish their boundaries, and alter the same from time to time as he and the Board deem most advisable. Districts, if designated, shall be so constituted that there shall be no unassigned locality. All students shall be required to attend the school of the district in which they reside, unless for good cause shown to the Director, in which case the Director may grant a district exemption.
+
+Source: S.L. No. 4L-123-99 §3-6, 9/1/99

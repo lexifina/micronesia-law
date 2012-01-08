@@ -1,0 +1,3 @@
+§1-144. Regulation of private schools. Every private school shall be subject to regulation by the Department. The Board of Education shall prescribe uniform, minimum standards for the certification of the principals, teachers, and curriculum of private primary and secondary schools operating within the state, which standards shall be in substantial conformance with the standards applicable to the principals, teachers and curriculums of the public schools of this state. Private school premises shall also be held to comply with state standards with regard to sanitation and public safety.
+
+Source: S.L. No. 4L-123-99 §5-1, 9/1/99

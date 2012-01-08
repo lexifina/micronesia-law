@@ -1,0 +1,3 @@
+§10-127. Compensation of members. Expenditures for travel and per diem of Board members and personnel shall not exceed standard Pohnpei Government rates. Compensation in the amount established in the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded, shall be paid to members who are not employees of the Pohnpei Government when actually performing the functions of the Board, at the direction of the Chairman. Pohnpei Government employees who are members of the Board shall be granted administrative leave while attending Board meetings or performing other official business for the Board.
+
+Source: S.L. No. 1L-195-87 §7, 11/17/87; S.L. No. 4L-25-96 §13, 7/1/97

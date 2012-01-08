@@ -1,0 +1,3 @@
+§10-148. Establishing the student loan revolving fund. There is hereby established a Student Loan Revolving Fund, hereinafter referred to as the “fund,” separate from the general fund or other funds. All appropriations for student loans pursuant to this subchapter shall be deposited in the fund. In addition, all repayments of principal and interest from loans made from this fund shall be deposited back into the fund for the purposes stated in §10-142. Any unexpended money in this account shall not revert to the general fund or lapse at the end of the fiscal year.
+
+Source: S.L. No. 1L-156-87 §8, 7/29/87
