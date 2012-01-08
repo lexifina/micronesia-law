@@ -1,0 +1,3 @@
+§6-116. Register of Titles and Interests in Land; custody of Register; copies of certificates.  The original certificate of title shall be kept in a permanent register for the state that shall be known and cited as the “Register of Titles and Interests in Land.” This Register shall remain in the custody of the Court of Land Tenure and under the supervision of the Principal Judge thereof. Duplicate certificates of title shall be issued by the Court of Land Tenure. One duplicate copy, marked “Owner’s duplicate certificate,” shall be delivered by the court to the owner or authorized representative thereof, and a second duplicate copy shall be filed by the court with the Clerk of the Pohnpei Supreme Court.
+
+Source: S.L. No. 3L-99-95 §17-16, 7/20/95

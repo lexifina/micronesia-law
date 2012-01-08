@@ -1,0 +1,3 @@
+§6-112. Hearing involving a minor or incompetent; representative to be appointed. If a judge of the Court of Land Tenure finds that a party in interest is a minor or incompetent, the court shall appoint a person who is of age and sound mind to act as guardian and to represent such minor or incompetent unless he or she is already represented by a person appointed by a court or other proper authority. A guardian appointed by the court shall have full authority and power to act for the minor or incompetent in all matters in connection with his or her interest in the land; PROVIDED that a guardian may not encumber or in any way alienate any land under his or her guardianship except by an order of a court of competent jurisdiction.
+
+Source: S.L. No. 3L-99-95 §17-12, 7/20/95

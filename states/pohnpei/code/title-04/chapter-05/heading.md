@@ -1,0 +1,1 @@
+CHAPTER 5 COURT OF TRAFFIC AND MISDEMEANOR OFFENSES [PENDING, see 4 PC 5-108] Section 5-101 Establishment 5-102 Composition of the Court of Traffic and Misdemeanor Offenses 5-103 Qualifications of judges 5-104 Jurisdiction 5-105 Sessions, compensation, and procedures 5-106 Filing of record 5-107 Rehabilitation programs 5-108 Effective date

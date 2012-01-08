@@ -1,0 +1,3 @@
+§5-104. Jurisdiction. The territorial jurisdiction of the Court of Traffic and Misdemeanor Offenses extends to the whole of Pohnpei State. The subject matter jurisdiction of the court shall be concurrent with the Trial Division of the Pohnpei Supreme Court in all traffic and criminal cases that carry a maximum fine of not more than $1,000 or a maximum term of imprisonment of not more than one year, or both such fine and imprisonment, and in juvenile proceedings in which the action involves a minor charged with a violation of such traffic or criminal law.
+
+Source: S.L. No. 3L-99-95 §18-4, 7/20/95

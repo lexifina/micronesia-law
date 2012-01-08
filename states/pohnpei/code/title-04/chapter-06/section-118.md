@@ -1,0 +1,3 @@
+§6-118. Hearing and determinations required by Title 42 Chapter 3. The Court of Land Tenure herein created shall accede to all responsibilities and duties of the Land Commission and Land Registration Teams pursuant to Chapter 1 through Chapter 9 of this title and to Japanese and Trust Territory Government Leasehold Conveyance, Title 42 Chapter 3, as amended, and shall hear and adjudicate any and all claims of interests, rights or title to public land as provided in said statute. The court’s determination in such cases may be appealed to the Pohnpei Supreme Court in the manner prescribed by §6-114.
+
+Source: S.L. No. 3L-99-95 §17-18, 7/20/95

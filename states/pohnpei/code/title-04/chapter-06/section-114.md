@@ -1,0 +1,3 @@
+§6-114. Appeal from a determination of the Court of Land Tenure. Notwithstanding 57 PC 6- 102(1), determination of ownership by the Court of Land Tenure shall be subject to appeal by any party aggrieved thereby to the Appellate Division of the Pohnpei Supreme Court within 90 days from the date of notice of determination. Such appeal shall be treated and effected in the same manner as an appeal from the Trial Division of the Supreme Court in a civil action, shall be subject to the same fees, and the powers of the Supreme Court with respect thereto shall be the same. Decisions of the Appellate Division of the Supreme Court shall be final.
+
+Source: S.L. No. 3L-99-95 §17-14, 7/20/95

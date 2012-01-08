@@ -1,0 +1,3 @@
+§6-120. Hearing and determination of interests in public land prior to lease. The Court of Land Tenure, after due public notice, shall hear and adjudicate any and all claims of interests, rights or title to public land prior to the issuance of any lease or use agreement pursuant to 42 PC 2-101; PROVIDED that the hearing shall also establish that the proposed lease or use agreement meets all legal requirements for lease or use of public lands. Notices, the conduct of hearings, and appeals therefrom shall be as prescribed generally by Chapter 1 through Chapter 9 of this title for determinations by the court.
+
+Source: S.L. No. 6L-102-07 §1, 7/31/07

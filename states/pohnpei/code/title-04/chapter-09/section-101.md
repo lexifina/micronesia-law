@@ -1,0 +1,3 @@
+§9-101. Administration. The Chief Justice of the Pohnpei Supreme Court and the presiding judges of the other courts of this state shall take such actions as may be necessary to provide for the orderly transition of the state judiciary under Chapter 1 through Chapter 9 of this title. Except as otherwise provided by Chapter 1 through Chapter 9 of this title, justices, judges, and personnel of the state judiciary and appropriations to the state judiciary shall be continued for the state judiciary as organized under Chapter 1 through Chapter 9 of this title.
+
+Source: S.L. No. 3L-99-95 §20-1, 7/20/95
