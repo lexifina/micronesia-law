@@ -1,0 +1,3 @@
+§6-107. Taxi signs.  Every individual, partnership, company or other business association in whose name a taxicab is registered shall prominently display on both sides of the exterior of such taxicab the word “taxi” and the name under which it is registered. In the event that more than one taxicab is registered in the name of any one individual, partnership, corporation, company or other business association, such taxicabs shall be serially numbered and the applicable serial number similarly displayed on both sides of the exterior of each such taxicab in such size and manner as the Director by uniform regulations shall prescribe.
+
+Source: S.L. No. 2L-132-82 §907, 7/9/82

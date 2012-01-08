@@ -1,0 +1,3 @@
+§3-117. General misdemeanor provision.  It is a misdemeanor for any person to drive or move, or for the owner to cause or knowingly permit to be driven or moved, on any highway, any vehicle or combination of vehicles in such unsafe condition as to endanger any person, or which does not contain those parts, or is not at all times equipped with such lamps and other equipment in proper condition and adjustment as is required by this chapter, or which is equipped in any manner in violation of this chapter, or for any person to do any act forbidden or fail to perform any act required under this chapter.
+
+Source: S.L. No. 2L-132-82 §517, 7/9/82

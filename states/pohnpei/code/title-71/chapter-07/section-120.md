@@ -1,0 +1,3 @@
+§7-120. Reexamination of licensee.  The Director, having good cause to believe that a licensed driver is incompetent or is otherwise not qualified to be licensed, may, upon written notice of at least five days to the licensee, require him to submit to an examination. Upon the conclusion of such examination, the Director shall take such action as may be appropriate and may suspend or revoke the license of such person, permit him to retain such license, or issue a license subject to physical operational restrictions or restrictions as to the type or class of vehicles that may be driven. Refusal or neglect of the licensee to submit to such examination shall be grounds for suspension or revocation of his license.
+
+Source: S.L. No. 2L-132-82 §320, 7/9/82

@@ -1,0 +1,1 @@
+CHAPTER 5 EMERGENCY VEHICLES Section 5-101 Definition of “emergency vehicle” 5-102 Exemption from traffic laws; maximum speed; driver’s duty 5-103 Use of emergency warning devices 5-104 Duties owed emergency vehicles 5-105 Prohibition of emergency warning equipment on unauthorized vehicles

@@ -1,0 +1,1 @@
+CHAPTER 12 SERIOUS TRAFFIC OFFENSES Section 12-101 Careless driving 12-102 Reckless driving 12-103 Fleeing from or attempting to elude a police officer 12-104 Homicide by vehicle 12-105 Driving while under the influence of alcohol or other drugs 12-106 Causing death or bodily injury while driving under the influence 12-107 Jurisdiction over serious offenses

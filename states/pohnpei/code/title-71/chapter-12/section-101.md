@@ -1,0 +1,3 @@
+§12-101. Careless driving.  Any person who drives any vehicle upon a roadway or place accessible to the public in a careless and imprudent manner without due regard for the width, grade, curves, corners, traffic or other attending circumstances is guilty of careless driving and shall be punished by a fine of not more than $50, or imprisonment for not more than 30 days, or both such fine and imprisonment. Whenever such careless driving of a vehicle proximately causes bodily injury to any person, the person so driving such vehicle shall be fined not more than $250, or imprisoned for not more than six months, or both such fine and imprisonment.
+
+Source: S.L. No. 2L-132-82 §801, 7/9/82

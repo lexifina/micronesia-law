@@ -1,0 +1,3 @@
+§6-108. Passengers on vehicles.  Passengers shall not be permitted to ride on the running boards, bumpers, fenders, tailgates, sides or on any other outside part of passenger-carrying vehicles; PROVIDED that the bed of any truck or pickup shall not be considered an outside part. The Director shall promulgate necessary rules and regulations to govern the maximum number of passengers allowable on each type of passenger-carrying commercial vehicle. The said rules and regulations shall be promulgated and take effect not later than 60 days following the effective date of this title [effective date of title is July 9, 1982].
+
+Source: S.L. No. 2L-132-82 §908, 7/9/82; S.L. No. 3L-5-92 §3, 4/28/93

@@ -1,0 +1,3 @@
+§2-101. Application for registration.  Every owner of a motor vehicle intended to be operated on any road of the state shall, before the same is so operated, apply to the Director for and obtain registration thereof. Application for registration of a vehicle shall be made on a form to be prescribed by the Director and shall be signed by the owner and contain his residence address and a brief description of the vehicle to be registered, including the name of the maker, name of the importer, the engine and serial number, whether new or used. The owner of any vehicle purchased outside the state shall exhibit such evidence as will satisfy the Director that the applicant is the lawful owner of the vehicle.
+
+Source: S.L. No. 2L-132-82 §201, 7/9/82

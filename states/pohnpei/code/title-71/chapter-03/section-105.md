@@ -1,0 +1,3 @@
+§3-105. Lamps on vehicles not specifically covered by this chapter.  Every motor or other vehicle, including bicycles and all other conveyances used on a roadway, not specifically required by this chapter to be equipped with lamps or other lighting devices, shall at all times specified in §3-101 be equipped with a lamp emitting a light visible under normal atmospheric conditions from a distance of 300 feet in front of such vehicle and with a red reflector on the rear so designed as to be visible at least 300 feet directly in front of a motor vehicle displaying lawful dimmed head lamps or with a rear lamp exhibiting a red light visible from a distance of 300 feet to the rear.
+
+Source: S.L. No. 2L-132-82 §505, 7/9/82
