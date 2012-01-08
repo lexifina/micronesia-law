@@ -1,0 +1,3 @@
+§1-104. Unauthorized destruction, removal or use of property. Prior to completion of performance of all the terms of the agreement to be performed by the debtor, whoever maliciously or with intent to defraud shall injure, destroy or conceal the property, or remove it without the consent of the creditor from the state, if any, where the agreement provides that it is to be used, or shall sell, mortgage or otherwise dispose of the property under claim of full ownership, shall be guilty of a misdemeanor and upon conviction thereof shall be imprisoned for a period of not more than six months, or fined not more than $100, or both.
+
+Source: TTC §279(e) (1966); 57 TTC §4 (1970); 57 TTC §4 (1980)

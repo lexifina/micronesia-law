@@ -1,0 +1,3 @@
+§1-105. Procedure if creditor fails to comply with title. If the creditor fails to comply with this title, disposition of the property may be ordered or restrained in a civil action in court on such terms and conditions as the court deems best. If the property has been taken or disposed of by the creditor other than in accordance with this title, the debtor may recover his actual damages, if any, and in no event less than one-fourth of the sum of all payments that have been made under the agreement, with interest at six percent (6%) a year.
+
+Source: TTC §279(f) (1966); 57 TTC §5 (1970); 57 TTC §5 (1980)

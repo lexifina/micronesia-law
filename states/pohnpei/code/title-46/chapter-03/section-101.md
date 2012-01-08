@@ -1,0 +1,3 @@
+§3-101. Civil action for foreclosure authorized. The creditor may bring a civil action for foreclosure in such manner as the court may order. If the creditor starts foreclosure under the provisions of Chapter 2 of this title, he may abandon that at any point and proceed by a civil action. After proper service on the defendant or defendants, the court may order foreclosure in such manner as it deems will best protect the rights of the parties.
+
+Source: TTC §279(h)(2) (1966); 57 TTC §101 (1970); 57 TTC §101 (1980) TITLES 47 & 48 [RESERVED] PERSONAL PROPERTY (Next page is Title 49 divider) titlE 49 Wills and decedents estates Title Cover Page
