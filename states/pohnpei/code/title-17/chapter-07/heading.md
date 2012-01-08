@@ -1,0 +1,1 @@
+CHAPTER 7 MENTAL ILLNESSES Section 7-101 Diagnosis, treatment, and care 7-102 Commitment for insanity 7-103 Temporary commitments 7-104 Transfers 7-105 Release 7-106 Apprehension of absentees or escapees

@@ -1,0 +1,3 @@
+§4-157. Appropriation requests. The Plan shall, following consultation with appropriate officials of the state and national governments, present an annual request to the Legislature for appropriation from the health care premium fund to provide the state government’s share of payments necessary to finance the essential level of health care coverage for all eligible enrollees. Such request shall include information as to the level of support being requested of the national government and other sources for financing the essential level of coverage provided by the Plan.
+
+Source: S.L. No. 3L-39-93 §8-4, 7/29/93

@@ -1,0 +1,3 @@
+§10-101. Dental and medical nurses’ aides training: authorization for appropriation; administration. There is hereby authorized for appropriation from the general fund of the Pohnpei Treasury a sum of money to assist the on-the-job training program in Pohnpei State for dental and medical nurses’ aides. Compensation, and annual and sick leave shall be administered in accordance with Public Service System Act, Title 9 Chapter 2 and the state personnel manual. All the sums herein authorized for appropriation shall be expended and administered by the Director of the Department of Health Services solely for the purposes specified in this section.
+
+Source: PDC §7-2, 3/71; D.L. No. 3L-58-73 §15, 5/29/73

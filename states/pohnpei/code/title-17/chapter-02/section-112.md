@@ -1,0 +1,9 @@
+§2-112. Contract-letting by the Board. The purchase of all supplies and materials and the construction of all works, when the expenditure exceeds $5,000, shall be let, by contract, to the lowest responsible bidder. Notice requesting bids shall be published at least ten days before bids are received. The Board may reject any and all bids and re-advertise at its discretion.
+
+(1) If, after rejecting bids for materials and supplies, the Board determines that, in its opinion, the materials and supplies may be purchased at a lower price in the open market, the Board may authorize, upon written notice to the Governor with documentation as to the reasons for its decision, such purchase without further observance of the provisions requiring contracts, bids or notices.
+
+(2) In case of major public calamity, or whenever it is in the compelling interest of public safety and of immediate necessity to keep public medical services operational, the Board may determine that the public interest and necessity demand the immediate expenditure of funds to keep the public medical services operational or in a safe condition following written notification to the Governor and the Legislature of such determination and, upon written notice to the Governor with documentation as to the reasons for its decision, authorize the expenditure of such sums as may be needed without the observation of the provisions requiring contracts, bids or notices.
+
+(3) No director shall have any financial interest, direct or indirect, in any contract awarded by the Board. The provision shall not apply to contracts awarded to a corporation in which such director owns less than five percent (5%) of the entire capital stock or in which he does not hold any office or employment. The Board shall establish procedures for the timely verification of this restriction by its general counsel.
+
+Source: S.L. No. 4L-65-98 §12, pending

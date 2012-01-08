@@ -1,0 +1,3 @@
+§2-105. Tax liability. The Corporation shall exist and operate solely for the benefit of the public and shall be exempt from any taxes or assessments on any of its property, operations or activities imposed by the Pohnpei Government or local governments and, to the extent allowable, by the Federated States of Micronesia Government. Nothing herein shall be deemed to exempt employees and independent contractors of the Corporation from tax liability for services rendered to the Corporation, and the Corporation shall be liable for employers’ contributions to existing social security systems in the manner provided by law.
+
+Source: S.L. No. 4L-65-98 §5, pending

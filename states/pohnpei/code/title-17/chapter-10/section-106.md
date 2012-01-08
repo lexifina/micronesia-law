@@ -1,0 +1,9 @@
+§10-106. Medical Supplies Revolving Fund: authorization for appropriation. 
+
+(1) There is hereby established within the Pohnpei Treasury a fund, to be separate and apart from other funds of the state, hereinafter referred to as the “Medical Supplies Revolving Fund,” or “fund,” to be maintained by the Department of Treasury and Administration.
+
+(2) There shall be deposited into the Medical Supplies Revolving Fund all monies collected from or on behalf of patients or clients of the Pohnpei Department of Health Services, including all payments to said Department from the FSM National Health Insurance Program. Independent records and accounts of all deposits therein shall be maintained in connection therewith. Monies in the fund are hereby continually appropriated for use by the Department of Health Services solely for the purchase of medical supplies, inclusive of pharmaceutical supplies, for use by the Department of Health services, its clinics, dispensaries, programs, and patients.
+
+(3) It is hereby authorized to appropriate from the Medical Supplies Revolving Fund of Pohnpei, as created by Subsections (1) and (2) of this section. The sums deposited in the fund are hereby continually appropriated, as though incorporated in the annual Comprehensive Budget Act, solely for the purposes stated in Subsections (1) and (2) of this section. All monies herein appropriated under the authorization of this subsection shall be administered and expended by the Director of the Department of Health Services solely for the purposes specified in Subsections (1) and (2) of this section. The Director shall report to the Legislature on or before October 15 each year on all matters concerning the expenditure of the sums authorized and appropriated under this subsection.
+
+Source: S.L. No. 3L-100-95 §§1 & 2, 9/6/95 HEALTH & WELFARE (Next page is Title 18 divider) titlE 18 education Title Cover Page

@@ -1,0 +1,3 @@
+§8-102. Statement of policy. The Legislature, in recognition of the obligation of the Pohnpei Government to provide free access and special services to needy people with disabilities that may include designation of areas for people with disabilities, and requiring the Governor’s Office or an appropriate entity to commence a plan to include accommodation of needy people with disabilities, hereby declares that it is the policy of state of Pohnpei and the purpose of this chapter to provide the means of providing services to needy people with disabilities in public and private areas.
+
+Source: S.L. No. 5L-30-01 §2, 2/27/01

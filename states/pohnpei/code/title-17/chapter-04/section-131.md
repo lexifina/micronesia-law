@@ -1,0 +1,3 @@
+§4-131. Optional benefits. The Board, by regulation, may provide for and offer to enrollees additional benefits, either in the form of covered services in addition to those defined pursuant to §4- 127 or higher benefit amounts than those set pursuant to §4-128, and shall provide for payment of additional premiums by or on behalf of enrollees for such benefits. Notwithstanding the foregoing language of this section, the Board shall establish and maintain at least one level of optional coverage available to enrollees and their dependents and prescribe the benefits and premiums pertaining thereto.
+
+Source: S.L. No. 3L-39-93 §4-8, 7/29/93

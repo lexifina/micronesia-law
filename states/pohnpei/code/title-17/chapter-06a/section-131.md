@@ -1,0 +1,3 @@
+§6A-131. Prohibitions on compulsory HIV testing. Compulsory HIV testing as a precondition to employment, admission to educational institutions, the exercise of freedom of abode, entry or continued stay in the state, the right to travel, the provision of medical service or any other kind of service, or the continued enjoyment of said undertakings shall be deemed unlawful. Intentional violation of this section is punishable with a penalty of imprisonment for not less than six months or more than two years, a fine of not more than $1,000, or both such fine and imprisonment.
+
+Source: S.L. No. 6L-114-08 §1, 1/10/08

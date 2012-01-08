@@ -1,0 +1,3 @@
+§4-143. Management of fund. The Executive Director shall be the custodian of the fund and shall administer the fund in accordance with the rules and regulations established by the Board. All monies in the fund shall be held in trust solely for the purposes of this chapter. With the approval and under the direction of the Board, the Executive Director may, from time to time, invest such monies in the fund as are in excess of the amount deemed necessary for a reasonable future period. The investments shall at all times be so made that all the assets of the fund shall be readily convertible into cash when needed for the purposes of this chapter.
+
+Source: S.L. No. 3L-39-93 §6-2, 7/29/93

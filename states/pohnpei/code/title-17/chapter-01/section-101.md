@@ -1,0 +1,3 @@
+§1-101. Duties of Director of the Department of Health Services. The Director of the Department of Health Services, either personally or by his duly authorized representatives, shall maintain and improve health and sanitary conditions, minimize and control communicable disease, establish standards of medical and dental care and practice, encourage scientific investigation in the field of health, supervise and administer all government-owned hospitals, sanitaria, clinics, dispensaries, and such other medical and dental facilities as are or may be established throughout the state of Pohnpei.
+
+Source: TTC §611 (1966); 63 TTC §2 (1970); 63 TTC §2 (1980)

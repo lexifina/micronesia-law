@@ -1,0 +1,3 @@
+§6A-120. Requirement on the donation of blood, tissue or organ. No laboratory or institution shall accept a donation of tissue or organ, unless a sample from the donor has been tested negative for HIV. All donated blood shall also be subjected to HIV testing and HIV Positive blood shall be disposed of properly and immediately. A second testing may be requested as a matter of right by the blood, tissue, or organ recipient or his immediate relatives before transfusion or transplant, except during emergency cases; PROVIDED, that the donations of blood, tissue, or organ testing positive for HIV may be accepted for research purposes only, and subject to strict sanitary disposal requirements.
+
+Source: S.L. No. 6L-114-08 §1, 1/10/08

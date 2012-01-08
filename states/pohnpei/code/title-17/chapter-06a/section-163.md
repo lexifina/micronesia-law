@@ -1,0 +1,3 @@
+§6A-163. Penalties for violation of confidentiality. Any violation of medical confidentiality as provided in Sections 6A-160 and 6A-162 of this chapter shall suffer the penalty of imprisonment for not less than six months and not more than one year, a fine of not more than $500, or both such fine and imprisonment without prejudice to administrative sanctions such as fines and suspension or revocation of the violator’s license to practice his/her profession, as well as the cancellation or withdrawal of the license to operate any business entity and the accreditation of hospitals, laboratories or clinics.
+
+Source: S.L. No. 6L-114-08 §1, 1/10/08

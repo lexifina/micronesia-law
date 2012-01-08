@@ -1,0 +1,3 @@
+§6A-151. Reporting procedures. It is mandatory for all the public and private health care facilities to report each new HIV infection diagnosed to the Department of Health Services utilizing the agreed name code system. The Department of Health Services shall adopt regulations implementing this section which shall provide for the reporting of relevant epidemiological information including but not limited to gender, ethnicity, residence, clinical status at time of diagnosis and likely mode of transmission. All public and private health care facilities shall also report the death of any person previously diagnosed with HIV, along with the cause of death.
+
+Source: S.L. No. 6L-114-08 §1, 1/10/08

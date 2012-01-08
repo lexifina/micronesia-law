@@ -1,0 +1,3 @@
+§4-132. Other coverage. The obligations of the Plan to make payment for benefits under this chapter is secondary to the obligation of any other individual or entity to make payment for the same service. The Board, by regulation, shall establish policies and procedures for the coordination of benefits provided by this chapter and any other sources, which policies and procedures shall establish the secondary nature of benefits under this chapter. Any overpayments of benefits made under this chapter may be recovered by the Plan from any person to or for whom the payment was made or from any company or organization that is obligated to pay for such services.
+
+Source: S.L. No. 3L-39-93 §4-9, 7/29/93

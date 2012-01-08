@@ -1,0 +1,3 @@
+§2-117. Employee rights and responsibilities. The Board shall establish rules and regulations governing the selection, promotion, performance evaluation, demotion, suspension, dismissal, and other disciplinary rules for employees of the Corporation. Employees of the Corporation shall be eligible to participate in any health insurance plan, life insurance plan, retirement fund, and workers’ compensation insurance available to Pohnpei Government employees. The Corporation shall contribute to such programs on the basis of periodic billings as determined by the governing authorities thereof.
+
+Source: S.L. No. 4L-65-98 §17, pending

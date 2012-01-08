@@ -1,0 +1,3 @@
+§4-107. Terms of office and reappointment. Of the voting Board members initially appointed, one shall serve for a term of one year, two shall serve for a term of two years, and two shall serve for a term of three years, all as determined by the drawing of lots at the organizational meeting. A member appointed to fill a vacancy occurring during the term for which his predecessor was appointed shall be appointed for the remainder of that term. Each Board member shall hold office until his successor is appointed and qualified. Board members shall be eligible for reappointment.
+
+Source: S.L. No. 3L-39-93 §2-3, 7/29/93

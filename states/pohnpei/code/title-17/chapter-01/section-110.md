@@ -1,0 +1,3 @@
+§1-110. Payment of fees for services. Individual or group fees shall be paid for all medical and dental services provided by the government of the state of Pohnpei in accordance with schedules and regulations recommended by the Director of Health Services and approved by the Governor, except for such services as the Governor determines shall be free in order to best serve the public interest; PROVIDED, that no one in need of medical care shall be denied such care because of inability to pay all or any part of any fee established, and PROVIDED FURTHER, that there shall be no distinction in treatment or care based upon nonpayment or the amount of payment.
+
+Source: TTC §617 (1966); 63 TTC §155 (1970); 63 TTC §155 (1980)

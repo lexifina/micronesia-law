@@ -1,0 +1,3 @@
+§1-105. Autopsies. Autopsies and post-mortem examinations may be performed by a physician as a means of revealing or clarifying the cause of death, provided each examination does not violate local custom, and provided written consent is secured from the nearest responsible relative. In the case of a death under conditions suggesting poisoning, violence or unusual circumstances, where the cause and manner of death cannot otherwise be satisfactorily ascertained, an autopsy shall be performed if practicable, whenever recommended by the Director of the Department of Health Services or the Attorney General and approved by the Governor.
+
+Source: TTC §623 (1966); 63 TTC §52 (1970); 63 TTC §52 (1980)

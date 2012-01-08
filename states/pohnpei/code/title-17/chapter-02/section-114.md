@@ -1,0 +1,3 @@
+§2-114. Budget preparation. The hospital administrator shall prepare, in advance of each fiscal year and under the supervision of the Board, an annual budget for the Corporation, taking into consideration anticipated capital and operational expenditures and anticipated revenues. The Corporation shall use the same fiscal calendar as that of the Pohnpei Government. The budget shall indicate the operational, capital, and maintenance requirements of the Corporation that will be met with the anticipated revenues of the Corporation, and such essential requirements as cannot be met without increase in the rate of revenues or outside financial assistance.
+
+Source: S.L. No. 4L-65-98 §14, pending

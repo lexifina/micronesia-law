@@ -1,0 +1,1 @@
+CHAPTER 6 INFECTIOUS AND CONTAGIOUS DISEASES Section 6-101 Definitions 6-102 Presumption 6-103 Quarantine, confinement, and treatment of infectious and contagious diseases 6-104 Power to affect school attendance 6-105 Penalty 6-106 Regulations
