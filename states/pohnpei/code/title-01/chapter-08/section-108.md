@@ -1,0 +1,3 @@
+§8-108. Wrongful disclosure of information. Whoever, being or having been involved in carrying out any provision of this chapter, either temporary or permanent, or having taken and subscribed the oath set forth in §8-107, or otherwise having sworn to observe the limitations imposed by §8-106, willingly publishes or communicates any information, the disclosure of which is prohibited under §8-106, and which comes into his possession by reason of his employment or provisions of services under this chapter, shall be fined not more than $1,000, or imprisoned not more than one year, or both such fine and imprisonment.
+
+Source: S.L. No. 1L-33-85 §8, 9/19/85

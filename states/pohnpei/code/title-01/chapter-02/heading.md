@@ -1,0 +1,1 @@
+CHAPTER 2 PROCEDURE TO AMEND CONSTITUTION Section 2-101 Short title 2-102 Method of proposing constitutional amendments 2-103 Format of amendment 2-104 Ratification of constitutional amendments 2-105 Notice of ratification – effectiveness

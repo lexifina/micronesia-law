@@ -1,0 +1,1 @@
+CHAPTER 6 NAMES, EMBLEMS, SYMBOLS, AND ANTHEM Section 6-101 “Pohnpei” is official term 6-102 The great seal of the state of Pohnpei 6-103 Custody and use of the seal 6-104 Malicious or commercial use of the seal 6-105 Flag of Pohnpei 6-106 Display of the flag 6-107 State bird 6-108 State anthem: “I Sohte Kak Moanokehla Pohnpei” 6-109 Conduct during playing
