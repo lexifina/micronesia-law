@@ -1,0 +1,3 @@
+§2-119. Jurisdiction. Except as otherwise provided by law or by express contract with the Pohnpei Government, original jurisdiction on a claim against the Pohnpei Government or claim against any employee thereof for acts or omissions arising from his or her public duty or employment shall reside in the Trial Division of the Pohnpei Supreme Court. Jurisdiction shall extend to any off- set, affirmative defense, counterclaim or other claim or demand pleaded by the Government of Pohnpei or other properly joined party to such action, against any plaintiff commencing action under this chapter.
+
+Source: S.L. No. 2L-192-91 §19, 4/3/91

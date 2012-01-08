@@ -1,0 +1,7 @@
+§2-124. Disposition by the governmental agency. 
+
+(1) An action shall not be instituted upon a claim against the state or an employee acting within the scope of his or her public duties or employment unless the claimant shall have first presented the claim to the appropriate governmental agency and the claim shall have been finally denied by the agency in writing. The administrative procedure heretofore or hereafter adopted by statute, if applicable, shall be followed. If such statutory procedure has not been established or is not applicable, then the failure of the governmental agency to make a final disposition of a claim within 50 days after it is filed shall, at the claimant’s option, be deemed a final denial of the claim for purposes of this section. The statute of limitations shall not toll during the period of administrative appeal and review. This subsection shall not apply to such claims as may be asserted under the Court’s Rules of Civil Procedure by third party complaint, cross-claim or counterclaim.
+
+(2) Court actions under this section shall not be instituted for any sum in excess of the amount of the claim presented to the governmental agency, except where the increased amount is based upon newly discovered evidence not reasonably discoverable at the time of presenting the claim to the governmental agency, or upon allegation and proof of intervening facts relating to the amount of the claim; PROVIDED that in no event shall the claim exceed the limit set out in §2-106.
+
+Source: S.L. No. 2L-192-91 §24, 4/3/91

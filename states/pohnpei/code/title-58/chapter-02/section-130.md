@@ -1,0 +1,3 @@
+§2-130. Payment of judgments. Money judgments rendered against the state of Pohnpei and its employees pursuant to this chapter shall only be paid from funds specifically appropriated for that purpose by the Legislature and deposited in the Civil Action Liability Fund established by this chapter or otherwise paid into the fund under this chapter. Funds set aside by law as security for the repayment of debts and other contractual obligations of the state government shall be deemed to be paid into the fund for the satisfaction of judgments with respect thereto.
+
+Source: S.L. No. 2L-192-91 §30, 4/3/91

@@ -1,0 +1,3 @@
+§8-102. Application for writ of habeas corpus. Application for the writ of habeas corpus shall be made to the Trial Division of the Pohnpei Supreme Court or to a local court of the state within whose jurisdiction the person is claimed to be unlawfully detained. Application for the writ shall be made by a written statement under oath signed by the party for whose relief it is intended, or by some person on his behalf. The statement shall set forth the facts concerning the imprisonment or restraint of the person for whose relief it is intended, and, if known, the name of the person who has custody over him, and by virtue of what claim of authority the imprisonment or restraint is being practiced.
+
+Source: S.L. No. 3L-99-95 §13-4, 7/20/95

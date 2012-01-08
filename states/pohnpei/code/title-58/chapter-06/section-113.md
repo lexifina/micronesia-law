@@ -1,0 +1,3 @@
+§6-113. Damages. The trial court may award such damages, not exceeding the sum of $100,000, as it may think proportioned to the pecuniary injury resulting from such death, to the persons, respectively, for whose benefit the action was brought; PROVIDED, HOWEVER, that where the decedent was a child, and where the plaintiff in the suit brought under this chapter is the parent of such child, or one who stands in the place of a parent pursuant to customary law, such damages shall include his or her mental pain and suffering for the loss of such child, without regard to provable pecuniary damages.
+
+Source: S.L. No. 3L-99-95 §9-3, 7/20/95

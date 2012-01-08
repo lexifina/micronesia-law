@@ -1,0 +1,3 @@
+§2-115. Liability of state for failure to defend. If the Attorney General does not provide a defense of an employee in any civil action in which the state is also a named defendant, or which was brought in a court other than a court of competent jurisdiction of this state, and if it is judicially determined that the injuries arose out of an act or omission of that person during the performance of any duty within the scope of his or her public duty or employment and that his or her act is not wanton or malicious, and that such person requested defense by the state pursuant to this chapter, the state is liable to that person for reasonable expenses in prosecuting his or her own defense, inclusive of court costs and attorneys’ fees.
+
+Source: S.L. No. 2L-192-91 §15, 4/3/91
