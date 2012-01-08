@@ -1,0 +1,5 @@
+§1-101. Providing for administrative procedures. Notwithstanding any other state law, 17 TTC
+
+(1980) shall have no application or effect on the administrative actions of the state government, its officers, agencies, and instrumentalities, or rules or regulations issued thereby; PROVIDED that in the issuance of rules or regulations the issuing state authority shall provide for prior notice and opportunity to be heard. Public notice shall include at least seven announcements relative to the proposed rule or regulation on the public radio station and posting at the Pohnpei Supreme Court building and at the local government buildings in those local jurisdictions which are affected thereby. The issuing authority shall provide for publication and reasonable distribution of all rules and regulations issued hereunder. All other restrictions and provisions of state law relative to the issuance of rules and regulations shall not be affected by this chapter.
+
+Source: S.L. No. 2L-12-80 §1, 6/28/80 ADMINISTRATIVE LAW

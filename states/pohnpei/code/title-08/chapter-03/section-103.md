@@ -1,0 +1,3 @@
+§3-103. Relief pending review. When an agency finds that justice so requires, it may postpone the effective date of the action taken by it, pending judicial review. On such conditions as may be required and to the extent necessary to prevent irreparable injury, the Trial Division of the Pohnpei Supreme Court, or the Appellate Division of the Supreme Court should an appeal be taken, may issue all necessary and appropriate process to postpone the effective date of an agency action or to preserve the status or rights pending conclusion of the review proceedings.
+
+Source: S.L. No. 3L-99-95 §14-3, 7/20/95
