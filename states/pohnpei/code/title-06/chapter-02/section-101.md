@@ -1,0 +1,3 @@
+§2-101. Findings. It is the sense of the Pohnpei Legislature that if Pohnpei is to gain true self- reliance in the foreseeable future, the valuable participation and efforts of all its inhabitants must be recognized and fostered. In the drive toward self-reliance, the participation of local governments, closest to the heart and pulse of the people in their homes and communities, is of crucial importance. It is therefore at this level where developmental planning can have the most dramatic and beneficial influence on the future progress of our people, and it is for this level of planning and development that this statute has been enacted.
+
+Source: S.L. No. 1L-16-85 §1, 4/23/85

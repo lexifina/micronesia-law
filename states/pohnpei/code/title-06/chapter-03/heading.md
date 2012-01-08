@@ -1,0 +1,1 @@
+CHAPTER 3 FINANCING SUBCHAPTER I REVENUE SHARING Section 3-101 Short title 3-102 Purpose 3-103 Revenue sharing 3-104 Authorization for appropriation; administration SUBCHAPTER II RESIDENCY REQUIREMENTS 3-105 Residency required for liability 3-106 Local government improvement tax 3-107 Temporary residence SUBCHAPTER I REVENUE SHARING

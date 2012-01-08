@@ -1,0 +1,3 @@
+§2-107. Plan enactment. Following review and public hearings on each of the plans submitted by the local governments, and having approved of the technical aspects and contents thereof, the Legislature shall, by a single statute, adopt said plans as a part of the official overall development policy of Pohnpei; PROVIDED that if a local government plan has not been submitted, or if the hearing and approval process relative thereto has yet to be completed by January 30, for the plan for the next fiscal year the Legislature may enact a statute relative to such plans that have been so approved, and by later amendment to said statute provide for the adoption of subsequently approved plans.
+
+Source: S.L. No. 1L-16-85 §7, 4/23/85
