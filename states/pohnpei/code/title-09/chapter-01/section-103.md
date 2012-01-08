@@ -1,0 +1,3 @@
+§1-103. Appointment procedures. All offices listed in §1-102 shall be filled by appointment of the Governor and subject to the advice and consent of the Pohnpei Legislature in the manner prescribed by law. Nominations shall be made to the Legislature by the Governor not later than 60 days following his/her inauguration as Governor of this state. Nominations shall be made to the office of the Speaker of the Legislature on a form prescribed by the Attorney General and shall be marked as to the time and date of receipt by the Legislative Clerk.
+
+Source: S.L. No. 2L-177-83 §3, 5/5/83; S.L. No. 3L-43-93 §1, 8/13/93

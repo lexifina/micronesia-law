@@ -1,0 +1,7 @@
+§8-111. Contracts. 
+
+(1) A state agency shall not enter into any contract with a public officer or with a business in which a public officer has a controlling interest, unless the contract has been awarded through an open, public process. A state agency may, however, enter into such contract without resort to competitive bidding process when, in the opinion of the procurement officer of that branch or entity of government, the property or services does not fall within the purview of competitive bidding; PROVIDED that written justification for the non-competitive award of such contract or combination of related contracts of a cumulative total of $1,000 or more be made a matter of public record and shall be filed with the Pohnpei Ethics Commission at least five working days before such contract is entered into. With regards to members of boards, commissions, and committees, this subsection shall apply only to contracts entered into between a business in which a member has a controlling interest and a state agency in which the board, commission or committee to which the individual is appointed has jurisdiction.
+
+(2) A state agency shall not enter into a contract with any person or business which is represented or assisted in a material manner in the matter by a person who has been a public officer of that agency within the preceding 12 months and who participated while in state office or employment in a material manner in the matter with which the contract is directly concerned.
+
+Source: S.L. No. 5L-11-00 §2-7, 8/1/00

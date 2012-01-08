@@ -1,0 +1,3 @@
+§1-106. Existing contracts. Nothing in this chapter shall impair the rights and obligations of any provision of an existing employment contract for the executive head of an office listed under §1-102, for the extent of the present term of that contract; PROVIDED that any renewal of said contract shall be negotiated in a manner consistent with this chapter.
+
+Source: S.L. No. 2L-177-83 §6, 5/5/83 Notes: 1. S.L. No. 2L-177-83 §13, 5/5/83 repealed S.L. No. 2L-173-83, 4/22/83 in its entirety. 2. The Governor signed the act on 5/5/82; however, since the act passed the Ponape Legislature on April 28, 1983, it can be assumed that the actual effective date was 5/5/83.

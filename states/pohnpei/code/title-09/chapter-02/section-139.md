@@ -1,0 +1,3 @@
+§2-139. Disciplinary action: dismissal; demotion. A management official may, for disciplinary reasons, dismiss or demote an employee for such causes that will promote the efficiency of the public service. Demotions may also be made for reasons other than disciplinary ones. The personnel regulations shall specify the circumstances in which such demotions may be authorized. No dismissal or demotion of a permanent employee shall be effective for any purpose until the management official transmits to the employee, by the most practical means, a written notice setting forth the specific reasons for the dismissal or demotion and the employee’s rights of appeal. A copy of the notice shall be filed with the Director without delay.
+
+Source: S.L. No. 2L-57-81 §27(2), 10/1/81

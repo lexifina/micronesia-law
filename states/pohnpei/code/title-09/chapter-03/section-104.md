@@ -1,0 +1,5 @@
+§3-104. Exempt positions. Commencing on the effective date of this chapter [July 1, 1997], employees of the Pohnpei Government who are exempted from the Public Service System of the executive branch or similar civil service systems of the Legislature, the Judiciary, and the Office of the Public Auditor, and whose compensation is not otherwise provided for in the amendments to the laws of this state as provided in this chapter, may only be compensated at regular intervals commensurate with the regular pay periods of the government at that percentage of compensation for the period of time covered in the pay period that such exempted employee was otherwise entitled to immediately preceding the effective date of this chapter, or as may hereafter be provided by contract or other arrangement, which percentage is prescribed in the Comprehensive Budget Act for that fiscal year for the calculation of the compensation of officers and employees of the government for the same pay period.
+
+Source: S.L. No. 4L-25-96 §14, 7/1/97; S.L. No. 4L-29-97 §5, 3/30/97
+
+Note: S.L. No. 4L-25-96 §15 appropriation provision has been omitted.

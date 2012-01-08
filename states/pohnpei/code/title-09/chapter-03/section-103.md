@@ -1,0 +1,3 @@
+§3-103. Parity among the state civil service systems. Not later than 30 days following the effective date of this chapter [effective date is July 1, 1997], the Legislature, the Chief Justice of the Pohnpei Supreme Court and the Public Auditor shall adopt and issue such regulatory and administrative provisions and orders as may be necessary to ensure that their respective civil service systems are modified where necessary so that they conform in substance to the changes to the Public Service System of the executive branch effectuated by §§2-118 through 2-130.
+
+Source: S.L. No. 4L-25-96 §7, 7/1/97

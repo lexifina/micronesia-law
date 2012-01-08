@@ -1,0 +1,3 @@
+§2-127. Emergency differential. Employees who are required to work in a location and for a period in which a typhoon or other natural catastrophe has been declared by the Governor and in which other government employees are released from work because of such conditions, shall be compensated for the hours worked while such emergency remains in force at the rate of two hundred fifty percent (250%) times his or her adjusted base salary. The differential provided in this section shall be paid at the rate prescribed for emergency differential in lieu of such other compensatory differentials as may otherwise apply.
+
+Source: S.L. No. 2L-57-81 §18(4)(f), 10/1/81; S.L. No. 1L-114-86 §1(4)(f), second pay period following 11/13/86; S.L. No. 4L-25-96 §6, 7/1/97

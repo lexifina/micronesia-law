@@ -1,0 +1,1 @@
+CHAPTER 3 COMPENSATION RESTRUCTURING Section 3-101 Short title 3-102 Legislative findings 3-103 Parity among the state civil service systems 3-104 Exempt positions 3-105 Compensation restructuring leave 3-106 Members of the workforce distinguished 3-107 Use of grant funds restricted

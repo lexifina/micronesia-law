@@ -1,0 +1,3 @@
+§8-122. Compensation and expenses. Members of the Commission shall be compensated at the rates established by the Government Officers’ Salary Act, Title 9 Chapter 4 Subchapter I, as amended or superseded by state law, when actually performing functions of the Commission at the direction of the Chairman, except that those members who are Pohnpei Government employees shall instead be granted administrative leave from their regular duties while performing functions of the Commission. All members shall also receive travel expenses and per diem at Pohnpei Government rates when those amounts would be payable to government employees in the same circumstances.
+
+Source: S.L. No. 5L-11-00 §5-5, 8/1/00

@@ -1,0 +1,5 @@
+§4-103. Existing employment contract. This subchapter shall not impair, change, increase or decrease the obligations of any existing employment contract to which the state government is or becomes a party to or is the beneficiary thereof. Every position to be filled after the effective date of this subchapter [August 7, 1984] by initial contractual appointment or renewal shall provide for compensation as specified in this subchapter.
+
+Source: S.L. No. 3L-30-84 §5, 8/7/84 Extended legislative history: S.L. No. 3L-30-84 §6(1), 1/13/86 amended PDC §1-8(1)(a); S.L. No. 3L-30-84 §6(2), 1/13/86 amended D.L. No. 4L-159-78 §7, 11/28/78; S.L. No. 1L-71-86 §3-1, 4/1/86 amended S.L. No. 3L-30-84
+
+§2, 4/1/86; S.L. No. 1L-71-86 §3-2, 4/1/86 amended S.L. No. 3L-30-84 §8; S.L. No. 3L-11-92 §1, 10/1/92 amended S.L. No. 3L-30-84 §2, 4/1/86; S.L. No. 3L-11-92 §3, 6/30/92 repealed §§3 & 4 of S.L. No. 3L-30-84 and inserted a new §3; S.L. No. 3L-17-92 §2, 10/1/92 repealed S.L. No. 3L-30-84 §3, 8/7/84; S.L. No. 3L-99-95 §19-3, 7/20/95 amended S.L. No. 3L-30-84 §2. SUBCHAPTER II GOVERNMENT EMPLOYEES’ SALARY SCHEDULE
