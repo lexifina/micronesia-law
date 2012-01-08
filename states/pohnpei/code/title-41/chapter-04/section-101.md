@@ -1,0 +1,5 @@
+§4-101. Restrictions upon ownership.  Only citizens of the state of Pohnpei or corporations wholly owned by citizens of the state of Pohnpei may hold title to land in the state of Pohnpei; PROVIDED, that nothing herein shall be construed to divest or impair the right, title or interest of noncitizens or their heirs or devisees, in lands in the state of Pohnpei held by such persons prior to December 8, 1941, and which have not been vested in the alien property custodian by vesting order dated September 27, 1951, or, if vested, are released from the terms of said order by direction of the High Commissioner; PROVIDED FURTHER, that nothing herein shall be construed to prevent the Government of Pohnpei from holding title to lands in Pohnpei State; and PROVIDED FURTHER, that this section shall not apply to cooperative associations and credit unions duly organized and incorporated pursuant to the laws of the state of Pohnpei.
+
+Source: TTC §900 (1966); 57 TTC §11101 (1970); 57 TTC §201 (1980)
+
+Cross-reference: See Article 12, §2 of the Pohnpei Constitution relative to acquisition of permanent interest in real property.

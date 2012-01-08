@@ -1,0 +1,3 @@
+§5-142. Covenants and judgments to run with the land.  Except as provided in §5-143, all covenants required by §5-111 and any judgment that shall be entered against a lessee of a development lease pursuant to §5-141 shall be deemed to run with the lease, and all subsequent holders of the leasehold estate shall be liable for the performance of such covenants and the satisfaction of such judgments and all interest that shall have accrued with respect to said judgments; PROVIDED that subsequent holders of the leasehold estate shall not be liable for judgments running with the land unless such judgments were duly recorded or unless the subsequent holders had actual notice of the judgments.
+
+Source: S.L. No. 6L-72-06 §4-3, 6/5/06

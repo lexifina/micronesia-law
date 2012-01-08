@@ -1,0 +1,3 @@
+§6-108. Transfers made as security deemed mortgages.  Except as provided in the Deed of Trust Act, Chapter 7, every transfer of an interest in property, made only as a security for the payment of a debt, and every transfer or conveyance of any property by deed of trust or otherwise, executed and delivered to secure the payment of such a debt, shall be deemed a mortgage. No other transaction, unless excepted by this section, for which property is purportedly made the security therefor, whether in whole or in part, shall affect the property or interests therein by reason of the purported security agreement.
+
+Source: D.L. No. 4L-152-78 §8, 9/14/78; S.L. No. 2L-44-80 §1, 11/13/80; S.L. No. 1L-157-87 §30, 8/5/87

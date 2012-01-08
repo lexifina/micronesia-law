@@ -1,0 +1,3 @@
+§5-140. Filings and recordings of development lease agreement.  Lease agreements executed under the authority of this chapter, and every amendment, modification or extension thereof, shall be filed and recorded with the Pohnpei Government in the same manner as the transfer of title to land in this state; PROVIDED that with respect to leases executed under Subchapter III of this chapter, such filing shall include a copy of the written certification by the Director of the Department of Land and Natural Resources that the lease has been executed in compliance with the procedural requirements of Subchapter III of this chapter.
+
+Source: S.L. No. 6L-72-06 §4-1, 6/5/06

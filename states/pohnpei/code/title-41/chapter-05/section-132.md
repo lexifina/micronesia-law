@@ -1,0 +1,3 @@
+§5-132. Publication of information.  The Director of the Department of Land and Natural Resources shall publish and make available for distribution to prospective parties and to the general public information in appropriate written format that explains the requirements for a development lease and the procedures parties must follow in order to enter into a development lease under the provisions of this chapter. The publication shall clearly identify which procedures are optional, and which procedures are mandatory. The publication shall be in English and in all Pohnpeian languages, and shall be made available to any person upon request, and no fee may be charged greater than necessary to compensate for the costs of publication.
+
+Source: S.L. No. 6L-72-06 §3-13, 6/5/06

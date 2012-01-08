@@ -1,0 +1,3 @@
+§7-117. Power of sale: proceeds.  The proceeds of sale shall then be first applied to the expenses of sale, together with the reasonable expenses of the trust, including reasonable attorneys’ fees, then to the interest owed on the debt secured by the deed of trust, then to the unpaid principal balance owed on that debt, including any advances made by the beneficiary, and then to any other lienholders of record in accordance with their lien priority. Any balance or surplus of such proceeds of sale shall then be applied to any other interest and principal indebtedness owed to the beneficiary by the trustor. Any remaining balance of such proceeds of sale shall be paid to the trustor, his heirs, executors, administrators or assigns.
+
+Source: S.L. No. 1L-157-87 §17, 8/5/87

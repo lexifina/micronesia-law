@@ -1,0 +1,3 @@
+§1-109. Scope and nature of the master plan.  The master plan shall be prepared in such manner that all or individual elements may be enacted. The master plan shall include a statement of goals, standards, principles, and social, economic, and cultural considerations sought to be expressed in the development plan of the state. The master plan shall take into account: topography; climate; soil and subsoil conditions; water courses and bodies of water; trends in the economy and demography of the master plan area; environmental needs; the customs, traditions, and standards of life of the people of the master plan area; and the relation of land use in the master plan to the overall development of the state.
+
+Source: S.L. No. 3L-54-94 §9, 1/7/94

@@ -1,0 +1,5 @@
+§5-130. Time limits of validity of the notice of intent.  A notice of intent shall be valid for 180 days following the expiration of the time limits for filing a notice of objection as prescribed by §5-129 or 180 days following the date that such objection is withdrawn or is administratively or judicially resolved, whichever shall last occur. Only parties who have complied with the provisions of this subchapter and have entered into the development lease agreement pursuant thereto after the expiration of the time limits for filing a notice of objection as prescribed by
+
+§5-129 or the date that such objection is withdrawn or is administratively or judicially resolved, whichever shall last occur, and prior to the expiration of the notice of intent as prescribed by this section may be accorded the due diligence protections of this subchapter; PROVIDED that if the notice of intent has expired, a new or revised notice of intent may be filed in the same manner and subject to the same procedures and time prescription as an initial notice of intent.
+
+Source: S.L. No. 6L-72-06 §3-11, 6/5/06

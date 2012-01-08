@@ -1,0 +1,13 @@
+§7-109. Loan Guarantee Escrow Account. 
+
+(1) The Pohnpei Housing Authority, as trustee, shall establish and maintain a Loan Guarantee Escrow Account in an amount to be agreed to between the trustee and the USDA Rural Economic and Community Development Services, as beneficiary. Such account is to be deposited in a state financial institution that has Federal Deposit Insurance Corporation (FDIC) coverage, and any interest earned shall be redeposited into the account. The principal balance of the Loan Guarantee Escrow Account shall be paid from and maintained through loan guarantee fees assessed against borrowers under the low-income housing loan program sponsored by the beneficiary. Pohnpei Housing Authority shall adopt regulations setting a minimum required escrow amount based on the factors identified in this Chapter.
+
+(2) The use of funds from the Loan Guarantee Escrow Account shall be for the sole purpose of servicing loans made by the beneficiary in the event of trustor’s defaults on the obligations under the terms of the promissory note and the deed of trust security instrument securing such note and for which such note is guaranteed by the Loan Guarantee Escrow Account through the trustee.
+
+(3) The Pohnpei Housing Authority, as trustee, and Rural Economic and Community Development Services, as beneficiary, shall be directed by this section of the Code and the Memorandum of Understanding as to the procedure for the use of funds from the Loan Guarantee Escrow Account. The Loan Guarantee Escrow Account shall not be terminated without the written consent of the Pohnpei Housing Authority and the Rural Economic and Community Development Services.
+
+(4) The Pohnpei Housing Authority may, pursuant to 31 PC 1-105(25), expend assets of the Pohnpei Housing Loan Fund in the enforcement, collection and, where necessary, foreclosure actions on defaulted loans secured by the deeds of trust covered by the Loan Guarantee Escrow Account; PROVIDED that monies received from such enforcement, collection and foreclosure actions shall first be returned to the Pohnpei Housing Loan Fund in the amounts so expended therefrom under this subsection, and thereafter any remaining balance shall be deposited in the Loan Guarantee Escrow Account for the purposes specified in this section. To the maximum extent practical, the USDA Rural Economic and Community Development Services and the Office of the Pohnpei Attorney General shall assist the Pohnpei Housing Authority in enforcement, collection and foreclosure actions under this section.
+
+Source: S.L. No. 1L-157-87 §9, 8/5/87; S.L. No. 7L-57-10 §1, 1/12/10
+
+Note: §9 was repealed by S.L. No. 2L-37-88 §3, 8/15/88 and S.L. No. 2L-143-90 §2, 1/5/90 inserted a new §9.

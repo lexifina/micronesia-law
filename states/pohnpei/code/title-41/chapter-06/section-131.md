@@ -1,0 +1,3 @@
+§6-131. Discharge of real property mortgage not renewed or extended of record.  Every mortgage which has not been renewed or extended of record within 15 years after its due date, or when no due date is shown in the mortgage then within 20 years after the recording of such mortgage, shall be discharged of record by an order of a judge of the Trial Division of the Pohnpei Supreme Court upon application of any interested person with notice to the proper interested parties. Such application and order shall be filed in the office of the Clerk of the Supreme Court. The fee for such application and order shall be the same as that charged for filing a civil action.
+
+Source: D.L. No. 4L-152-78 §31, 9/14/78; S.L. No. 2L-44-80 §1, 11/13/80

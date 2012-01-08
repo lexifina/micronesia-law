@@ -1,0 +1,3 @@
+§5-120. Application of this subchapter is optional.  Compliance with the statutory procedures of due diligence under this subchapter by the parties to a development lease entered into under the provisions of this chapter is optional. Parties who do not exercise the option to obtain the due diligence protections which are accorded to them through application of this subchapter may exercise such other due diligence procedures as are recognized by law and attain such legal remedies as may be otherwise accorded by the courts, but shall not be accorded the statutory protections of this subchapter unless the parties be found to be in compliance with the statutory procedures required by this subchapter.
+
+Source: S.L. No. 6L-72-06 §3-1, 6/5/06

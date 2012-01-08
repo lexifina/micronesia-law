@@ -1,0 +1,3 @@
+§5-110. Lease period.  Notwithstanding the provisions of Section 1 of Article 12 of the Pohnpei Constitution, lands in the state of Pohnpei may be leased for developmental purposes for a lease term of more than 25 years, but not more than 55 years, otherwise known as a “development lease”; PROVIDED that such leases shall contain the statutory provisions set forth in §5-111; PROVIDED FURTHER that, notwithstanding any other provision of this chapter, a lease to a foreign government pursuant to this chapter for the purpose of establishing a diplomatic mission in Pohnpei may contain a right of renewal for one additional term, for a total lease term not to exceed 110 years.
+
+Source: S.L. No. 6L-72-06 §2-1, 6/5/06
