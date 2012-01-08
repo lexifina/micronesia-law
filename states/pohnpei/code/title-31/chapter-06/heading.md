@@ -1,0 +1,1 @@
+CHAPTER 6 BUILDING CODE Section 6-101 Short title 6-102 Purpose 6-103 Adoption of Pohnpei Building Code 6-104 Purposes of the code 6-105 Application of the code 6-106 Administration of the code 6-107 Penalties for violation 6-108 Liberal construction
