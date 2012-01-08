@@ -1,0 +1,5 @@
+§1-102. Statement of purpose.  The state of Pohnpei, having jurisdiction over its state waters, recognizes the need to protect and preserve the marine resources therein for the people of Pohnpei. In recognition of the fact that the marine resources of these waters are a finite and renewable part of the physical heritage of our people, we choose to limit the use of such resources to the people of Pohnpei. For this reason, the commercial harvesting of these resources is prohibited to commercial foreign and domestic enterprises within state waters. The purpose of this chapter is to enforce the general prohibition against non-recreational commercial fishing by establishing a fine structure that will effectively limit the economic feasibility of illegally fishing within state waters, to regulate allowable non-commercial and commercial recreational fishing in state waters by establishing the necessary permit system for such fishing, and to finance both the enforcement and regulatory effort.
+
+Source: S.L. No. 3L-114-95 §2, 12/28/95
+
+Note: S.L. No. 3L-114-95 §3 repealing provision has been omitted.
