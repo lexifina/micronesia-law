@@ -1,0 +1,5 @@
+§6-125. Reporting of name of voter; register to be checked. Any person appearing in the polling place shall report his or her name, in full, and his or her address and registration number if voting by registration card to the election officials. An election official shall clearly and audibly announce them. Another election official shall then check the register of voters and registration number lists as to whether or not the person appearing is a registered voter, and if so shall announce the name and address appearing in the register or registration number and note the same on the register list. At this point a challenge may be interposed on the grounds that the ballot is subject to challenge under law or rules or regulations issued by the Election Commissioner. Voting shall then proceed in accordance with procedures prescribed by the Election Commissioner, however, all voting shall be by secret ballot.
+
+Source: S.L. No. 2L-158-90 §75, 8/2/90
+
+Note: S.L. No. 2L-211-91 §5, 10/12/91 renumbered §74 as §75.

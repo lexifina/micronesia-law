@@ -1,0 +1,5 @@
+§6-130. Counting of ballots; announcement of unofficial results. The Election Commissioner shall establish a Counting and Tabulation Committee composed of not less than five nor more than 20 members. The said Committee shall publicly count and tally all votes cast and determine the acceptability thereof. Such counting of ballots cast in any election district shall begin after all the voting places in such election district are closed and shall continue until all votes cast shall have been counted. Counting shall be done at the local government office buildings and results communicated as appropriate to the Election Commissioner. Each candidate or his authorized representative shall be entitled to be present at the tabulation of the votes. Upon the completion of the counting and tabulation of all votes cast in the election district, public announcement of the unofficial results shall be made.
+
+Source: S.L. No. 2L-158-90 §80, 8/2/90
+
+Note: S.L. No. 2L-211-91 §5, 10/12/91 renumbered §79 as §80.

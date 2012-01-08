@@ -1,0 +1,5 @@
+§6-115. Voting by confined persons. Any registered voter qualified to vote at any general or special election who is physically present in the state but who is confined or hospitalized because of an illness or physical disability as will prevent him or her from attending the polls, shall be entitled to vote in such manner as may be prescribed by rules and regulations which shall be promulgated by the Election Commissioner. Such rules and regulations shall provide for supervised voting by such persons in such manner as to insure secrecy of ballot and to preclude tampering with the ballots of such voters and other election fraud; PROVIDED that any voter who by reason of physical disability is unable to mark his or her ballot shall be authorized to receive assistance in the marking thereof. Such rules and regulations may require affidavits, certificates, and other written statements under oath.
+
+Source: S.L. No. 2L-158-90 §65, 8/2/90
+
+Note: S.L. No. 2L-211-91 §5, 10/12/91 renumbered §64 as §65.
