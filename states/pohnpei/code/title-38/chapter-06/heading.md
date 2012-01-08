@@ -1,0 +1,1 @@
+CHAPTER 6 LAND SURVEYORS Section 6-101 Short title 6-102 Purpose 6-103 Definitions 6-104 Board of Land Surveyors Examiners 6-105 Registration of surveyors: procedures; qualifications; exemptions 6-106 Exemptions 6-107 Register of Land Surveyors 6-108 Certificates issued under 31 TTC (1980) 6-109 Compensation 6-110 Authorization for appropriation; administration
