@@ -1,0 +1,3 @@
+§8-308. Subleases and assignments. A lease of submerged lands issued pursuant to this subchapter may be subleased or assigned in whole or in part, in like manner as the recipient of the lease from the Board of Trustees may lease, sublease or assign the leasehold interests in the abutting shoreline property; PROVIDED that any such sublease or assignment of the submerged land leasehold shall be subject to the terms and conditions of the lease of the submerged lands issued by the Board of Trustees to the title holder of the abutting shoreline property pursuant to this subchapter.
+
+Source:S.L. No. 7L-62-10 §3, 4/8/10

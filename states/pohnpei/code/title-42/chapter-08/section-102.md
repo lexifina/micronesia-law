@@ -1,0 +1,3 @@
+§8-102. Recordation. Written notice of any legal interest or title under this subchapter must be filed with the Court of Land Tenure. The validity of the claimed legal interest or title shall be determined by the Court of Land Tenure after notice to the person making the claim or any other known parties in interest, and an opportunity for hearing, in the same manner and with the same rights of appeal as in the case of claims to land which the government or the Pohnpei Public Lands Trust had possession of under claim of ownership.
+
+Source:S.L. No. 7L-62-10 §1, 4/8/10 SUBCHAPTER II: SUBMERGED LANDS ZONED FOR DEVELOPMENT

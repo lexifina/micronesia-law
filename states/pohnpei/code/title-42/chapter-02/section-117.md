@@ -1,0 +1,3 @@
+§2-117. Report to the Board of Trustees; issuance of a residential lease.  Upon completion of the required time of posting, the Chief of the Division of Public Land shall submit a report of his findings and recommendations to the Board of Trustees of the Pohnpei Public Lands Trust. The Board, upon its own determination that the application and the procedures required by this part have been successfully met, shall thereafter issue a residential lease to the applicant. A leasehold action for which public posting has been successfully completed pursuant to this section shall be exempt from the advertisement requirements of 42 PC 2-102.
+
+Source: S.L. No. 7L-39-09 §1, 7/30/09

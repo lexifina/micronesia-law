@@ -1,0 +1,3 @@
+§4A-102. Purpose.  The Pohnpei Government recognizes that presently there are many small farms and residences in this state which are on public trust lands. Current public leasehold programs for agricultural and residential purposes have provided for a distribution for the use of these lands, but uncertainties inherent in leasehold programs have discouraged long-term development of these properties. In recognition of the difficult task confronting the people in this state in developing commercially viable small farms and modern residences on publicly owned agricultural and homestead properties with the long-term security of their investment, this statute has been enacted.
+
+Source: S.L. No. 6L-116-08 §1, 1/25/08

@@ -1,0 +1,3 @@
+§6-106. Authorization for appropriation; administration.  There is hereby authorized for appropriation from the general fund a sum or sums to be determined and as may be allocated annually in the Comprehensive Budget Act to be used solely and exclusively for publication purposes as specified in §6-105. All sums appropriated under the authorization of this section shall be administered and expended by the Governor. All monies appropriated under the authorization of this section in a fiscal year remaining unexpended or unobligated for expenditure at the end of such fiscal year shall revert to the general fund of Pohnpei.
+
+Source: S.L. No. 4L-130-99 §6, 10/21/99

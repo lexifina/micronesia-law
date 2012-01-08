@@ -1,0 +1,3 @@
+§10-143. Land in Nan Rohi, Mesisou, Madolenihmw for dredging.  Pursuant to Chapter 1 and Chapter 2 Part A, the Public Lands Trust Board of Trustees is hereby authorized and directed to designate and declare a specific portion of submerged public trust lands held in trust by the Public Lands Trust Board of Trustees, which land is located adjacent to the shoreline of Nan Rohi, Mesisou, Madolenihmw Municipality, for the purpose of dredging a boat channel and providing for the disposition of the dredged materials in the manner prescribed by law and regulation.
+
+Source: S.L. No. 4L-134-99 §1, 11/10/99

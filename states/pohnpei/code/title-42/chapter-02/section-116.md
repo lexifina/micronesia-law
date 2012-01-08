@@ -1,0 +1,3 @@
+§2-116. Notice of intent to lease.  Upon the receipt of an application for a residential lease pursuant to this part, the Chief of the Division of Public Land shall cause a public notice to be posted for a period of one month on a prominent place on the affected residential land and at the court house of the local jurisdiction where the land is located. Said notice shall indicate the name of the applicant and a description of the filled land for which a residential lease is being sought. Any person objecting to the proposed lease may submit a written objection to the Chief who shall, with due diligence, consider the merits thereof and take appropriate action.
+
+Source: S.L. No. 7L-39-09 §1, 7/30/09

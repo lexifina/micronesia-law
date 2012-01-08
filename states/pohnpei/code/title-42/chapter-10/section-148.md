@@ -1,0 +1,3 @@
+§10-148. Land in Ipat, Nett for parking for St. Peters church.  Pursuant to Chapters 1 and 9, the Public Lands Trust Board of Trustees is hereby authorized and directed to designate, dedicate, and declare a specific portion of submerged public trust lands held in trust by the Public Lands Trust Board of Trustees, which land is located adjacent to the shoreline of Ipat, Nett District, for the purpose of dredging and filling an area to provide for a parking area for St. Peters church and other church- related purposes in the manner prescribed by law and regulation.
+
+Source: S.L. No. 5L-37-01 §1, 4/23/01

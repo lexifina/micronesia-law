@@ -1,0 +1,3 @@
+§8-201. Responsibilities of the Pohnpei Land Use Planning and Zoning Commission. It shall be the primary responsibility of the Pohnpei Land Use Planning and Zoning Commission, established pursuant to Chapter 1 of Title 41 of this Code, to prepare a comprehensive master plan and specific zoning legislation for presentation to the Pohnpei Legislature for enactment into law for the zoning of the submerged lands of this state, which plans and zoning recommendations shall contain detailed descriptions of areas of submerged lands suitable for specific types of development.
+
+Source:S.L. No. 7L-62-10 §2, 4/8/10

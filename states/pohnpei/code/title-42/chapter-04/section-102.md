@@ -1,0 +1,3 @@
+§4-102. Purpose.  The Pohnpei Government recognizes that, presently, the majority of residential properties in this state are publicly owned and held. Former leasehold programs for residential purposes have provided for a distribution for the use of these lands, but uncertainties inherent in leasehold programs have discouraged lessees from the private investment necessary to develop long- term capital improvements to these properties. In recognition of the impracticable and monumental task confronting the people in this state of constructing and maintaining permanent structures on publicly owned residential properties with surety of their investment, this statute has been enacted.
+
+Source: S.L. No. 4L-128-99 §2, 10/15/99

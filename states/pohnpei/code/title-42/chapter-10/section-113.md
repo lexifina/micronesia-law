@@ -1,0 +1,3 @@
+§10-113. Land for FSM Telecommunications Corporation.  Pursuant to §1-111(5), the Public Lands Trust Board of Trustees is hereby empowered and authorized to dedicate or lease at a reasonable rental arrangement for a fixed period with option for renewal not more than 13,000 square meters of public trust lands held in trust by the Board in Nanpohnmal or areas within the vicinity of the local jurisdictions of Nett and Sokehs to the Federated States of Micronesia Telecommunications Corporation for the public purposes of constructing a satellite “B” earth station, a technician training center, and offices of the Corporation.
+
+Source: S.L. No. 2L-157-82 §1, 12/2/82; S.L. No. 2L-204-83 §1, 10/17/83

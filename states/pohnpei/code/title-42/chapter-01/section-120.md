@@ -1,0 +1,13 @@
+§1-120. Transition. 
+
+(1) All rights, title, interests, and liabilities relative to the management and disposition of properties in Pohnpei Public Lands Trust established pursuant to D.L. No. 4L-69-76 shall continue unaffected except as provided by this chapter.
+
+(2) The Board of Trustees shall continue to exercise its legal and fiduciary responsibilities in respect to the Trust, and the use and disposition thereof, in a manner consistent with this chapter, and shall be deemed the successor to the Public Lands Authority in statutory and legal references relative to the use and disposition of Trust properties.
+
+(3) The Governor shall provide for the transfer of former Authority employees and fiscal assets of the Authority, not a part of the Trust, to the Division established by this chapter.
+
+(4) All rights, interests, and liabilities of the Authority, not a part of the Trust, are assumed by the executive branch of the Pohnpei Government.
+
+(5) The Governor may, by administrative order, further define the devolution of responsibilities, assets, and liabilities of the Public Lands Authority to the Board of Trustees and the Division of Public Land.
+
+Source: S.L. No. 1L-155-87 §19, 7/29/87; S.L. No. 5L-14-00 §3-36, 10/1/00 Notes: 1. All rights, titles, interests, and liabilities relative to the management and disposition of properties in the Pohnpei Public Lands Trust were originally created in D.L. No. 4L-69-76, 1/1/77. 2. S.L. No. 1L-155-87 §20 severability provision has been omitted. Extended legislative history: D.L. No. 4L-69-76 established the Public Lands Authority. D.L. No. 4L-69-76 §3 was amended by D.L. No. 4L-93-77 §1, 5/13/77 and D.L. No. 4L-136-78 §12, 3/27/78; D.L. No. 4L-69-76 §5 was amended by D.L. No. 4L-93-77 §2, 5/13/77; D.L. No. 4L-69-76 §8 was amended by D.L. No. 4L-93-77 §3, 5/13/77; D.L. No. 4L-69-76 §9 was amended by D.L. No. 4L-93-77 §4, 5/13/77, S.L. No. 2L-10-80 §1, 6/28/80, and S.L. No. 1L-71-86 §4-4, 1/1/86; D.L. No. 4L-69-76 §10 was amended by S.L. No. 2L-57-81 §31(4), 5/18/81, S.L. No. 2L-173-83 §7(5), 4/22/83, and S.L. No. 2L-177-83 §11, 5/5/83; D.L. No. 4L-69-76 §11(1) was amended by D.L. No. 4L-93-77 §5, 5/13/77; D.L. No. 4L-69-76 §16 was amended by D.L. No. 4L-93-77 §6, 5/13/77, and D.L. No. 4L-136-78 §29, 3/27/78; D.L. No. 4L-69-76 §17 was amended by D.L. No. 4L-136-78 §30, 3/27/78; D.L. No. 4L-69-76 §18 was amended by S.L. No. 2L-73-81 §1, 6/30/81; D.L. No. 4L-69-76 §19 was amended by D.L.. No. 4L-93-77 §7, 5/13/77; D.L. No. 4L-69-76 §20 was amended by D.L. No. 4L-93-77 §8, 5/13/77; D.L. No. 4L- 69-76 §23 was amended by S.L. No. 2L-104-81 §1, 12/2/81. S.L. No. 1L-155-87 repeals D.L. No. 4L-69-76. PUBLIC LANDS

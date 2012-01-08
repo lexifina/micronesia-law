@@ -1,0 +1,3 @@
+§4A-106. Agricultural or residential property eligible for transfer.  Any public land held in trust by the Board and for which a lease agreement exists or is presumed to exist for purposes of this Agricultural & Residential Leasehold Conveyance chapter, shall be deemed “eligible agricultural or residential property” for which title may transfer hereunder; PROVIDED, HOWEVER, that public land designated by law for non-agricultural or residential purposes shall not be eligible for transfer; PROVIDED FURTHER that land upon which residential or agricultural uses is prohibited by law or valid regulation shall not be eligible for transfer.
+
+Source: S.L. No. 6L-116-08 §1, 1/25/08

@@ -1,0 +1,3 @@
+§8-306. Report to the Board of Trustees; issuance of a submerged land lease. Upon completion of the required time of posting, the Chief of the Division of Public Land shall submit a report of his findings and recommendations to the Board of Trustees of the Pohnpei Public Lands Trust. The Board, upon its own determination that the application and the procedures required by this chapter have been successfully met, shall thereafter issue a submerged land lease to the applicant. A leasehold action for which public posting has been successfully completed pursuant to this section shall be exempt from the advertisement requirements of 42 PC 2-102.
+
+Source:S.L. No. 7L-62-10 §3, 4/8/10

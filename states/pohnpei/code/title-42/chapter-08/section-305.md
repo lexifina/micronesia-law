@@ -1,0 +1,3 @@
+§8-305. Notice of intent to lease. Upon the receipt of an application for a submerged land lease pursuant to 42 PC 8-303, the Chief of the Division of Public Land shall cause a public notice to be posted for a period of one month on a prominent place on the affected submerged land and at the court house of the local jurisdiction where the land is located. Said notice shall indicate the name of the applicant and a description of the submerged land for which a submerged land lease is being sought. Any person objecting to the proposed lease may submit a written objection to the Chief who shall, with due diligence, consider the merits thereof and take appropriate action.
+
+Source:S.L. No. 7L-62-10 §3, 4/8/10
