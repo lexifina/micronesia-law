@@ -1,0 +1,3 @@
+§6-103. Realization of revenues.  All revenues realized through the administration of this subchapter shall be deposited in the general fund of Pohnpei as the realization of general revenues. The Director of the Department of Treasury and Administration shall maintain a separate accounting for all such revenues so deposited for inclusion in his periodic reports to the Legislature on the status of the general fund. Monies so deposited shall, to the extent deemed practicable by the Legislature, be appropriated for conservation measures relative to the marine life of this state.
+
+Source: S.L. No. 2L-106-81 §7-1, 12/17/81

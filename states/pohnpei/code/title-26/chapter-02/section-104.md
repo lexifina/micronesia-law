@@ -1,0 +1,3 @@
+§2-104. Administration.  This chapter will be administered by the Director of the Department of Land and Natural Resources through the Division of Forestry. The administration of this chapter will include the authority to set up conservation programs aimed at conserving endangered and threatened species, including research programs to adequately define which species are in fact endangered or threatened, and including, when necessary, the acquisition of land or aquatic habitat or interest therein for the conservation of resident endangered or threatened species.
+
+Source: P.L. No. 6-55 §4; 45 TTC §104 (1980); S.L. No. 5L-14-00 §3-55, 10/1/00; S.L. No. 7L-80-11 §10, 1/14/11

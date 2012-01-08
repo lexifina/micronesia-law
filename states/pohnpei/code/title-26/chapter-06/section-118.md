@@ -1,0 +1,3 @@
+§6-118. Right of inspection.  The granting of a license for the privilege of manufacturing black coral and the granting of a permit to harvest black coral shall carry with it the authority of the state government and any designated employee thereof to inspect any operation dealing with the harvesting of black coral, to inspect any transfer of black coral from a harvester to a processor and between processors, and records thereof, as provided for in this part, to inspect the black coral in its raw and processed state as held by a processor under this subchapter, and to inspect the final manufactured form before it is sold or otherwise transferred from the manufacturer to another party.
+
+Source: S.L. No. 2L-106-81 §3-8, 12/17/81

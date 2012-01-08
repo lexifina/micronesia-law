@@ -1,0 +1,3 @@
+§6-104. Rules and regulations.  The Director of the Department of Land and Natural Resources, in consultation with the Pohnpei Fisheries Officer, is empowered to issue and promulgate rules and regulations for the implementation and enforcement of this subchapter, inclusive of forms and procedures for the issuance of permits and licenses required by this subchapter, which upon approval of the Governor and compliance with the Administrative Procedures Act, Title 8 Chapter 1, or its successor, shall carry the force and effect of law.
+
+Source: S.L. No. 2L-106-81 §7-2, 12/17/81; S.L. No. 5L-14-00 §3-31, 10/1/00

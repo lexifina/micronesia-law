@@ -1,0 +1,3 @@
+§5-110. General plan.  Following the designation of an area, and prior to the development of any new facilities in any area, the Director shall prepare a general plan for the area. The general plan shall consist of elements that will evaluate and define the proposed land uses, facilities, concessions, operation of the area, any environmental impacts, and the management of resources, and shall serve as a guide for the future development, management, and operation of the area. No new facility may be developed in any area of the System unless compatible with the purposes for which the area was designated.
+
+Source: S.L. No. 4L-115-99 §10, 7/23/99

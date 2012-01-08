@@ -1,0 +1,3 @@
+§2-110. Importation of exotic plants and animals.  Since exotic plants and animals not already established in Pohnpei can cause ecological upsets, compete with, prey upon, and introduce serious or devastating diseases that could further endanger our indigenous plants and animals or drive them to extinction, it is prohibited to import such exotic plants and animals or parts thereof into Pohnpei except under permit by the Director as defined in the regulations authorized by this chapter, except that beneficial insects and biological control microorganisms may be imported in accordance with Pohnpei Government plant and animal quarantine laws.
+
+Source: P.L. No. 6-55 §10; 45 TTC §110 (1980)

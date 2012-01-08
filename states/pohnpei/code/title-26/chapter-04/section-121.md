@@ -1,0 +1,3 @@
+§4-121. Authorization of ordinances.  Local councils are hereby authorized to enact ordinances providing for the regulation, control, and taxation of mangrove and upland forests within each local jurisdiction. Such ordinances shall be subject to veto by the Governor. This authorization shall include the establishment of areas where mangrove or upland trees may be cut, removed or used by private persons or businesses, the issuing of permits and permit fees for the cutting of trees, and the establishment of excise taxes and other charges within the power of the local governments as authorized by the Legislature.
+
+Source: PDC §11-202(b), 3/71

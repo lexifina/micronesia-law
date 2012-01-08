@@ -1,0 +1,3 @@
+§2-111. Confiscation of plants, equipment, etc.  Any endangered species of plant or animal or parts thereof held by any person in contravention of any of the other sections of this chapter, may be confiscated by the Pohnpei Government and disposed of in accordance with the regulations applying to this chapter; and further, any gun, weapon, spear, knife, trap, net, fishing gear, boat, engine or vehicle used for the purpose of violating any of the provisions or regulations of this chapter may be confiscated and disposed of by the Pohnpei Government in accordance with the regulations applying to this chapter.
+
+Source: P.L. No. 6-55 §11; 45 TTC §111 (1980)

@@ -1,0 +1,3 @@
+§4-109. Authorization for appropriation; administration.  There is hereby authorized to be appropriated annually from the general fund of Pohnpei such sums as are deemed necessary to implement this subchapter. The sums herein authorized for appropriation shall be administered and expended by the Governor solely for the purpose of this subchapter. The Governor shall report to the Legislature on or before October 15 following each fiscal year wherein sums are appropriated under the authorization of this section. All sums appropriated for a fiscal year remaining unexpended or unobligated for expenditure at the end of the fiscal year shall revert to the general fund of Pohnpei.
+
+Source: P.L. No. 1L-128-87 §8, 7/8/87 SUBCHAPTER II FOREST MANAGEMENT

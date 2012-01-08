@@ -1,0 +1,3 @@
+§6-211. Export of mangrove crabs, coconut crabs, and lobsters, prohibited.  It shall be unlawful for any person, whether acting individually or as agent for any corporation, association, partnership or other organization to willfully export for sale or exchange for value, or participate in the exportation for sale or exchange for value, of any mangrove crab, coconut crab or lobster from Pohnpei; Provided, however, that duly licensed and permitted cultured mangrove crab producers may export for sale cultured mangrove crab harvested by such producer from their approved aquaculture facilities.
+
+Source: D.L. No. 2L-223-71 §1, 6/16/71; D.L. No. 4L-76-77 §1, 5/6/77; S.L. No. 7L-22-09 §4, 1/16/09

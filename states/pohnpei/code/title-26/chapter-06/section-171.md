@@ -1,0 +1,3 @@
+§6-171. Control of pinctada margaritifera (black-lip mother-of-pearl oyster shell).  No pinctada margaritifera, commonly known as black-lip mother-of-pearl oyster shell, shall be taken from the first day of August to the thirty-first day of December inclusive; PROVIDED, that no such shell may be taken at any time which is less than six inches in minimum diameter, measured along the longest dimension across the outside of the shell; and PROVIDED FURTHER, that such shells, of any size, may be taken at any time for scientific purposes when specifically authorized by the Governor.
+
+Source: TTC §783 (1966); 45 TTC §4 (1970); P.L. No. 4C-57 §4; 45 TTC §4 (1980); P.L. No. IC-19 §1

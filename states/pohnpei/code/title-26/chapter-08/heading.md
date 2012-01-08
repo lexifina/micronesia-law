@@ -1,0 +1,1 @@
+CHAPTER 8 LAND RESOURCES Section Part A Birds 8-101 Unlawful to hunt or kill Pohnpei lorikeet; penalties 8-102 – 8-110 [Reserved] 8-111 Killing of owls; penalties 8-112 – 8-120 [Reserved] 8-121 Pigeon hunting; penalties 8-122 – 8-130 [Reserved] Part B [Reserved] PART A BIRDS
