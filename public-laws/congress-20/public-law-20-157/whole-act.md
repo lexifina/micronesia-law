@@ -1,0 +1,238 @@
+TWENTIETH CONGRESS OF THE FEDERATED STATES OF MICRONESIA
+SIXTH REGULAR SESSION, 2019 CONGRESSIONAL BILL NO. 20-278, C.D.1
+P.C. NO. 20-400 PUBLIC LAW NO. 20-157
+AN ACT
+To further amend Public Law No. 20-125, as amended by Public Laws Nos.
+20-135 and 20-146, by amending sections 3, 4 and 6 thereof, for the
+purpose of changing the use and allottee of certain funds previously
+appropriated therein, to fund public projects and social programs for
+the people of the states of Kosrae and Pohnpei, and for other purposes.
+BE IT ENACTED BY THE CONGRESS OF THE FEDERATED STATES OF MICRONESIA:
+Section 1. Section 3 of Public Law No. 20-125 is hereby
+amended to read as follows:
+“Section 3. Of the $7,000,000 appropriated under this
+act, $1,000,000 shall be apportioned for public projects
+and social programs for the people of Kosrae State.
+state of Kosrae........................... . 1,000,000
+(a) Roads improvement ............... 465,000
+(b) Kosrae High School lunch program 50,000
+(c) Fishing projects ................ 25,000
+(d) Students’ travel needs .......... 10,000
+(e) Medical referrals ............... 20,000
+(f) Sialat, Salik farm road improvement 30,000
+(g) Travel needs for Kosraeans ...... 40,000
+(h) Purchase of two excavators
+for Utwe and Lelu farmers, and associated
+shipping costs ............................. 75,000
+(i) Contribution to Community events,
+activities and programs .................... 30,000
+
+(j) G-14 travel and associated costs $ 35,000
+(k) Fund raising for Seattle Kosrae
+baseball team .............................. 10,000
+(l) 4MS musical instruments ......... 5,000
+(m) Youth Yatta, Tafunsak musical
+instruments ................................ 5,000
+(n) Sroansak project subsidy ........ 5,000
+(o) Kosrae State Government subsidy . 100,000
+(p) Students’ bus stops projects .... 30,000
+(q) Scholarships for Kosraean students 30,000
+(r) Tafunsak water system improvement 20,000
+(s) Poultry project ................. 5,000
+(t) Gateway, Utwe basketball court .. 10,000”
+Section 2. Section 4 of Public Law No. 20-125, as amended by
+Public Laws Nos. 20-135 and 20-146, is hereby further amended to
+read as follows:
+“Section 4. Of the $7,000,000 appropriated under this
+act, $2,000,000 shall be apportioned for public projects
+and social programs for the people of Pohnpei State.
+state of Pohnpei.........................$ 2,000,000
+(1) At Large............................ 500,000
+(a) Enipein Powe road maintenance/paving 40,000
+(b) Nett-Sokehs sidewalk
+development matching ....................... 50,000
+(c) Lukop Community Center renovation 10,000
+
+(d) Lukop St. Pelep Community parking
+maintenance ............................... $ 5,000
+(e) Madolenimw Municipal –
+Mini Dump Truck ............................ 15,000
+(f) NanMand, Kitti basketball/
+volleyball court ........................... 40,000
+(g) Nanpahlap basketball/volleyball court 40,000
+(h) Nanpohnmal road paving/maintenance 20,000
+(i) New Secondary road – Lewetik family 20,000
+(j) Nukuoro Community building ...... 25,000
+(k) Palipowe road paving/maintenance
+to Ludwig family ........................... 20,000
+(l) Nanpohnsapw Paliais, Nett road
+paving/maintenance ......................... 45,000
+(m) Peidie Mangrove Sanctuary ....... 35,000
+(n) Pwudoi Mangrove Sanctuary ....... 15,000
+(o) Toamwara road maintenance ....... 15,000
+(p) Vehicle for Detective Division,
+Pohnpei Department of Justice ............. 20,000
+(q) Overseas and Local Medical Assistance 15,000
+(r) Nursing training/conference ..... 20,000
+(s) Dolonier sidewalk matching project 50,000
+(2) Election District No. 1........... ... 500,000
+(a) Sokehs ridge cleaning/road maintenance 18,000
+(b) Pohrakied sidewalk supplement ... 45,000
+
+(c) Communications for 2G, 3G and 4G $ 30,000
+(d) Causeway Development ............ 50,000
+(e) Kaselehlia/PCR retaining
+wall supplemental .......................... 7,500
+(f) Pohnpei Public Library subsidy .. 15,000
+(g) Nukuoro Island Basketball
+court/materials/supplies ................... 20,000
+(h) Election District No. 1 Outer
+Island internet equipment/rental ........... 40,000
+(i) Purchase of Synthetic
+Thatches ................................ -0-
+(j) Election District No. 1 schools
+current and prior obligations .............. 20,000
+(k) Beautification project .......... 20,000
+(l) Nanmohs new road ................ 30,000
+(m) Deketik Causeway Boulders ....... 20,000
+(n) Deketik Causeway exercise
+equipment/installation ..................... 10,000
+(o) Culvert materials/improvement ... 10,000
+(p) Pohnpei Utility Corporation
+(PUC) water plant subsidy .................. 10,000
+(q) Led lights/Solar ................ 30,000
+(r) Sokehs Municipal government
+retaining wall ............................ 54,500
+(s) Sekere new road ................. 30,000
+
+(t) Sapwoh Community Nahs renovation $ 20,000
+(u) Sapwuahfik Community
+Houses renovation .......................... 10,000
+(v) Sapwuahfik Constitution
+Convention subsidy ......................... 10,000
+(3) Election District No. 2 ............. 500,000
+(a) Enpein road improvement ......... 20,000
+(b) Medical referral program ........ 40,000
+(c) Students’ financial assistance .. 40,000
+(d) Youths’ events, activities and
+programs ................................... 10,000
+(e) Kepine to Sapwalapw road ........ -0-
+(f) Nankepira road improvement ...... 50,000
+(g) Nanphalap road improvement ...... -0-
+(h) Community Outreach and Advocacy
+Program/travel needs ....................... 25,000
+(i) Flour making machine ............ 20,000
+(j) Election District
+No. 2 schools computers .................... 20,000
+(k) Purchase of coral materials/
+Equipment rental ........................... 50,000
+(l) UCCP Summit Implementation ...... 15,000
+(m) Pahnsapw water system improvement 30,000
+(n) Election District No. 2 current
+and prior obligations ...................... 20,000
+
+(o) Solar lights ................... $ 90,000
+(p) Water delivery system
+Improvement ................................ 45,000
+(q) Isokohnedi En Wein Kitti P.A. System 10,000
+(r) Senpehn Youth Organization (SYO) 5,000
+(s) Menintiensapw en Madolenihmw
+P.A. system ................................ 10,000
+(4) Election District No. 3.............. 500,000
+(a) Causeway Development project .... 50,000
+(b) Dolonier sidewalk project ....... 50,000
+(c) Nett ECE activities,
+supplies & equipment ....................... 5,000
+(d) Nett Municipal Government
+subsidy/public projects .................... 60,000
+(e) U Municipal Government subsidy/
+public projects ............................ 60,000
+(f) Nett School supplies & equipment 20,000
+(g) Awak and Saladak school
+supplies & equipment ....................... 15,000
+(h) Awak ECE activities,
+supplies & equipment ....................... 5,000
+(i) Saladak ECE activities,
+supplies & equipment ....................... 5,000
+(j) Pingelap Municipal subsidy ...... 20,000
+(k) Mwokilloa Municipal subsidy ..... 20,000
+
+(l) Water tanks and pipes ........ $ 50,000
+(m) Landfill materials for public
+parking at Nan U Community Center .......... 75,000
+(n) Medical referral............... . 10,000
+(o) Community cultural project support 5,000
+(p) Travel to conference ............ 5,000
+(q) Eirike new road ................. 45,000”
+Section 3. Section 6 of Public Law No. 20-125, as amended by
+Public Law No. 20-135, is hereby further amended to read as
+follows:
+“Section 6. Allotment and management of funds and lapse
+date. All funds appropriated by this act shall be
+allotted, managed, administered and accounted for in
+accordance with applicable laws, including, but not
+limited to, the Financial Management Act of 1979. The
+allottee shall be responsible for ensuring that these
+funds, or so much thereof as may be necessary, are used
+solely for the purpose specified in this act, and that
+no obligations are incurred in excess of the sum
+appropriated. The allottee of the funds appropriated
+under section 2 of this act shall be the Governor of Yap
+State or his designee. The allottee of the funds
+appropriated under sections 3 and 4 of this act shall be
+the President of the Federated States of Micronesia or
+his designee; PROVIDED THAT, the allottee of funds
+
+appropriated under subsections 3(b) to 3(q) of this act
+shall be the Mayor of Lelu Town Government or his
+designee; the allottee of funds appropriated under
+subsections 3(a), 3(r), 3(s) and 3(t) of this act shall
+be the Mayor of Tafunsak Municipal Government or his
+designee; the allottee of funds appropriated under
+subsection 4(1)(v) of this act shall be the Meninkeder
+lapalap of Madolenihmw Municipal Government or his
+designee; the allottee of funds appropriated under
+subsection 4(1)(w) of this act shall be the Chief
+Minister of U Municipal Government or his designee; the
+allottee of funds appropriated under subsection 4(1)(x)
+of this act shall be the District Administrator of Nett
+Municipal Government or his designee; the allottee of
+funds appropriated under subsection 4(1)(y) of this act
+shall be the Luhken Menlap of Kitti Municipal Government
+or his designee; the allottee of funds appropriated
+under subsection 4(1)(z) of this act shall be the Chief
+Magistrate of Sokehs Municipal Government or his
+designee; the allottee of funds appropriated under
+subsections 4(2)(a) to 4(2)(v) of this act shall be the
+Secretary of the Department of Transportation,
+Communications and Infrastructure or his designee; the
+allottee of fund appropriated under subsections 4(1)(a2)
+and 4(4)(m) of this act shall be the Mayor of Pingelap
+
+Municipal Government; the allottee of funds appropriated
+under subsections 4(1)(a1) and 4(4)(n) of this act shall
+be the Chief Magistrate of Mwoakilloa Municipal
+Government; the allottee of funds appropriated under
+subsection 4(1)(a3) of this act shall be the Luhken
+Kolwof of Sapuwafik Municipal Government; the allottee
+of funds appropriated under subsection 4(1)(a4) of this
+act shall be the Mayor of Nukuoro Municipal Government;
+the allottee of funds appropriated under subsection
+4(1)(a5) of this act shall be the Chief Magistrate of
+Kapingamarangi Municipal Government. The allottee of
+the funds appropriated sections 5 of this act shall be
+the Governor of Chuuk State or his designee; PROVIDED
+THAT, the allottee of funds appropriated under
+subsections 5(h) and 5(j) of this act shall be the FSM
+Telecommunication Corporation or its designee. The
+authority of the allottee to obligate funds appropriated
+by this act shall lapse on September 30, 2021.”
+
+Section 4. This act shall become law upon approval by the
+President of the Federated States of Micronesia or upon its becoming
+law without such approval.
+January 31, 2019
+/s/ Peter M. Christian
+Peter M. Christian
+President
+Federated States of Micronesia
