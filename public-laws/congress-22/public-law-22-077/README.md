@@ -1,0 +1,7 @@
+# Public Law No. 22-77: To further amend Public Law No. 20-141, as amended by Public Laws Nos. 20-145, 20-163, 20-164, 20-190, 21-05, 21-33, 21-48, 21-67, 21-91, 21-182, 21-193, 22-34 and 22-69, by amending section 3 thereof, to change the use of funds previously appropriated therein, for the purpose of funding priority infrastructure projects and other projects and programs in the state of Kosrae, and for other purposes.
+
+PL 22-77 · as enacted, 2022-01-28 · <https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__22-77.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Public Law No. 22-77 | [whole-act.md](whole-act.md) | 0 |  |
