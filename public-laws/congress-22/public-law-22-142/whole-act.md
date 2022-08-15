@@ -1,0 +1,188 @@
+TWENTY-SECOND CONGRESS OF THE FEDERATED STATES OF MICRONESIA
+FIFTH SPECIAL SESSION, 2022 CONGRESSIONAL BILL NO. 22-215, C.D.1
+P.C. NO. 22-309 PUBLIC LAW NO. 22-142
+AN ACT
+To further amend Public Law No. 21-80, as amended by Public Laws Nos.
+21-99, 21-110, 21-143, 21-181, 21-188, 21-214, 21-242, 22-19, 22-38,
+22-56, 22-99 and 22-108, by amending sections 4 and 5 thereof, to
+change the use of certain funds previously appropriated therein, to
+fund public projects and social programs for the people of Pohnpei and
+Chuuk States, and for other purposes.
+BE IT ENACTED BY THE CONGRESS OF THE FEDERATED STATES OF MICRONESIA:
+Section 1. Section 4 of Public Law No. 21-80, as amended by
+Public Laws Nos. 21-143, 21-181, 22-19, 22-56 and 22-108, is
+hereby further amended to read as follows:
+“Section 4. Of the $4,200,000 appropriated under this
+act, $1,200,000 shall be apportioned for public projects
+and social programs for the people of Pohnpei State.
+state of Pohnpei .......................... $ 1,200,000
+(1) At Large ............................. -0-
+(2) Election District No. 1 .............. 400,000
+(a) Sokehs Police Office renovation/
+purchase of air condition units ............ 25,000
+(b) CUYA purchase of exercise equipment 20,000
+(c) Mwalok Community multipurpose
+building renovation ........................ 20,000
+(d) Micronesian Production subsidy .. 20,000
+(e) Picnic Tables ................... 10,000
+(f) Pohnpei Port Authority air
+
+conditioners/installation costs ........... $ 25,000
+(g) POL for Kolonia Town Boom Truck . 10,000
+(h) Kolonia School Food Stall
+supplemental funding ....................... 25,000
+(i) PUC water plant subsidy ......... 20,000
+(j) Sapwohn Community building/
+toilets/showers ............................ 30,000
+(k) Sokehs Ridge cleaning/clearance/
+beautification ............................. 20,000
+(l) Kolonia Town Government
+building renovation ........................ 15,000
+(m) Kolonia Elementary School
+building renovation ........................ 30,000
+(n) Nanmadap river crossing bridge .. 25,000
+(o) Spanish wall sidewalk/
+playground project ......................... 65,000
+(p) Sokehs Island paving ............ -0-
+(q) Solar lights for COM-FSM
+sidewalk/PICS track and field .............. 20,000
+(r) Supplemental funding for Palikir to
+COM-FSM sidewalk ........................... 20,000
+(3) Election District No. 2.............. 400,000
+(a) Niolok road paving .............. 35,000
+(b) Well Dredging Rig parts ......... 10,000
+(c) Kitti Constitution Day .......... 5,000
+
+(d) Economic and Social project .... $ 30,000
+(e) Tamorohi Road (Upper Pats) ...... 20,000
+(f) Enimwahn Development Association 10,000
+(g) Madolenihmw Principals’ Association 15,000
+(h) Swine Artificial Insemination ... 7,000
+(i) Medical referrals ............... 20,000
+(j) Water Tanks ..................... 80,000
+(k) Students’ Financial Assistance .. 5,000
+(l) Nankepira road paving ........... 50,000
+(m) Nan Pahlap road paving .......... 50,000
+(n) Purchase of coral/equipment
+rental and delivery ........................ 63,000
+(4) Election District No. 3............... 400,000
+(a) Parem, Nett channel development 140,000
+(b) Luhke, Nett secondary road
+paving ............................. -0-
+(c) U road pavement and maintenance 140,000
+(d) Mwoakilloa public projects/office
+subsidy/operations and provisioning of
+Lady Mindo ................................ 40,000
+(e) Pingelap public projects
+and office subsidy ......................... 40,000
+(f) Nett Women’s Group (NIWAC) building
+renovation, supplies, equipment, and operation 16,000
+(g) Nan pohnmal, New Road ........... 14,000
+
+(h) Metipw, U water system
+tanks and pipes ............................ $ 10,000”
+Section 2. Section 5 of Public Law No. 21-80, as amended by
+Public Law No. 21-110, is hereby further amended to read as
+follows:
+“Section 5 Of the $4,200,000 appropriated under this
+act, $1,820,000 shall be apportioned for public projects
+and social programs for the people of Chuuk State.
+state of Chuuk........................... $ 1,820,000
+(1) At Large...................... ....... 300,000
+(a) Allottee’s administrative
+support costs .............................. 30,000
+(b) Satowan St. Joseph’s facilities . 30,000
+(c) Micronesian Sports Foundation (Guam) 25,000
+(d) Fishing project ................. 62,000
+(e) Leaders/Patients/Students
+travel needs ............................... 30,000
+(f) Dredging and Transportation equipment -0-
+(g) Contribution to State, Municipal and
+Community activities, events and programs .. 78,000
+(h) Land Transportation ............. 45,000
+(i) Blue Lagoon Crusher Plant
+Subsidy/Operation Costs .................... -0-
+(2) Election District No. 1.............. 320,000
+
+(a) Vessel Purchase for Mortlock Islands
+Development Authority (MIDA) .............. $ 300,000
+(b) Diocese Office in the State of Chuuk 20,000
+(3) Election District No. 2 .............. 300,000
+(a) Food security ................... 30,000
+(b) Students’ financial assistance .. 20,000
+(c) Fishing project ................. 20,000
+(d) Administrative support costs .... 20,000
+(e) Weno Election Office subsidy .... 10,000
+(f) Travel needs .................... -0-
+(g) Road improvement/heavy
+equipment purchase ......................... 45,000
+(h) Leadership conference ........... 15,000
+(i) POL/Freight/Charter ............. 20,000
+(j) Contribution to State, Municipal and
+Community activities, events and programs 10,000
+(k) Housing and Community Hall renovation 30,000
+(l) Municipal governments’ subsidy .. 30,000
+(m) Human remains repatriation ...... 10,000
+(n) Sewing projects ................. 10,000
+(o) Transportation needs ............ 30,000
+(4) Election District No. 3............... 300,000
+(a) Contribution to State,
+Municipal and Community activities,
+events and programs ........................ 20,000
+
+(b) SNDA boats and outboard motors . $ 30,000
+(c) Sewing project .................. 10,000
+(d) Travel need ..................... 40,000
+(e) Fishing project ................ 50,000
+(f) Housing renovation/improvement .. 50,000
+(g) Multipurpose building improvement 20,000
+(h) Humanitarian assistance ......... 20,000
+(i) Contribution to
+Associations/Organizations/chartered group . 5,000
+(j) Land transportation ............. 20,000
+(k) Charter/POL/Freight ............. 15,000
+(l) Land acquisition for public purpose 10,000
+(m) Contribution to FSM Social
+Security premium ........................... 5,000
+(n) Contribution to Southern
+Namoneas citizens on Weno(cement blocks
+retaining wall) .......................... 5,000
+(5) Election District No. 4............. . 300,000
+(a) Solar power system .............. 100,000
+(b) Fishing project ................. 35,000
+(c) Travel needs .................... 15,000
+(d) Land transportation ............. 20,000
+(e) Housing renovation and repair ... 30,000
+(f) Office rental ................... 20,000
+g) Faichuk Development Authority
+
+administrative cost ....................... $ 20,000
+(h) Utot Penia road improvement ..... 20,000
+(i) Students’ financial assistance .. 20,000
+(j) Food relief assistance .......... 20,000
+(6) Election District No. 5 .............. 300,000
+(a) Solar Power System .............. 200,000
+(b) Contribution to community
+events, activities and programs ............ 10,000
+(c) Patients/Leaders/citizens
+travel needs/COAP .......................... 10,000
+(d) Administrative support costs .... 5,000
+(e) Low income housing renovation/
+rehabilitation ............................. 20,000
+(f) Northwest Delegation subsidy .... 5,000
+(g) Food relief program ............. 20,000
+(h) Students’ financial assistance .. 10,000
+(i) POL/Charter/Freight ............. 10,000
+(j) Northwest citizen cement block
+retaining wall subsidy ..................... 5,000
+(k) Office lease/rental (current and prior
+obligation) ................................ 5,000”
+
+Section 3. This act shall become law upon approval by the
+President of the Federated States of Micronesia or upon its
+becoming law without such approval.
+August 15th , 2022
+/s/ David W. Panuelo
+David W. Panuelo
+President
+Federated States of Micronesia
