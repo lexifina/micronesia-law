@@ -186,6 +186,8 @@ def public_law(path):
                     or re.match(r'^\d+\s+of\s+\d+$', t):
                 continue
             t = re.sub(r'^\d{1,2}(\s+|$)', '', t).strip()   # printed line numbers
+            if re.match(r'^(C\.\s?D\.\s?\d*,?\s*)+$', t):     # bill draft marks in the running head ("C.D.2, C.D.3")
+                continue
             if t:
                 body.append(t)
     secs, order, cur, want, header = {}, [], None, 1, []
@@ -205,3 +207,80 @@ def public_law(path):
         if m:
             date = f'{m.group(1)} {m.group(2)}, {m.group(3)}'
     return {'header': header, 'sections': secs, 'date': date}
+
+
+# ---------------------------------------------------------------- Constitution (FSM LIS pages)
+
+ROMAN_NUM = {v: k for k, v in ROMAN.items()}
+ROMAN_NUM.update({11: 'XI', 12: 'XII', 13: 'XIII', 14: 'XIV', 15: 'XV', 16: 'XVI'})
+
+
+def constitution_page(raw):
+    """One fsmlaw.org Constitution page -> [(font size, text)] of its block elements. The LIS sets the Constitution's
+    words in FONT SIZE 3 (headings 4) and every annotation (cross references, case annotations) in SIZE 2."""
+    b = raw.decode('cp1252', 'replace')
+    b = re.sub(r'(?is)<script.*?</script>|<style.*?</style>|<!--.*?-->', '', b)
+    b = re.sub(r'(?is)^.*?<body[^>]*>', '', b)
+    out, size = [], 3
+    # blocks are cut at every div/p/heading boundary (the exported HTML does not always close its divs); a block
+    # without its own FONT size keeps the size in force before it
+    for chunk in re.split(r'(?i)<(?:div|p|h\d)\b[^>]*>|</(?:div|p|h\d)>', b):
+        sz = re.findall(r'(?i)<font\b[^>]*\bsize="?(\d)', chunk)
+        if sz:
+            size = int(sz[0])
+        t = norm(html_text(chunk).replace('ï¿½', ' ').replace('�', ' '))
+        if re.search(r'[A-Za-z0-9]', t):              # drops spacer blocks ("_", stray bytes)
+            out.append((size, t))
+        if sz:
+            size = int(sz[-1])
+    return out
+
+
+def html_text(d):
+    import html as _h
+    d = re.sub(r'(?i)<br\s*/?>', ' ', d)
+    return re.sub(r'\s+', ' ', _h.unescape(re.sub(r'<[^>]+>', ' ', d)))
+
+
+def constitution_units(page, blocks):
+    """(page name, blocks) -> ordered units for the preamble or one article."""
+    law = [t for s, t in blocks if s >= 3]
+    if page == 'preamble':
+        assert law[0].upper() == 'PREAMBLE', law[:1]
+        return [{'key': 'preamble', 'kind': 'preamble', 'label': 'Preamble', 'heading': 'Preamble', 'paras': law[1:]}]
+    n = int(page[len('article'):])
+    heads = [t for s, t in blocks if s >= 4]
+    assert heads[0].upper() == f'ARTICLE {ROMAN_NUM[n]}', heads
+    title = heads[1] if len(heads) > 1 else ''
+    units = [{'key': f'art-{n:02d}', 'kind': 'article', 'label': f'Art. {ROMAN_NUM[n]}',
+              'heading': f'Article {ROMAN_NUM[n]}', 'paras': [title] if title else []}]
+    cur = None
+    for s, t in blocks:
+        if s != 3:
+            continue
+        m = re.match(r'^Section\s+(\d+)\s*\.\s*(.*)$', t)
+        if m:
+            k = int(m.group(1))
+            cur = {'key': f'art-{n:02d}-sec-{k:02d}', 'kind': 'section', 'label': f'Art. {ROMAN_NUM[n]}, § {k}',
+                   'heading': f'Article {ROMAN_NUM[n]}, Section {k}', 'paras': [f'Section {k}. {m.group(2)}'.strip()]}
+            units.append(cur)
+        elif cur is not None:
+            cur['paras'].append(t)
+        else:
+            units[0]['paras'].append(t)
+    return units
+
+
+def source_laws(path):
+    """Public laws (Congress, session) named in the edition's "Source:" notes of a title PDF, in order of appearance."""
+    out = []
+    rows = _rows(path)
+    for i, r in enumerate(rows):
+        if r[3] < 11.5 and norm(r[5]).startswith('Source:'):
+            t = norm(r[5]) + ' ' + (norm(rows[i + 1][5]) if i + 1 < len(rows) and rows[i + 1][3] < 11.5 else '')
+            t = t.split('Cross-reference')[0].split("Editor")[0]
+            for m in re.finditer(r'PL\s*(?:§\s*)?(\d{1,2})-(\d{1,3})\b', t):
+                k = (int(m.group(1)), int(m.group(2)))
+                if k not in out:
+                    out.append(k)
+    return out
