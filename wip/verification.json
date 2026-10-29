@@ -1,19 +1,41 @@
 {
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 10
- },
+ "misses": [],
  "rebuild": {
   "commits": 10,
   "history_tip": "f32e4e6a6308681b903904e8b68e2ceb06ce8f2c",
   "identical": true,
   "main_identical": true,
   "tags": 17
+ },
+ "title-07-citizenship": {
+  "chapters_without_html": [],
+  "edition_paragraphs": 47,
+  "edition_sections_checked": 16,
+  "html_chapters": {
+   "1": "20160709195816",
+   "2": "20160709203844",
+   "3": "20160710021235"
+  },
+  "public_law_paragraphs": 21
+ },
+ "title-11-crimes": {
+  "chapters_without_html": [],
+  "edition_paragraphs": 1404,
+  "edition_sections_checked": 230,
+  "html_chapters": {
+   "1": "20160710030613",
+   "10": "20160710144822",
+   "11": "20160710030007",
+   "12": "20160709221227",
+   "2": "20160710030304",
+   "3": "20160710021902",
+   "4": "20160710030048",
+   "5": "20160709210652",
+   "6": "20160710022308",
+   "7": "20160710025613",
+   "8": "20160710151417",
+   "9": "20160709194747"
+  },
+  "public_law_paragraphs": 185
  }
 }

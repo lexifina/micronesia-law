@@ -1,0 +1,11 @@
+{
+  "path": "fm",
+  "code": "FM",
+  "name": "Micronesia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/micronesia-law",
+  "build": "built from an unofficial consolidation (FSM Legal Information System under the FSM Supreme Court; not an official publication) plus official public laws (FSM Congress): Constitution (1 version, oldest available, 2003-06-08; July 2023 referendum amendments not applied); Code title 11 Crimes (2014 Edition dated 2012-03-16, then PL 18-02, 18-19, 18-43, 21-08, 21-149: 6 versions); Code title 7 Citizenship (2014 Edition dated 2012-06-06, then PL 19-91, 23-140: 3 versions)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28",
+  "sources": 2
+}
