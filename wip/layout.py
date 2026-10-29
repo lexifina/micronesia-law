@@ -37,14 +37,10 @@ def norm(s):
     return s.strip()
 
 
-def _ends_clause(prev):
-    p = prev.rstrip()
-    return bool(re.search(r'[.;:]["\']?$|\b(and|or)$|—$', p))
-
-
 def reflow(lines):
-    """[(indent, text)] -> paragraphs. A line starts a new paragraph when the paragraph so far ends a clause and the
-    line is indented or opens with an enumerator, or always when the line opens with an enumerator after a colon."""
+    """[(indent, text)] -> paragraphs. A line starts a new paragraph when the paragraph so far ends with . ; or :
+    and the line is indented or opens with an enumerator, or when it ends with "and"/"or" and the line opens with an
+    enumerator. Every other line continues the paragraph."""
     paras = []
     for ind, t in lines:
         if not t:
@@ -55,8 +51,8 @@ def reflow(lines):
         prev = paras[-1]
         starts_enum = bool(ENUM.match(t))
         p = prev.rstrip()
-        new = bool((re.search(r'[.;:]["']?$', p) and (ind >= 4 or starts_enum))
-                   or (re.search(r'(and|or)$', p) and starts_enum))
+        new = bool((re.search(r'[.;:]["\']?$', p) and (ind >= 4 or starts_enum))
+                   or (re.search(r'\b(and|or)$', p) and starts_enum))
         if new:
             paras.append(t)
         else:
