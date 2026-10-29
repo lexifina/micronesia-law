@@ -1,0 +1,75 @@
+{
+ "country": "FM",
+ "acts": [
+  {
+   "slug": "title-11-crimes",
+   "short": "Title 11",
+   "title": "Code of the Federated States of Micronesia, Title 11: Crimes",
+   "url": "https://www.fsmlaw.org/fsm/code/indexcode2014.html",
+   "versions": [
+    {
+     "from": "2012-03-16",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20260611041125/https://www.fsmlaw.org/fsm/code/PDF/FSMCA2014Tit11.pdf",
+     "sha256": "c6c9635847bc3d249315cde29d6b63088ddc9c5df3164bfc9a9c7ec3adaf9623"
+    },
+    {
+     "from": "2013-06-14",
+     "units": 276,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-02.pdf",
+     "sha256": "a4a8202715275297cf9b7ee07bd2e0ec28bd6bf51698b47e6c3c45ba029293cf"
+    },
+    {
+     "from": "2013-10-14",
+     "units": 282,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-19.pdf",
+     "sha256": "e2413da4ecdfb2bd12611e8093d384db1239e9af9b04b43ee5a7e2a31591992e"
+    },
+    {
+     "from": "2014-03-07",
+     "units": 287,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-43.pdf",
+     "sha256": "fad49901c1c35af90e968f4d9839eeec89fe50a009af23b32cb93082fb53fa6c"
+    },
+    {
+     "from": "2019-07-05",
+     "units": 287,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2026/04/PUBLIC-LAW-NO.-21-08.pdf",
+     "sha256": "4ea74660bda2306aa10fd632860c5dd071a585898ae359ba0e1a84abd9b8ad2d"
+    },
+    {
+     "from": "2020-07-20",
+     "units": 287,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-149.pdf",
+     "sha256": "2fedef787f1d62bc154c8422a027464d5e2be20d304b3586a5a6edcb912accda"
+    }
+   ]
+  },
+  {
+   "slug": "title-07-citizenship",
+   "short": "Title 7",
+   "title": "Code of the Federated States of Micronesia, Title 7: Citizenship",
+   "url": "https://www.fsmlaw.org/fsm/code/indexcode2014.html",
+   "versions": [
+    {
+     "from": "2012-06-06",
+     "units": 19,
+     "source_url": "https://web.archive.org/web/20190715110226/http://www.fsmlaw.org:80/fsm/code/PDF/FSMCA2014Tit07.pdf",
+     "sha256": "cf1cce254afc10382c5f2a88dc2689e510c46de0d2460156a04cd550019fac9f"
+    },
+    {
+     "from": "2016-06-14",
+     "units": 19,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-91.pdf",
+     "sha256": "65b1eea2e945f2bb744f4c45776add1df86e3b3dc11cff2b5ee823da6f93508f"
+    },
+    {
+     "from": "2024-12-11",
+     "units": 19,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/12/PUBLIC-LAW-NO.-23-140.pdf",
+     "sha256": "ccbe43ef793e371aa56e70f33b4a1155316c17c52e24382ed7100d41a404b731"
+    }
+   ]
+  }
+ ]
+}
