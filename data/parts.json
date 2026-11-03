@@ -1,0 +1,172 @@
+{
+ "parts": {
+  "40-public-laws-24th.json": {
+   "acts": [
+    "public-law-24-018",
+    "public-law-24-031",
+    "public-law-24-034",
+    "public-law-24-035",
+    "public-law-24-045",
+    "public-law-24-047",
+    "public-law-24-054",
+    "public-law-24-059",
+    "public-law-24-061",
+    "public-law-24-063",
+    "public-law-24-068",
+    "public-law-24-069",
+    "public-law-24-070",
+    "public-law-24-072",
+    "public-law-24-075",
+    "public-law-24-077",
+    "public-law-24-080",
+    "public-law-24-084",
+    "public-law-24-085",
+    "public-law-24-087",
+    "public-law-24-089",
+    "public-law-24-091",
+    "public-law-24-092",
+    "public-law-24-094",
+    "public-law-24-095",
+    "public-law-24-096",
+    "public-law-24-098",
+    "public-law-24-101",
+    "public-law-24-103",
+    "public-law-24-104",
+    "public-law-24-105",
+    "public-law-24-106",
+    "public-law-24-108",
+    "public-law-24-109",
+    "public-law-24-110",
+    "public-law-24-112",
+    "public-law-24-113",
+    "public-law-24-114",
+    "public-law-24-115",
+    "public-law-24-116",
+    "public-law-24-117",
+    "public-law-24-118",
+    "public-law-24-119",
+    "public-law-24-120",
+    "public-law-24-121",
+    "public-law-24-122",
+    "public-law-24-123",
+    "public-law-24-124",
+    "public-law-24-125",
+    "public-law-24-126",
+    "public-law-24-127",
+    "public-law-24-128",
+    "public-law-24-129",
+    "public-law-24-130",
+    "public-law-24-132",
+    "public-law-24-133",
+    "public-law-24-134",
+    "public-law-24-135",
+    "public-law-24-136"
+   ],
+   "sha256": "133da8feb20d85fb3c48a3d2293d201d9c5a95f9b4e2eb9b75a44ea17aa5a32a"
+  },
+  "42-public-laws-23.json": {
+   "acts": [
+    "public-law-23-015",
+    "public-law-23-019",
+    "public-law-23-023",
+    "public-law-23-028",
+    "public-law-23-029",
+    "public-law-23-032",
+    "public-law-23-034",
+    "public-law-23-035",
+    "public-law-23-041",
+    "public-law-23-044",
+    "public-law-23-061",
+    "public-law-23-068",
+    "public-law-23-069",
+    "public-law-23-071",
+    "public-law-23-076",
+    "public-law-23-087",
+    "public-law-23-105",
+    "public-law-23-108",
+    "public-law-23-110",
+    "public-law-23-120",
+    "public-law-23-123",
+    "public-law-23-128",
+    "public-law-23-130",
+    "public-law-23-137",
+    "public-law-23-147",
+    "public-law-23-152",
+    "public-law-23-153",
+    "public-law-23-154",
+    "public-law-23-158",
+    "public-law-23-161",
+    "public-law-23-164"
+   ],
+   "sha256": "884df140ab0e603250f121c6d58591f961030bb10fb8cb817c68cccf417cf1cb"
+  },
+  "45-public-laws-20.json": {
+   "acts": [
+    "public-law-20-100",
+    "public-law-20-101",
+    "public-law-20-114",
+    "public-law-20-137",
+    "public-law-20-140",
+    "public-law-20-142",
+    "public-law-20-147",
+    "public-law-20-153",
+    "public-law-20-158",
+    "public-law-20-181",
+    "public-law-20-182",
+    "public-law-20-184"
+   ],
+   "sha256": "aa7bfa7f7a48fcde852a0ee86d48cd7f9f594d80fd3523ae1b83471a9295811f"
+  },
+  "46-public-laws-19.json": {
+   "acts": [
+    "public-law-19-015",
+    "public-law-19-023",
+    "public-law-19-025",
+    "public-law-19-030",
+    "public-law-19-036",
+    "public-law-19-037",
+    "public-law-19-070",
+    "public-law-19-149",
+    "public-law-19-164",
+    "public-law-19-174"
+   ],
+   "sha256": "d20e2a6be1f0501a6012b42088e059336a239a64638c67723cbe79854bc2fd81"
+  },
+  "47-public-laws-18.json": {
+   "acts": [
+    "public-law-18-008",
+    "public-law-18-009",
+    "public-law-18-019",
+    "public-law-18-040",
+    "public-law-18-043",
+    "public-law-18-055",
+    "public-law-18-069",
+    "public-law-18-088",
+    "public-law-18-092"
+   ],
+   "sha256": "01278ee4e4907f551705e4a6109199ca1e57c0a9d8dfa9c1dd4b5d1cb16cd6e9"
+  },
+  "48-public-laws-17.json": {
+   "acts": [
+    "public-law-17-002",
+    "public-law-17-009",
+    "public-law-17-046",
+    "public-law-17-056",
+    "public-law-17-057",
+    "public-law-17-060",
+    "public-law-17-062",
+    "public-law-17-075",
+    "public-law-17-080"
+   ],
+   "sha256": "b3dc014466c95fd5f31d04ed3216764d7c79924e5249d5d2d0a21f4ca77e95f1"
+  },
+  "49-public-laws-16.json": {
+   "acts": [
+    "public-law-16-001",
+    "public-law-16-009"
+   ],
+   "sha256": "965f7c4b32e5786800ae6e698f71a8bf00ba934606049bbaa1cebc509f5c37f0"
+  }
+ },
+ "schema": 1
+}
