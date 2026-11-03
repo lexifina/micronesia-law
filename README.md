@@ -169,3 +169,44 @@ Official enrolled session laws, separate from consolidated Code titles. Each is 
 | `public-law-22-004/` | [PL 22-04](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__22-04.pdf) | 1 | 2021-05-28 |
 | `public-law-22-003/` | [PL 22-03](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__22-03.pdf) | 1 | 2021-05-28 |
 | `public-law-22-002/` | [PL 22-02](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__22-02.pdf) | 1 | 2021-05-27 |
+
+## Additional enrolled laws: Congress 21
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available. Dates use the source approval day where established; an unknown exact day uses the credited source retrieval day. Legislative session ranges are not used as in-force dates.
+
+| Folder | Law | Versions | Version date |
+| --- | --- | ---: | --- |
+| `public-law-21-260/` | [PL 21-260](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-260.pdf) | 1 | 2021-05-27 |
+| `public-law-21-259/` | [PL 21-259](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-259.pdf) | 1 | 2021-05-27 |
+| `public-law-21-258/` | [PL 21-258](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-258.pdf) | 1 | 2021-05-27 |
+| `public-law-21-256/` | [PL 21-256](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-256.pdf) | 1 | 2021-05-27 |
+| `public-law-21-255/` | [PL 21-255](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-255.pdf) | 1 | 2021-05-27 |
+| `public-law-21-253/` | [PL 21-253](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-253.pdf) | 1 | 2021-05-26 |
+| `public-law-21-252/` | [PL 21-252](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-252.pdf) | 1 | 2021-05-26 |
+| `public-law-21-250/` | [PL 21-250](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-250.pdf) | 1 | 2021-04-29 |
+| `public-law-21-236/` | [PL 21-236](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-236.pdf) | 1 | 2021-03-01 |
+| `public-law-21-231/` | [PL 21-231](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-231.pdf) | 1 | 2021-02-08 |
+| `public-law-21-215/` | [PL 21-215](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-215.pdf) | 1 | 2020-12-10 |
+| `public-law-21-202/` | [PL 21-202](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-202.pdf) | 1 | 2020-11-21 |
+| `public-law-21-190/` | [PL 21-190](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-190.pdf) | 1 | 2020-10-14 |
+| `public-law-21-184/` | [PL 21-184](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-184.pdf) | 1 | 2020-09-24 |
+| `public-law-21-149/` | [PL 21-149](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-149.pdf) | 1 | 2020-07-20 |
+| `public-law-21-148/` | [PL 21-148](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-148.pdf) | 1 | 2020-07-17 |
+| `public-law-21-145/` | [PL 21-145](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-145.pdf) | 1 | 2020-07-02 |
+| `public-law-21-079/` | [PL 21-79](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-79.pdf) | 1 | 2020-02-21 |
+| `public-law-21-078/` | [PL 21-78](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-78.pdf) | 1 | 2020-02-18 |
+| `public-law-21-075/` | [PL 21-75](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-75.pdf) | 1 | 2020-02-07 |
+| `public-law-21-070/` | [PL 21-70](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-70.pdf) | 1 | 2019-12-24 |
+| `public-law-21-063/` | [PL 21-63](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-63.pdf) | 1 | 2019-12-23 |
+| `public-law-21-062/` | [PL 21-62](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-62.pdf) | 1 | 2019-12-23 |
+| `public-law-21-057/` | [PL 21-57](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-57.pdf) | 1 | 2019-12-23 |
+| `public-law-21-049/` | [PL 21-49](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-49.pdf) | 1 | 2019-10-19 |
+| `public-law-21-044/` | [PL 21-44](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-44.pdf) | 1 | 2019-10-19 |
+| `public-law-21-037/` | [PL 21-37](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-37.pdf) | 1 | 2019-09-18 |
+| `public-law-21-034/` | [PL 21-34](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-34.pdf) | 1 | 2019-08-15 |
+| `public-law-21-030/` | [PL 21-30](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-30.pdf) | 1 | 2019-08-15 |
+| `public-law-21-017/` | [PL 21-17](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-17.pdf) | 1 | 2019-08-07 |
+| `public-law-21-011/` | [PL 21-11](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-11.pdf) | 1 | 2019-08-07 |
+| `public-law-21-009/` | [PL 21-09](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-09.pdf) | 1 | 2019-07-05 |
+| `public-law-21-008/` | [PL 21-08](https://www.cfsm.gov.fm/wp-content/uploads/2026/04/PUBLIC-LAW-NO.-21-08.pdf) | 1 | 2019-07-05 |
+| `public-law-21-004/` | [PL 21-04](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__21-04.pdf) | 1 | 2019-06-21 |
