@@ -18,6 +18,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 17 public laws | <https://www.cfsm.gov.fm/17th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 16 public laws | <https://www.cfsm.gov.fm/16th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 15 public laws | <https://www.cfsm.gov.fm/15th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 14 public laws | <https://www.cfsm.gov.fm/14th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -226,12 +227,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-15-041` | Public Law No. 15-41: To further amend title 52 of the Code of the Federated States of Micronesia, as amended, by repealing section 205 thereof and enacting a one-time increase in base salaries for certain public service employees, and for other purposes. | 1 | 2008-06-20 to 2008-06-20 |
 | `public-law-15-009` | Public Law No. 15-09: To further amend title 2 of the Code of the Federated States of Micronesia, as amended, by amending section 203, as amended by Public Laws Nos. 5-21, 6-62, 7-97 and 10-55, by further amending section 204, as amended by Public Laws Nos. 5-21, 10-55 and 13-75, and by repealing Public Law No. 13-75 thereof for the purpose of improving the efficiency of the executive branch, and for other purposes. | 1 | 2007-09-12 to 2007-09-12 |
 | `public-law-15-002` | Public Law No. 15-02: To further amend Title 9 of the Code of the Federated States of Micronesia, as enacted by Public Law No. 14-76 and amended by Public Law No. 14-98, by amending section 605 to reduce the number of days that the special polling places located outside of the Federated States of Micronesia remain open from seven days to election day only, to increase the number of hours those special polling places remain open, and for other purposes. | 1 | 2007-06-08 to 2007-06-08 |
+| `public-law-14-100` | Public Law No. 14-100: To appropriate the sum of $105,000 from the General Fund of the Federated States of Micronesia, for the purpose of providing fuel for the President’s visit to the outer islands of Pohnpei and Chuuk, to provide assistance to the National Election Office for administration of the 2007 national election in Chuuk and to provide security for the special polling places, and to provide funding for the President’s representation fund, and for other purposes. | 1 | 2007-01-25 to 2007-01-25 |
+| `public-law-14-097` | Public Law No. 14-97: To further amend Public Law No. 14-21, as amended by Public Laws Nos. 14-42, 14-50 and 14-70, by amending section 12 thereof, as amended by Public Law No. 14-70, in order to change the allottee of $25,000 appropriated for COM Treaty Obligations from the Chief Justice of the Supreme Court of the Federated States of Micronesia to the President of the College of Micronesia-FSM, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-14-092` | Public Law No. 14-92: To amend Public Law No. 14-78, by amending Section 1 thereof, to change the use and eliminate the conditions of certain funds previously appropriated therein, and for other purposes. | 1 | 2006-11-28 to 2006-11-28 |
+| `public-law-14-089` | Public Law No. 14-89: To further amend title 19 of the Code of the Federated States of Micronesia, as amended, by amending section 302, as amended by Public Law No. 10-137, to eliminate the requirement that a vessel must begin and end the majority of its voyages in the Federated States of Micronesia in order to be registered in the Federated States of Micronesia, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-14-085` | Public Law No. 14-85: To further amend Title 50 of the Code of the Federated States of Micronesia, as amended, by amending section 205 to allow for a shorter period of validity of passports, and for other purposes. | 1 | 2006-10-20 to 2006-10-20 |
+| `public-law-14-081` | Public Law No. 14-81: To further amend Title 52 of the Code of the Federated States of Micronesia, as amended, by amending section 117 to exempt National Weather Services employees from the Public Service System Act, and for other purposes. | 1 | 2006-10-13 to 2006-10-13 |
+| `public-law-14-075` | Public Law No. 14-75: To appropriate the sum of $29,815, or so much thereof as is necessary, from funds within the General Fund of the Federated States of Micronesia made available pursuant to Public Law No. 14-35, for the purpose of funding public projects and programs in Pohnpei Election District No. 1, and for other purposes. | 1 | 2006-08-09 to 2006-08-09 |
+| `public-law-14-064` | Public Law No. 14-64: To further amend Public Law No. 9-27, as amended, by amending sections 2 and 5 thereof, to change the use and allottee of certain funds previously appropriated therein, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-14-062` | Public Law No. 14-62: To amend Public Law No. 13-84, as amended, by amending section 2 thereof to change the allottee of funds appropriated therein, and for other purposes. | 1 | 2006-06-06 to 2006-06-06 |
+| `public-law-14-059` | Public Law No. 14-59: To further amend title 41 of the Code of the Federated States of Micronesia, as amended, by enacting a new section 1006A to require all food items sold to be labeled, and for other purposes. | 1 | 2006-04-13 to 2006-04-13 |
+| `public-law-14-057` | Public Law No. 14-57: To appropriate the sum of $2.1 million from the General Fund of the Federated States of Micronesia to be used for the purpose of funding projects and programs in each of the States, and for other purposes. | 1 | 2006-04-12 to 2006-04-12 |
+| `public-law-14-056` | Public Law No. 14-56: To further amend title 52 of the Code of the Federated States of Micronesia, as amended, by amending section 115 thereof to establish a mandatory retirement age for all employees subject to the National Public Service System, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-14-055` | Public Law No. 14-55: To further amend title 24 of the Code of the Federated States of Micronesia, as amended, by amending section 405, and for other purposes. | 1 | 2006-03-03 to 2006-03-03 |
+| `public-law-14-054` | Public Law No. 14-54: To further amend title 21 of the Code of the Federated States of Micronesia, as amended, by amending section 212 with respect to the term of Telecom Board members and amending section 213 with respect to the filling of vacancies on the Telecom Board, and for other purposes. | 1 | 2006-02-24 to 2006-02-24 |
+| `public-law-14-051` | Public Law No. 14-51: To further amend Public Law No. 9-27, as amended, by amending sections 2 and 5 thereof, to change the use and allottee of certain funds previously appropriated therein, and for other purposes. | 1 | 2006-02-21 to 2006-02-21 |
+| `public-law-14-047` | Public Law No. 14-47: To further amend title 24 of the Code of the Federated States of Micronesia, as amended, by amending section 113 to enable the waiver of permit fees in certain circumstances, and for other purposes. | 1 | 2005-12-22 to 2005-12-22 |
+| `public-law-14-043` | Public Law No. 14-43: To further amend Public Law No. 6-49, as amended, by amending section 10 for the purpose of changing the allottee of funds previously appropriated for public projects in the State of Chuuk, and for other purposes. | 1 | 2005-11-25 to 2005-11-25 |
+| `public-law-14-041` | Public Law No. 14-41: To further amend Public Law No. 8-115, as amended, by amending section 1 to deposit certain funds appropriated therein into the fund within the General Fund entitled “Public Projects for Chuuk Election District No. 5”, and for other purposes. | 1 | 2005-11-10 to 2005-11-10 |
+| `public-law-14-030` | Public Law No. 14-30: To appropriate the sum of $200,000 from the General Fund of the Federated States of Micronesia for the fiscal year ending September 30, 2005 in support of hurricane relief efforts, and for other purposes | 1 | 2005-11-02 to 2005-11-02 |
+| `public-law-14-024` | Public Law No. 14-24: To propose the repeal of article III, section 3 of the Constitution of the Federated States of Micronesia, for the purpose of enabling citizens of the Federated States of Micronesia to retain or obtain citizenship of another state without being required to relinquish citizenship of the Federated States of Micronesia, and for other purposes. | 1 | 2005-10-13 to 2005-10-13 |
+| `public-law-14-023` | Public Law No. 14-23: To appropriate the sum of $50,000 from the General Fund of the Federated States of Micronesia for the fiscal year ending September 30, 2005 for medical supplies and in support of reconstruction efforts in the Republic of the Marshall Islands after the Majuro Hospital fire. | 1 | 2005-10-13 to 2005-10-13 |
+| `public-law-14-019` | Public Law No. 14-19: To further amend Public Law No. 11-59, as amended, by amending sections 1 and 7 thereof, to change the use, the allottee and the lapse date of certain funds appropriated therein, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-14-017` | Public Law No. 14-17: To further amend Public Law No. 11-27, as amended, by amending section 1 thereof to reallocate certain funds appropriated for use in the State of Chuuk, and for other purposes. | 1 | 2005-06-29 to 2005-06-29 |
+| `public-law-14-013` | Public Law No. 14-13: To further amend Public Law No. 8-115, as amended, by amending section 1 to change the use of certain funds for the State of Chuuk, and for other purposes. | 1 | 2005-06-24 to 2005-06-24 |
+| `public-law-14-006` | Public Law No. 14-06: To further amend Public Law No. 7-35, as amended, by amending section 3 thereof, to change the uses of certain funds, and for other purposes. | 1 | 2005-06-09 to 2005-06-09 |
+| `public-law-14-001` | Public Law No. 14-01: To appropriate the sum of $222,000 from the General Fund of the Federated States of Micronesia for the fiscal year ending September 30, 2005 to renovate the FSM Embassies in Washington D.C. and Suva, and for other purposes. | 1 | 2005-06-06 to 2005-06-06 |
 
-The build made 208 commits:
+The build made 234 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 201 | first version of an act |
+| 227 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -239,7 +266,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 215 tags.
+- 241 tags.
 
 ## Dates
 
@@ -251,7 +278,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `5ad25a94b2f722d2643b2d56d9228ab5f3743ee29e8c002992b52e8e7407ab8f` (2110484 bytes).
+- Corpus: sha256 `2df76bda76410ae1e3fa694d117f993a4e3649eed99bc6a18ed9253ecb9ba60d` (2218570 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -308,6 +335,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use exact approval dates in enrolled PDFs where stated, otherwise the source retrieval day credited to the publisher because the exact in-force day is unknown. Legislative-session ranges are never used as in-force dates. Full-page scans and source word disagreements remain held.
 
 ## What AI did and did not do
 
@@ -319,6 +349,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
