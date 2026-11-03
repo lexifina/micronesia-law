@@ -96,3 +96,41 @@ The Constitution is held outside the published record because its available text
 ## Sources and licence
 
 The Code-title records use the FSM Legal Information System's unofficial 2014 consolidation under the FSM Supreme Court, with the official Congress laws named in their history. The new session-law records use only [Congress of the Federated States of Micronesia](https://www.cfsm.gov.fm/24th-public-laws/) enrolled PDFs. Neither source states a licence for legislation; see LICENSE. This repository is not legal advice.
+
+## Additional enrolled laws: Congress 23
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available.
+
+| Folder | Law | Versions | Source approval date |
+| --- | --- | ---: | --- |
+| `public-law-23-164/` | [PL 23-164](https://www.cfsm.gov.fm/wp-content/uploads/2025/05/PUBLIC-LAW-NO.-23-164.pdf) | 1 | 2025-05-05 |
+| `public-law-23-161/` | [PL 23-161](https://www.cfsm.gov.fm/wp-content/uploads/2025/05/PUBLIC-LAW-NO.-23-161.pdf) | 1 | 2025-05-02 |
+| `public-law-23-158/` | [PL 23-158](https://www.cfsm.gov.fm/wp-content/uploads/2025/05/PUBLIC-LAW-NO.-23-158.pdf) | 1 | 2025-05-02 |
+| `public-law-23-154/` | [PL 23-154](https://www.cfsm.gov.fm/wp-content/uploads/2025/05/PUBLIC-LAW-NO.-23-154.pdf) | 1 | 2025-05-02 |
+| `public-law-23-153/` | [PL 23-153](https://www.cfsm.gov.fm/wp-content/uploads/2025/04/PUBLIC-LAW-NO.-23-153.pdf) | 1 | 2025-02-27 |
+| `public-law-23-152/` | [PL 23-152](https://www.cfsm.gov.fm/wp-content/uploads/2025/04/PUBLIC-LAW-NO.-23-152.pdf) | 1 | 2025-02-27 |
+| `public-law-23-147/` | [PL 23-147](https://www.cfsm.gov.fm/wp-content/uploads/2025/02/PUBLIC-LAW-NO.-23-147.pdf) | 1 | 2025-02-13 |
+| `public-law-23-137/` | [PL 23-137](https://www.cfsm.gov.fm/wp-content/uploads/2024/12/PUBLIC-LAW-NO.-23-137.pdf) | 1 | 2024-12-05 |
+| `public-law-23-130/` | [PL 23-130](https://www.cfsm.gov.fm/wp-content/uploads/2024/12/PUBLIC-LAW-NO.-23-130.pdf) | 1 | 2024-11-27 |
+| `public-law-23-128/` | [PL 23-128](https://www.cfsm.gov.fm/wp-content/uploads/2024/12/PUBLIC-LAW-NO.-23-128.pdf) | 1 | 2024-10-25 |
+| `public-law-23-123/` | [PL 23-123](https://www.cfsm.gov.fm/wp-content/uploads/2024/10/PUBLIC-LAW-NO.-23-123.pdf) | 1 | 2024-10-04 |
+| `public-law-23-120/` | [PL 23-120](https://www.cfsm.gov.fm/wp-content/uploads/2024/10/PUBLIC-LAW-NO.-23-120.pdf) | 1 | 2024-09-21 |
+| `public-law-23-110/` | [PL 23-110](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-NO.-23-110.pdf) | 1 | 2024-07-03 |
+| `public-law-23-108/` | [PL 23-108](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-NO.-23-108.pdf) | 1 | 2024-07-02 |
+| `public-law-23-105/` | [PL 23-105](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-NO.-23-105.pdf) | 1 | 2024-06-28 |
+| `public-law-23-087/` | [PL 23-87](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-NO.-23-87.pdf) | 1 | 2024-06-27 |
+| `public-law-23-076/` | [PL 23-76](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-NO.-23-76.pdf) | 1 | 2024-06-10 |
+| `public-law-23-071/` | [PL 23-71](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO_23-71.pdf) | 1 | 2024-05-14 |
+| `public-law-23-069/` | [PL 23-69](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO_23-69.pdf) | 1 | 2024-05-14 |
+| `public-law-23-068/` | [PL 23-68](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO_23-68.pdf) | 1 | 2024-05-08 |
+| `public-law-23-061/` | [PL 23-61](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO_23-61.pdf) | 1 | 2024-04-30 |
+| `public-law-23-044/` | [PL 23-44](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-44.pdf) | 1 | 2023-10-27 |
+| `public-law-23-041/` | [PL 23-41](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-41.pdf) | 1 | 2023-10-21 |
+| `public-law-23-035/` | [PL 23-35](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-35.pdf) | 1 | 2023-10-19 |
+| `public-law-23-034/` | [PL 23-34](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-34.pdf) | 1 | 2023-10-19 |
+| `public-law-23-032/` | [PL 23-32](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-32.pdf) | 1 | 2023-10-06 |
+| `public-law-23-029/` | [PL 23-29](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-29.pdf) | 1 | 2023-09-30 |
+| `public-law-23-028/` | [PL 23-28](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-28.pdf) | 1 | 2023-09-30 |
+| `public-law-23-023/` | [PL 23-23](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-23.pdf) | 1 | 2023-09-24 |
+| `public-law-23-019/` | [PL 23-19](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-19.pdf) | 1 | 2023-07-31 |
+| `public-law-23-015/` | [PL 23-15](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__23-15.pdf) | 1 | 2023-07-28 |
