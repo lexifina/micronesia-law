@@ -246,3 +246,19 @@ Official enrolled session laws, separate from consolidated Code titles. Each is 
 | `public-law-19-025/` | [PL 19-25](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-25.pdf) | 1 | 2015-08-27 |
 | `public-law-19-023/` | [PL 19-23](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-23.pdf) | 1 | 2015-08-20 |
 | `public-law-19-015/` | [PL 19-15](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-15.pdf) | 1 | 2015-08-03 |
+
+## Additional enrolled laws: Congress 18
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available. Dates use the source approval day where established; an unknown exact day uses the credited source retrieval day. Legislative session ranges are not used as in-force dates.
+
+| Folder | Law | Versions | Version date |
+| --- | --- | ---: | --- |
+| `public-law-18-092/` | [PL 18-92](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-92.pdf) | 1 | 2014-10-23 |
+| `public-law-18-088/` | [PL 18-88](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-88.pdf) | 1 | 2014-09-29 |
+| `public-law-18-069/` | [PL 18-69](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-69.pdf) | 1 | 2014-06-20 |
+| `public-law-18-055/` | [PL 18-55](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-55.pdf) | 1 | 2014-04-22 |
+| `public-law-18-043/` | [PL 18-43](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-43.pdf) | 1 | 2014-03-07 |
+| `public-law-18-040/` | [PL 18-40](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-40.pdf) | 1 | 2014-02-11 |
+| `public-law-18-019/` | [PL 18-19](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-19.pdf) | 1 | 2013-10-14 |
+| `public-law-18-009/` | [PL 18-09](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-09.pdf) | 1 | 2013-08-15 |
+| `public-law-18-008/` | [PL 18-08](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-18-08.pdf) | 1 | 2013-08-15 |

@@ -7,15 +7,16 @@ The legal texts come from two sources:
   "are not to be construed as an official publication".
 
   Public laws of the Federated States of Micronesia as published by the Congress of the Federated States of
-  Micronesia (https://www.cfsm.gov.fm), retrieved 29 October 2026; the additional 24th Congress public-law documents were retrieved 3 November 2026.
+  Micronesia (https://www.cfsm.gov.fm), retrieved 29 October 2026; the additional Congress 10–24 public-law documents were retrieved 3 November 2026.
 
 Neither source states a licence. They are legal texts of the Federated States of Micronesia, reproduced with the
 attribution above; their copyright status is not confirmed here.
 
-Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
-spacing, quotes and dashes were normalised; annotations (Source notes, editor's notes, cross references, case
-annotations) were left out; and the versions were arranged as git commits credited to the public laws that made each
-change. The wording of the law was not changed. Neither the FSM Legal Information System, the FSM Supreme Court nor
+Changes made by Lexifina: consolidated Code versions were converted to one Markdown file per provision, one paragraph
+per line; spacing, quotes and dashes were normalised, and editorial annotations were left out. The additional enrolled
+Congress laws each occupy a single file preserving the complete source word sequence, including printed line numbers
+and administrative furniture, with whitespace normalised. Versions are arranged as git commits credited to their
+sources. The wording of the law was not changed. Neither the FSM Legal Information System, the FSM Supreme Court nor
 the Congress of the Federated States of Micronesia endorses this repository.
 
 Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
