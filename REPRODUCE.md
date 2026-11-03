@@ -13,6 +13,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 22 public laws | <https://www.cfsm.gov.fm/22nd-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 21 public laws | <https://www.cfsm.gov.fm/21st-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 20 public laws | <https://www.cfsm.gov.fm/20th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 19 public laws | <https://www.cfsm.gov.fm/19th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -186,12 +187,22 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-20-114` | Public Law No. 20-114: To further amend Public Law No. 19-141, as amended by Public Laws No. 19-147 and 19-171, by amending section 2 thereof, to change the lapse date of funds previously appropriated therein, for the purpose of funding defunded programs and activities of the government of the state of Kosrae and public projects and social programs for the people of the state of Chuuk, and for other purposes. : [CB 20-167] | 1 | 2018-08-31 to 2018-08-31 |
 | `public-law-20-101` | Public Law No. 20-101: To repeal in their entirety Public Laws Nos. 20-13 and 20-20 pertaining to the assets and liabilities of the Open Access Entity, and to reinstate the previous language of sections 203 and 389 of title 21 of the Code of the Federated States of Micronesia (Annotated), as amended, and for other purposes. : [CB 20-209] | 1 | 2018-07-20 to 2018-07-20 |
 | `public-law-20-100` | Public Law No. 20-100: To amend subchapter II of chapter 3 of title 54 of the code of the Federated States of Micronesia (Annotated), as amended by Public Law No. 18-103, by inserting a new section 324 thereto to give the Secretary of the Department of Finance and Administration the authority to reduce a third-party appraisal to determine fair market value of certain assets, and for other purposes. : [CB 20-214] | 1 | 2018-07-20 to 2018-07-20 |
+| `public-law-19-174` | Public Law No. 19-174: To further amend title 22 of the Code of the Federated States of Micronesia (Annotated), as amended by Public Law No. 18-68, to create a new chapter 4 thereof entitled “Biosecurity”, to prevent animal and plant pests and diseases from entering the Federated States of Micronesia, to regulate the movement of animals and plants and their products, to control the establishment and spread of animal and plant pests and diseases that enter the Federated States of Micronesia, to facilitate international cooperation in respect of animal and plant diseases, and for other purposes. | 1 | 2017-04-28 to 2017-04-28 |
+| `public-law-19-164` | Public Law No. 19-164: To amend sections 201 and 202 of title 24 of the Code of the Federated States of Micronesia, as amended by Public Law No. 19-21, to modify the term limit of members of the National Oceanic Resource Management Authority of the Federated States of Micronesia, and for other purposes. [CB 19-79 | CD.1] | 1 | 2017-04-17 to 2017-04-17 |
+| `public-law-19-149` | Public Law No. 19-149: To simplify the rules and procedures in approving foreign grants by amending section 210 and repealing section 211 of title 55 of the Code of the Federated States of Micronesia (Annotated), as amended, and for other purposes. [CB 19-238 | CD.1] | 1 | 2017-02-13 to 2017-02-13 |
+| `public-law-19-070` | Public Law No. 19-70: To propose the repeal of article III, section 3 of the Constitution of the Federated States of Micronesia, for the purpose of enabling citizens of the Federated States of Micronesia to retain or obtain citizenship of another state without being required to relinquish citizenship of the Federated States of Micronesia, and for other purposes. [CB 19-116 | CD.1] | 1 | 2016-03-18 to 2016-03-18 |
+| `public-law-19-037` | Public Law No. 19-37: To appropriate the sum of $250,000 from the General Fund of the Federated States of Micronesia for the fiscal year ending September 30, 2016, for the purpose of funding the Observer and Port Sampler Program, and for other purposes. [CB 19-90] | 1 | 2015-10-28 to 2015-10-28 |
+| `public-law-19-036` | Public Law No. 19-36: To further amend sections 503, 913 and 914 of title 24 of the Code of the Federated States of Micronesia (Annotated), as amended by Public Laws No. 18-108 and 19-21, to allow the disposal at sea of by-catch after recording the by-catch in a daily catch report form, to allow for alternate methods of the reporting and disposal of sharks, to clarify the standards for criminal and civil penalties and to allow for clarification of the penalty provision, and for other purposes. [CB 19-86 | CD1] | 1 | 2015-10-28 to 2015-10-28 |
+| `public-law-19-030` | Public Law No. 19-30: To repeal Public Law No. 14-48, which added section 419 to title 55 of the Code of the Federated States of Micronesia (Annotated), relating to the implementation of the Infrastructure Development Plan; and which further amended section 204 of title 32 F.S.M.C. exempting such activities from the foreign investment laws, in its entirety, and for other purposes. | 1 | 2015-09-23 to 2015-09-23 |
+| `public-law-19-025` | Public Law No. 19-25: To appropriate the sum of $2,844,880 from the General Fund of the Federated States of Micronesia for the fiscal year ending September 30, 2015, for the purpose of funding the Public Infrastructure Project of Nanpei Memorial High School and the Library Project, to provide funds to Pohnpei School Designs, and for other purposes. | 1 | 2015-08-27 to 2015-08-27 |
+| `public-law-19-023` | Public Law No. 19-23: To authorize the President of the Federated States of Micronesia, or his designee, to negotiate a sovereign guarantee to secure an Asian Development Bank loan in the amount of $16.4 million, to fund the Pohnpei Port Development Project, and for other purposes. | 1 | 2015-08-20 to 2015-08-20 |
+| `public-law-19-015` | Public Law No. 19-15: To further amend Public Law No. 18-42, as amended by Public Law No. 18-56, by amending section 2 thereof, to change the lapse date of certain funds previously appropriated therein, to fund the airport terminal facilities improvement and the upgrade of equipment of the Aircraft Rescue and Fire Fighting (ARFF) buildings in the States of Kosrae, Chuuk, Yap and Pohnpei, and for other purposes. | 1 | 2015-08-03 to 2015-08-03 |
 
-The build made 173 commits:
+The build made 183 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 166 | first version of an act |
+| 176 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -199,7 +210,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 180 tags.
+- 190 tags.
 
 ## Dates
 
@@ -211,7 +222,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `08400cf24b09a3b4ca7475b5b6a0b0005d88515343dc73ed86433155eb19beb0` (1784935 bytes).
+- Corpus: sha256 `52e5d0f2d832ec329ee4f5e6c916c7f7012b0f87679272e8eeeba5237b6d5b9f` (1957183 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -253,6 +264,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
 
 ## What AI did and did not do
 
@@ -264,6 +278,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.

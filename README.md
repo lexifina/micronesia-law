@@ -229,3 +229,20 @@ Official enrolled session laws, separate from consolidated Code titles. Each is 
 | `public-law-20-114/` | [PL 20-114](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_NO__20-114.pdf) | 1 | 2018-08-31 |
 | `public-law-20-101/` | [PL 20-101](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_20-101.pdf) | 1 | 2018-07-20 |
 | `public-law-20-100/` | [PL 20-100](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_20-100.pdf) | 1 | 2018-07-20 |
+
+## Additional enrolled laws: Congress 19
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available. Dates use the source approval day where established; an unknown exact day uses the credited source retrieval day. Legislative session ranges are not used as in-force dates.
+
+| Folder | Law | Versions | Version date |
+| --- | --- | ---: | --- |
+| `public-law-19-174/` | [PL 19-174](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_19-174.pdf) | 1 | 2017-04-28 |
+| `public-law-19-164/` | [PL 19-164](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_19-164.pdf) | 1 | 2017-04-17 |
+| `public-law-19-149/` | [PL 19-149](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC_LAW_19-149.pdf) | 1 | 2017-02-13 |
+| `public-law-19-070/` | [PL 19-70](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-70.pdf) | 1 | 2016-03-18 |
+| `public-law-19-037/` | [PL 19-37](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-37.pdf) | 1 | 2015-10-28 |
+| `public-law-19-036/` | [PL 19-36](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-36.pdf) | 1 | 2015-10-28 |
+| `public-law-19-030/` | [PL 19-30](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-30.pdf) | 1 | 2015-09-23 |
+| `public-law-19-025/` | [PL 19-25](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-25.pdf) | 1 | 2015-08-27 |
+| `public-law-19-023/` | [PL 19-23](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-23.pdf) | 1 | 2015-08-20 |
+| `public-law-19-015/` | [PL 19-15](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/PUBLIC-LAW-19-15.pdf) | 1 | 2015-08-03 |
