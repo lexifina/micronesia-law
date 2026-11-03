@@ -20,6 +20,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 15 public laws | <https://www.cfsm.gov.fm/15th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 14 public laws | <https://www.cfsm.gov.fm/14th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 13 public laws | <https://www.cfsm.gov.fm/13th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 12 public laws | <https://www.cfsm.gov.fm/12th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -286,12 +287,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-13-004` | Public Law No. 13-4: To further amend Public Law No. 9-052, as amended, by amending section 6 thereof to change the allottee of certain funds appropriated to Election District No. 1 in Chuuk State, and for other purposes. | 1 | 2003-06-25 to 2003-06-25 |
 | `public-law-13-003` | Public Law No. 13-3: To further amend Public Law No. 9-027, as amended, by amending section 5 to change the allottee for certain funds appropriated for Chuuk State Election District No. 1, and for other purposes. | 1 | 2003-06-25 to 2003-06-25 |
 | `public-law-13-002` | Public Law No. 13-2: To further amend Public Law No. 11-59, as amended, by amending section 7 thereof to change the allottee for certain funds previously appropriated to Election District No. 1 in Chuuk State and to provide a procedure for distribution of funds appropriated to Election District No. 4 in Chuuk State, and for other purposes. | 1 | 2003-06-25 to 2003-06-25 |
+| `public-law-12-080` | Public Law No. 12-80: To further amend title 51 of the Code of the Federated States of Micronesia, as amended, by amending section 152 to add the regulation of recruitment of FSM citizens to the functions and duties of the Employment Service, and for other purposes. | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-058` | Public Law No. 12-58: To further amend Public Law No. 10-143, as amended, by amending sections 2 and 3 thereof to reallocate certain funds appropriated to Election District No. 1 in the State of Pohnpei, to reallocate certain funds appropriated for the State of Yap, and for other purposes. | 1 | 2002-12-20 to 2002-12-20 |
+| `public-law-12-049` | Public Law No. 12-49: To further amend title 9 of the Code of the Federated States of Micronesia, as amended, by enacting a new section 707 to provide for special polling places (CB 12-50 CD1)(SCR 12-95 J&GO 6/30/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-046` | Public Law No. 12-46: To further amend Public Law No. 11-59, as amended, by amending section 7 to change the allottee of certain funds, to extend the lapse date of certain funds (CB 12-114 CD2)(SCR 12-92 W&M 6/30/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-044` | Public Law No. 12-44: To further amend Public Law No. 8-100, as amended, by amending section 6 to change the allottee of certain appropriated funds (CB 12-120)(NO SCR - W&M WITHDRAWN 7/01/02) | 1 | 2002-07-24 to 2002-07-24 |
+| `public-law-12-043` | Public Law No. 12-43: To further amend Public Law No. 6-28, as amended, by amending sections 2 and 4 for the purpose of changing the use of certain funds and changing the allottee of certain funds previously appropriated therein (CB 12-99 CD1)(SCR 12-88 W&M 6/27/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-042` | Public Law No. 12-42: To further amend Public Law No. 9-027, as amended, by amending section 5 to change the allottee for certain funds appropriated for Chuuk State Election District No. 1 (CB 12-121)(NO SCR - W&M WITHDRAWN 7/01/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-040` | Public Law No. 12-40: To further amend Public Law No. 9-052, as amended, by amending section 6 to change the allottee of certain funds appropriated for Chuuk State Election District No. 1 (CB 12-122)(NO SCR - W&M WITHDRAWN 7/01/02) | 1 | 2002-07-19 to 2002-07-19 |
+| `public-law-12-038` | Public Law No. 12-38: To further amend title 55 of the Code of the Federated States of Micronesia, as amended, by amending section 503, to increase the salary of the Public Auditor (CB 12-49 CD1 )(SCR 12-98 W&M 7/01/02) | 1 | 2002-07-19 to 2002-07-19 |
+| `public-law-12-028` | Public Law No. 12-28: To further amend P.L. 9-27, as amended, by amending sec. 5 to change certain allottees for funds appropriated for Chuuk (CB 12-90 CD1)(SCR 12-70 W&M 1/29/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-026` | Public Law No. 12-26: To further amend P.L. 11-54, as amended, by amending sec. 19 to change the allottee for the Faichuk Pharmaceutical and Health Center (CB 12-84 CD1)(SCR 12-62 W&M 1/29/02) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-12-010` | Public Law No. 12-10: To appropriate $72,110 from General Fund of the FSM for FY ending Sept. 30, 2002, as a reappropriation of lapsed funds, for public projects and programs in Southern Namoneas, Chuuk (CB 12-18 CD1)(SCR 12-14 W&M 7/14/01) | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 266 commits:
+The build made 278 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 259 | first version of an act |
+| 271 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -299,7 +312,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 273 tags.
+- 285 tags.
 
 ## Dates
 
@@ -311,7 +324,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9254ed3e7250350a2f98d44dab683112d709fdd0c162f2d660aa56741e783915` (2412164 bytes).
+- Corpus: sha256 `b00bd135ec781ab4ff83a2f21df8514315981fbe455c25b59fb7eb707c582aba` (2469776 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -374,6 +387,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use exact approval dates in enrolled PDFs where stated, otherwise the source retrieval day credited to the publisher because the exact in-force day is unknown. Legislative-session ranges are never used as in-force dates. Full-page scans and source word disagreements remain held.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use exact approval dates in enrolled PDFs where stated, otherwise the source retrieval day credited to the publisher because the exact in-force day is unknown. Legislative-session ranges are never used as in-force dates. Full-page scans and source word disagreements remain held.
 
 ## What AI did and did not do
 
@@ -385,6 +401,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.

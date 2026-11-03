@@ -371,3 +371,22 @@ Official enrolled session laws, separate from consolidated Code titles. Each is 
 | `public-law-13-004/` | [PL 13-4](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-13-4.pdf) | 1 | 2003-06-25 |
 | `public-law-13-003/` | [PL 13-3](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-13-3.pdf) | 1 | 2003-06-25 |
 | `public-law-13-002/` | [PL 13-2](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-13-2.pdf) | 1 | 2003-06-25 |
+
+## Additional enrolled laws: Congress 12
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available. Dates use the source approval day where established; an unknown exact day uses the credited source retrieval day. Legislative session ranges are not used as in-force dates.
+
+| Folder | Law | Versions | Version date |
+| --- | --- | ---: | --- |
+| `public-law-12-080/` | [PL 12-80](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-80.pdf) | 1 | 2026-11-03 |
+| `public-law-12-058/` | [PL 12-58](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-58.pdf) | 1 | 2002-12-20 |
+| `public-law-12-049/` | [PL 12-49](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-49.pdf) | 1 | 2026-11-03 |
+| `public-law-12-046/` | [PL 12-46](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-46.pdf) | 1 | 2026-11-03 |
+| `public-law-12-044/` | [PL 12-44](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-44.pdf) | 1 | 2002-07-24 |
+| `public-law-12-043/` | [PL 12-43](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-43.pdf) | 1 | 2026-11-03 |
+| `public-law-12-042/` | [PL 12-42](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-42.pdf) | 1 | 2026-11-03 |
+| `public-law-12-040/` | [PL 12-40](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-40.pdf) | 1 | 2002-07-19 |
+| `public-law-12-038/` | [PL 12-38](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-38.pdf) | 1 | 2002-07-19 |
+| `public-law-12-028/` | [PL 12-28](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-28.pdf) | 1 | 2026-11-03 |
+| `public-law-12-026/` | [PL 12-26](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-26.pdf) | 1 | 2026-11-03 |
+| `public-law-12-010/` | [PL 12-10](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/PUBLIC-LAW-12-10.pdf) | 1 | 2026-11-03 |
