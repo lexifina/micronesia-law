@@ -287,3 +287,15 @@ Official enrolled session laws, separate from consolidated Code titles. Each is 
 | --- | --- | ---: | --- |
 | `public-law-16-009/` | [PL 16-09](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-09.pdf) | 1 | 2009-09-29 |
 | `public-law-16-001/` | [PL 16-01](https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-01.pdf) | 1 | 2009-05-27 |
+
+## Additional enrolled laws: Congress 15
+
+Official enrolled session laws, separate from consolidated Code titles. Each is a single-file act and the oldest version available. Dates use the source approval day where established; an unknown exact day uses the credited source retrieval day. Legislative session ranges are not used as in-force dates.
+
+| Folder | Law | Versions | Version date |
+| --- | --- | ---: | --- |
+| `public-law-15-076/` | [PL 15-76](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-76.pdf) | 1 | 2009-04-21 |
+| `public-law-15-061/` | [PL 15-61](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-61.pdf) | 1 | 2008-11-10 |
+| `public-law-15-041/` | [PL 15-41](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-41.pdf) | 1 | 2008-06-20 |
+| `public-law-15-009/` | [PL 15-09](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-09.pdf) | 1 | 2007-09-12 |
+| `public-law-15-002/` | [PL 15-02](https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-02.pdf) | 1 | 2007-06-08 |

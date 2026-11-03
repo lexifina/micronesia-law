@@ -2786,6 +2786,76 @@
      "sha256": "263c8b832b05b2af721771b89806280520c0efc7876b8e34b76ec5280937f488"
     }
    ]
+  },
+  {
+   "slug": "public-law-15-076",
+   "short": "PL 15-76",
+   "title": "Public Law No. 15-76: To repeal in its entirety Public Law No. 15-66, the recently-enacted Public Projects Law, and for other purposes.",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-76.pdf",
+   "versions": [
+    {
+     "from": "2009-04-21",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-76.pdf",
+     "sha256": "aefd407362923944b1417b4281b68b219b15d0391ebfd5ca070b49b79c0f2941"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-15-061",
+   "short": "PL 15-61",
+   "title": "Public Law No. 15-61: To propose the repeal of article III, section 3 of the Constitution of the Federated States of Micronesia, for the purpose of enabling citizens of the Federated States of Micronesia to retain or obtain citizenship of another state without being required to relinquish citizenship of the Federated States of Micronesia, and for other purposes.",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-61.pdf",
+   "versions": [
+    {
+     "from": "2008-11-10",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-61.pdf",
+     "sha256": "9b66d563898d0bb6d6ad5e2768a879b7b7dbdae8b5e2ae6574c70983991cbcb4"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-15-041",
+   "short": "PL 15-41",
+   "title": "Public Law No. 15-41: To further amend title 52 of the Code of the Federated States of Micronesia, as amended, by repealing section 205 thereof and enacting a one-time increase in base salaries for certain public service employees, and for other purposes.",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-41.pdf",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-41.pdf",
+     "sha256": "b438200049802438c9c2b6961e80a5b2f43586ce21dd7ed96a50dbd3b5a8d309"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-15-009",
+   "short": "PL 15-09",
+   "title": "Public Law No. 15-09: To further amend title 2 of the Code of the Federated States of Micronesia, as amended, by amending section 203, as amended by Public Laws Nos. 5-21, 6-62, 7-97 and 10-55, by further amending section 204, as amended by Public Laws Nos. 5-21, 10-55 and 13-75, and by repealing Public Law No. 13-75 thereof for the purpose of improving the efficiency of the executive branch, and for other purposes.",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-09.pdf",
+   "versions": [
+    {
+     "from": "2007-09-12",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-09.pdf",
+     "sha256": "961bb0f9d9372f76161ece4c2213c404ce31155fd807d75562d8c4257c6523c2"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-15-002",
+   "short": "PL 15-02",
+   "title": "Public Law No. 15-02: To further amend Title 9 of the Code of the Federated States of Micronesia, as enacted by Public Law No. 14-76 and amended by Public Law No. 14-98, by amending section 605 to reduce the number of days that the special polling places located outside of the Federated States of Micronesia remain open from seven days to election day only, to increase the number of hours those special polling places remain open, and for other purposes.",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-02.pdf",
+   "versions": [
+    {
+     "from": "2007-06-08",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/08/Public-Law-15-02.pdf",
+     "sha256": "0b7b9d6b895ef587a85ae377cca0a4914dd532ff0ad58e3bea8fd6d2f0fe688a"
+    }
+   ]
   }
  ]
 }

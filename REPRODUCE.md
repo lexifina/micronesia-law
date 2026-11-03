@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 18 public laws | <https://www.cfsm.gov.fm/18th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 17 public laws | <https://www.cfsm.gov.fm/17th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 16 public laws | <https://www.cfsm.gov.fm/16th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 15 public laws | <https://www.cfsm.gov.fm/15th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -220,12 +221,17 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-17-002` | Public Law No. 17-02: To amend section 207 of title 2 of the Code of the Federated States of Micronesia, as amended, for the purpose of requiring congressional action on Presidential nominations within two consecutive sessions of Congress or 30 days of nomination, whichever occurs later, or the nominee is deemed rejected, and for other purposes. [CB 17-08 |CD1] | 1 | 2011-06-29 to 2011-06-29 |
 | `public-law-16-009` | Public Law No. 16-09: To amend section 11 of Public Law No. 15-55, as amended, to allow one-time reprogramming from the personnel line item of the Department of Foreign Affairs to meet the rent and other costs of the Tokyo Mission Office associated with the fluctuating yen exchange rate, and for other purposes  [CB 16-37...CD1] | 1 | 2009-09-29 to 2009-09-29 |
 | `public-law-16-001` | Public Law No. 16-01: To further amend Section 3 of Public Law No. 15-55, as amended, to modify the use of funds previously appropriated therein for the operation of the Legislative Branch of the National Government of the Federated States of Micronesia for the fiscal year 2009, and for other purposes.   [CB 16-12] | 1 | 2009-05-27 to 2009-05-27 |
+| `public-law-15-076` | Public Law No. 15-76: To repeal in its entirety Public Law No. 15-66, the recently-enacted Public Projects Law, and for other purposes. | 1 | 2009-04-21 to 2009-04-21 |
+| `public-law-15-061` | Public Law No. 15-61: To propose the repeal of article III, section 3 of the Constitution of the Federated States of Micronesia, for the purpose of enabling citizens of the Federated States of Micronesia to retain or obtain citizenship of another state without being required to relinquish citizenship of the Federated States of Micronesia, and for other purposes. | 1 | 2008-11-10 to 2008-11-10 |
+| `public-law-15-041` | Public Law No. 15-41: To further amend title 52 of the Code of the Federated States of Micronesia, as amended, by repealing section 205 thereof and enacting a one-time increase in base salaries for certain public service employees, and for other purposes. | 1 | 2008-06-20 to 2008-06-20 |
+| `public-law-15-009` | Public Law No. 15-09: To further amend title 2 of the Code of the Federated States of Micronesia, as amended, by amending section 203, as amended by Public Laws Nos. 5-21, 6-62, 7-97 and 10-55, by further amending section 204, as amended by Public Laws Nos. 5-21, 10-55 and 13-75, and by repealing Public Law No. 13-75 thereof for the purpose of improving the efficiency of the executive branch, and for other purposes. | 1 | 2007-09-12 to 2007-09-12 |
+| `public-law-15-002` | Public Law No. 15-02: To further amend Title 9 of the Code of the Federated States of Micronesia, as enacted by Public Law No. 14-76 and amended by Public Law No. 14-98, by amending section 605 to reduce the number of days that the special polling places located outside of the Federated States of Micronesia remain open from seven days to election day only, to increase the number of hours those special polling places remain open, and for other purposes. | 1 | 2007-06-08 to 2007-06-08 |
 
-The build made 203 commits:
+The build made 208 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 196 | first version of an act |
+| 201 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -233,7 +239,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 210 tags.
+- 215 tags.
 
 ## Dates
 
@@ -245,7 +251,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `20106646e2b3dff4894aedbb640855a68df3e11c12e659c8f2a3495447e2b4a8` (2088499 bytes).
+- Corpus: sha256 `5ad25a94b2f722d2643b2d56d9228ab5f3743ee29e8c002992b52e8e7407ab8f` (2110484 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -299,6 +305,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
 
 ## What AI did and did not do
 
@@ -310,6 +319,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
