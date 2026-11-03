@@ -21,6 +21,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 14 public laws | <https://www.cfsm.gov.fm/14th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 13 public laws | <https://www.cfsm.gov.fm/13th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 12 public laws | <https://www.cfsm.gov.fm/12th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 10 public laws | <https://www.cfsm.gov.fm/10th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -299,12 +300,33 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-12-028` | Public Law No. 12-28: To further amend P.L. 9-27, as amended, by amending sec. 5 to change certain allottees for funds appropriated for Chuuk (CB 12-90 CD1)(SCR 12-70 W&M 1/29/02) | 1 | 2026-11-03 to 2026-11-03 |
 | `public-law-12-026` | Public Law No. 12-26: To further amend P.L. 11-54, as amended, by amending sec. 19 to change the allottee for the Faichuk Pharmaceutical and Health Center (CB 12-84 CD1)(SCR 12-62 W&M 1/29/02) | 1 | 2026-11-03 to 2026-11-03 |
 | `public-law-12-010` | Public Law No. 12-10: To appropriate $72,110 from General Fund of the FSM for FY ending Sept. 30, 2002, as a reappropriation of lapsed funds, for public projects and programs in Southern Namoneas, Chuuk (CB 12-18 CD1)(SCR 12-14 W&M 7/14/01) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-152` | Public Law No. 10-152: To further amend title 55 of the Code of the FSM, as amended, by adding a new subchap. IX to chap. 6 for the purpose of estab. a new Aquaculture Revolving Fund and renumbering existing subchap. IX as subchap. X (CB 10-258 CD2)(SCR 10-239 and 10-289) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-151` | Public Law No. 10-151: To further amend title 52 of the Code of the FSM, aa, by further amending sec. 509, aab P.L. 10-62 and 10-118, to provide that entitlement to overtime as currently allowed by that section shall be retroactive with respect to budget and accounting personnel (CB 10-359)(SCR 10-295) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-146` | Public Law No. 10-146: To appropriate $2,000,000 from the General Fund of the FSM for the FY ending Sept. 30, 1999, for funding construction and repair of the Chuuk State Internat’l Airport (CB 10-252 CD1)(SCR 10-207 and 10-283) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-142` | Public Law No. 10-142: To further amend title 6 of the FSM Code, aab P.L. 5-123, 9-62 and 10-25, by adding a new sec. 707, for prohibiting garnishment of assets owed by the Government to a State (CB 10-319 CD1)(SCR 10-286) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-141` | Public Law No. 10-141: To further amend P.L. 6-28, aa, by further amending sec. 1,aab P.L. 6-66 and 7-103, and by further amending sec. 4,aab P.L. 6-66, 8-22, 9-6, 9-111 and 10-134, for the purpose of permitting appropriated funds for the use of the Hall and Mortlock Islands to be used for social and economic purposes within the Hall and Mortlock Islands, and to change the allottee (CB 10-374 CD1)(SCR 10-293) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-140` | Public Law No. 10-140: To further amend title 50 of the FSM Code, by amending sec. 205, to change the period of validity of regular passports from five years to ten years (CB 10-294 CD2)(SCR 10-281) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-123` | Public Law No. 10-123: To further amend P.L. 10-79 sec. 1, aab P.L. 10-115 by transferring the balance of $98,800 from the vehicle line to the other expenses line clarifying the allowable uses of the other expenses line (CB 10-322 CD2)(SCR 10-280) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-121` | Public Law No. 10-121: To further amend title 55 of the FSM Code by adding a new sec. 804, to clarify the provisions designating development authorities as allottees in Chuuk State (CB 10-311 CD2)(SCR 10-245) | 1 | 2026-11-03 to 2026-11-03 |
+| `public-law-10-110` | Public Law No. 10-110: To further amend P.L. 9-79 by amending sec. 3 to modify the use of funds appropriated therein for certain airports in the State of Chuuk and by further amending sec. 4 to extend the lapse date to Sept. 30, 1999 (CB 10-228)(SCR 10-174) | 1 | 1998-07-01 to 1998-07-01 |
+| `public-law-10-104` | Public Law No. 10-104: To further amend title 36 of the FSM Code by adding a new sec. 105 to require that any corporation must permit shareholders to vote by proxy by renumbering secs. 105 through 107 (CB 10-172 CD2)(SCR 10-159) | 1 | 1998-07-21 to 1998-07-21 |
+| `public-law-10-099` | Public Law No. 10-99: To further amend P.L. 8-61 by further amending sec. 3 to exempt the lapse date of certain funds therein from the application of P.L. 9-40 (CB 10-280 CD1)(SCR 10-229) | 1 | 1998-07-10 to 1998-07-10 |
+| `public-law-10-098` | Public Law No. 10-98: To further amend title 52 of the FSM Code by amending sec. 136 to add participation in a State Gov’t Early Retirement Program as a disqualification or bar to employment in the Nat’l Public Sevice System (CB 10-240 CD3)(SCR 10-182) | 1 | 1998-07-10 to 1998-07-10 |
+| `public-law-10-097` | Public Law No. 10-97: To appropriate $270,000 from the GF for FY '98 to assistNat’l Fisheries Corporation to develop and operate a regularly scheduled freight service in the FSM (CB 10-168 CD3)(SCR 10-186 and 10-202) | 1 | 1998-07-09 to 1998-07-09 |
+| `public-law-10-095` | Public Law No. 10-95: To further amend title 55 of the FSM Code by further amending sec. 345 to authorize a further exceptionalredesignation of certain Compact inflation adjustment funds from capital to current during the fiscal year (CB 10-260 CD3)(withdrawn 6/10/98) | 1 | 1998-07-09 to 1998-07-09 |
+| `public-law-10-092` | Public Law No. 10-92: To further amend title 20 of the FSM Code by adding a new sec. 418 of chap. 4 requiring air carriers to file flight schedules with the Secretary of Transportation, Communication and Infrastructure and to give 30 days notice of changes in flight schedules (CB 10-274 CD1)(SCR 10-227) | 1 | 1998-06-06 to 1998-06-06 |
+| `public-law-10-052` | Public Law No. 10-52: To further amend title 34 of the FSM Code, as amendedby P.L. 7-135, by further amending secs. 202 and 203, as amended by P.L. 7-135, by repealing and reenacting sec. 204 thereof, by repealing sec. 205 thereof, and renumbering subsequent sections thereof for the purpose of simplifying and reducing usury restrictions (CB 10-66 CD2)(SCR) | 1 | 1997-11-20 to 1997-11-20 |
+| `public-law-10-045` | Public Law No. 10-45: To further amend P.L. 8-19, as amended by P.L. 8-72, 8-80, 8-107, 9-16, and 9-44, by further amending sec. 2, as amended by P.L. 8-72 and 8-80, to modify the use of funds appropriated therein under subsec. (1) and to exempt P.L. 8-19 from the lapse provisions of P.L. 9-40 (CB 10-91 CD2)(SCR 10-59) | 1 | 1997-09-30 to 1997-09-30 |
+| `public-law-10-036` | Public Law No. 10-36: To further amend certain public laws appropriating funds for projects in Yap State; P.L. 4-23, sec. 4; P.L. 5-59, sec. 3; P.L. 6-67, sec. 3; for extending lapse dates on certain funds appropriated therein (CB 10-94 CD1)(SCR 10-61) | 1 | 1997-09-17 to 1997-09-17 |
+| `public-law-10-023` | Public Law No. 10-23: To further amend P.L. 9-96, as amended by P.L. 9-105, 9-122, and 9-142, by further amending sec. 13, as amended by P.L. 9-142, to rescind the amount appropriated therein for staff upgrading and to modify use of certain funds appropriated for Yap (CB 10-63 CD2)(SCR 10-28) | 1 | 1997-07-21 to 1997-07-21 |
+| `public-law-10-019` | Public Law No. 10-19: To further amend P.L. 9-095, as amended by P.L. 9-103, 9-140, and 9-156, by further amending sec. 2, as amended by P.L. 9-103, to permit use of certain funds for administrative costs (CB 10-34)(SCR 10-5) | 1 | 1997-07-10 to 1997-07-10 |
+| `public-law-10-017` | Public Law No. 10-17: To amend P.L. 9-163, regarding hospital needs, by amending sec. 1, to modify the uses and the allottee for funds appropriated for Chuuk (CB 10-44)(SCR 10-43) | 1 | 1997-07-09 to 1997-07-09 |
 
-The build made 278 commits:
+The build made 299 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 271 | first version of an act |
+| 292 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -312,7 +334,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 285 tags.
+- 306 tags.
 
 ## Dates
 
@@ -324,7 +346,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b00bd135ec781ab4ff83a2f21df8514315981fbe455c25b59fb7eb707c582aba` (2469776 bytes).
+- Corpus: sha256 `30ff1eee58c6266e87a07c625adfd13df57699aa75b9ff0b8a50ac3f698453f7` (2555609 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -390,6 +412,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use exact approval dates in enrolled PDFs where stated, otherwise the source retrieval day credited to the publisher because the exact in-force day is unknown. Legislative-session ranges are never used as in-force dates. Full-page scans and source word disagreements remain held.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use exact approval dates in enrolled PDFs where stated, otherwise the source retrieval day credited to the publisher because the exact in-force day is unknown. Legislative-session ranges are never used as in-force dates. Full-page scans and source word disagreements remain held.
 
 ## What AI did and did not do
 
@@ -401,6 +426,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
