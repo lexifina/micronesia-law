@@ -16,6 +16,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | Congress of the Federated States of Micronesia, Congress 19 public laws | <https://www.cfsm.gov.fm/19th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 18 public laws | <https://www.cfsm.gov.fm/18th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 | Congress of the Federated States of Micronesia, Congress 17 public laws | <https://www.cfsm.gov.fm/17th-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
+| Congress of the Federated States of Micronesia, Congress 16 public laws | <https://www.cfsm.gov.fm/16th-cfsm-public-laws/> | 2026-11-03 | Official legal texts; no licence stated for legislation. Site footer: Copyright © 2026 CFSM. All rights reserved. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -217,12 +218,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `public-law-17-046` | Public Law No. 17-46: To further amend section 2 of Public Law No. 16-23, as amended by Public Law No. 16-29, for the purpose of changing the allottee of certain funds previously appropriated therein for public projects and social programs in the State of Chuuk, to set the lapse date, and for other purposes. [CB 17-115| CD2] | 1 | 2012-04-25 to 2012-04-25 |
 | `public-law-17-009` | Public Law No. 17-09: To appropriate the sum of $694,000 from the General Fund of the Federated States of Micronesia for the purpose of funding the operations of the Project Management Unit (PMU) for the fiscal year ending September 30, 2011, and for other purposes. [CB 17-31|CD1] | 1 | 2011-08-10 to 2011-08-10 |
 | `public-law-17-002` | Public Law No. 17-02: To amend section 207 of title 2 of the Code of the Federated States of Micronesia, as amended, for the purpose of requiring congressional action on Presidential nominations within two consecutive sessions of Congress or 30 days of nomination, whichever occurs later, or the nominee is deemed rejected, and for other purposes. [CB 17-08 |CD1] | 1 | 2011-06-29 to 2011-06-29 |
+| `public-law-16-009` | Public Law No. 16-09: To amend section 11 of Public Law No. 15-55, as amended, to allow one-time reprogramming from the personnel line item of the Department of Foreign Affairs to meet the rent and other costs of the Tokyo Mission Office associated with the fluctuating yen exchange rate, and for other purposes  [CB 16-37...CD1] | 1 | 2009-09-29 to 2009-09-29 |
+| `public-law-16-001` | Public Law No. 16-01: To further amend Section 3 of Public Law No. 15-55, as amended, to modify the use of funds previously appropriated therein for the operation of the Legislative Branch of the National Government of the Federated States of Micronesia for the fiscal year 2009, and for other purposes.   [CB 16-12] | 1 | 2009-05-27 to 2009-05-27 |
 
-The build made 201 commits:
+The build made 203 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 194 | first version of an act |
+| 196 | first version of an act |
 | 7 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -230,7 +233,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 16 laws in the record.
-- 208 tags.
+- 210 tags.
 
 ## Dates
 
@@ -242,7 +245,7 @@ When a law gives no date of its own, the default rule applies: Every public law 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ba7804213e8fe25d7abc7092ec8e45f13a4fe25050687afa1e92f56051c6eb2f` (2079028 bytes).
+- Corpus: sha256 `20106646e2b3dff4894aedbb640855a68df3e11c12e659c8f2a3495447e2b4a8` (2088499 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -293,6 +296,9 @@ No second build of this corpus has been compared yet.
 - Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
 - Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
 - Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
+- Each included law is represented as a single-file enrolled session law, with first_law null and oldest version available. No provision text was composed or corrected.
+- Enrolled laws explicitly identified as amended in the official listing are held, rather than representing their earlier wording as current. Conditional effects and unestablished commencement dates are held.
+- Dates use the official Congress approval date only where the source law expressly becomes law upon approval or upon becoming law without approval. Complete source word order, including printed line numbers, is checked using PyMuPDF and a separate PDF extraction engine after whitespace normalization.
 
 ## What AI did and did not do
 
@@ -304,6 +310,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote Lexifina's code and chose the sources and acts; it did not write or alter any legal text. The code is deterministic and runs no model; every line of law comes from a source file.
+- GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.
 - GPT-6 wrote deterministic processing and verification code and assessed source metadata. No model generated or corrected legal text.

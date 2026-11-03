@@ -2758,6 +2758,34 @@
      "sha256": "1d9171d19c220605200f009af455ef83c1bbadf53d0247389dc70aa54c02faed"
     }
    ]
+  },
+  {
+   "slug": "public-law-16-009",
+   "short": "PL 16-09",
+   "title": "Public Law No. 16-09: To amend section 11 of Public Law No. 15-55, as amended, to allow one-time reprogramming from the personnel line item of the Department of Foreign Affairs to meet the rent and other costs of the Tokyo Mission Office associated with the fluctuating yen exchange rate, and for other purposes  [CB 16-37...CD1]",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-09.pdf",
+   "versions": [
+    {
+     "from": "2009-09-29",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-09.pdf",
+     "sha256": "cf2ac4e786f16fcb0e466b194d577ba1f19b8b2a7912e12c6b24fceecf466894"
+    }
+   ]
+  },
+  {
+   "slug": "public-law-16-001",
+   "short": "PL 16-01",
+   "title": "Public Law No. 16-01: To further amend Section 3 of Public Law No. 15-55, as amended, to modify the use of funds previously appropriated therein for the operation of the Legislative Branch of the National Government of the Federated States of Micronesia for the fiscal year 2009, and for other purposes.   [CB 16-12]",
+   "url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-01.pdf",
+   "versions": [
+    {
+     "from": "2009-05-27",
+     "units": 1,
+     "source_url": "https://www.cfsm.gov.fm/wp-content/uploads/2024/07/Public-Law-16-01.pdf",
+     "sha256": "263c8b832b05b2af721771b89806280520c0efc7876b8e34b76ec5280937f488"
+    }
+   ]
   }
  ]
 }
