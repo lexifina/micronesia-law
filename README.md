@@ -1,5 +1,7 @@
 # Micronesia: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Micronesia's national law, which global-law reads at `micronesia/national/acts/`.
+
 Legal texts of the Federated States of Micronesia, in English: one file per provision or single-file act, with versions credited to the law or publisher responsible for the wording.
 
 | Folder | Text | Versions | Coverage |
