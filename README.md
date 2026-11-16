@@ -60,6 +60,7 @@ Each change to a Code title is credited to the public law that made it (`PL 23-1
 - Each enrolled law's words, in order, are compared with a second reading of the official PDF by a separate extraction engine, after whitespace is normalised.
 - [`REPRODUCE.md`](REPRODUCE.md) gives the corpus and builder hashes; its Checks section reads "Not yet run for this build".
 - History is append-only: `tools/append.py` adds new acts and versions on top, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -81,6 +82,10 @@ Each change to a Code title is credited to the public law that made it (`PL 23-1
 See [`LICENSE`](LICENSE). Neither source states a licence; the texts are reproduced with attribution, and their copyright status is not confirmed. Lexifina's own contributions (the history, commit messages, tables and tools) are CC0 1.0.
 
 No AI model wrote or changed legal text; the scripts were written by AI models (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
 
 ## More
 
