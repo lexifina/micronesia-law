@@ -1,5 +1,9 @@
 # Micronesia: law history in git
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Micronesian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
 
 The law of the Federated States of Micronesia as a git history: one file per section of the Code (and one per public law), one commit per version on the day it took effect, and the public law that made each change to the Code as the commit's author. `git blame` names the law behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
 
