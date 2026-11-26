@@ -22,7 +22,7 @@ The text is in English, as the Code's 2014 Edition and the Congress's enrolled P
 | Every change to section 203 of title 7 (Citizenship) | `git log -p --word-diff -- code/title-07/chapter-02/section-203.md` |
 | Which law wrote each line of section 203? | `git blame code/title-07/chapter-02/section-203.md` |
 | Every version of title 7, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code/title-07 ':!*/README.md'` |
-| Section 203 as in force on 1 January 2020 | `git show $(git rev-list -1 --before=2020-01-01 main -- code/title-07/chapter-02/section-203.md):code/title-07/chapter-02/section-203.md` |
+| Every version of section 203, with the day each took effect | `git log --follow --format="%h %(trailers:key=In-force,valueonly,separator=)" -- code/title-07/chapter-02/section-203.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
