@@ -9,9 +9,9 @@ The law of the Federated States of Micronesia as a git history: one file per sec
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Micronesia's national law, which global-law reads at `micronesia/national/acts/`.
 
-**What is in it now:** two titles of the Code of the Federated States of Micronesia, title 7 (Citizenship, 3 versions from 2012 to 2024) and title 11 (Crimes, 6 versions from 2012 to 2020); and 321 public laws of the 10th to the 24th Congress (1997 to 2026), each as enrolled, in one version. [`REPRODUCE.md`](REPRODUCE.md) lists every act with its versions; [`data/laws.csv`](data/laws.csv) lists the public laws in the two titles' histories, with the day each change took effect.
+**What is in it now:** the Constitution (as amended in 1991); the Code of the Federated States of Micronesia, title by title as the 2014 Edition prints it (being added now), with titles 7 and 11 carried forward by their later amendments; 321 public laws of 1997 to 2026 as enrolled; and the States' constitutions and codes as the FSM Legal Information System publishes them, under `states/`, as they are added. Case law is kept separately.
 
-Each Code title is a folder with one file per section and per chapter heading (`title-07-citizenship/sec-0203.md` is section 203 of title 7); each public law is a folder holding one file, `whole-act.md` (`public-law-23-140/whole-act.md` is Public Law No. 23-140, which rewrote section 203 in 2024). Each folder's `README.md` lists its provisions and their changes.
+Each Code title is a folder with one file per section and per chapter heading (`code/title-07/chapter-02/section-203.md` is section 203 of title 7); each public law is a folder under `public-laws/congress-NN/` holding one file, `whole-act.md` (`public-laws/congress-23/public-law-23-140/whole-act.md` is Public Law No. 23-140, which rewrote section 203 in 2024). Each folder's `README.md` lists its provisions and their changes.
 
 The text is in English, as the Code's 2014 Edition and the Congress's enrolled PDFs print it: the Edition's annotations are left out, and each enrolled law keeps its printed lines, with their line numbers, running headers and signature blocks.
 
@@ -19,10 +19,10 @@ The text is in English, as the Code's 2014 Edition and the Congress's enrolled P
 
 | Question | Command |
 | --- | --- |
-| Every change to section 203 of title 7 (Citizenship) | `git log -p --word-diff -- title-07-citizenship/sec-0203.md` |
-| Which law wrote each line of section 203? | `git blame title-07-citizenship/sec-0203.md` |
-| Every version of title 7, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- title-07-citizenship ':!*/README.md'` |
-| Section 203 as in force on 1 January 2020 | `python tools/on.py 2020-01-01 title-07-citizenship 203` |
+| Every change to section 203 of title 7 (Citizenship) | `git log -p --word-diff -- code/title-07/chapter-02/section-203.md` |
+| Which law wrote each line of section 203? | `git blame code/title-07/chapter-02/section-203.md` |
+| Every version of title 7, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- code/title-07 ':!*/README.md'` |
+| Section 203 as in force on 1 January 2020 | `git show $(git rev-list -1 --before=2020-01-01 main -- code/title-07/chapter-02/section-203.md):code/title-07/chapter-02/section-203.md` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -38,7 +38,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add micronesia/national/acts
-python3 tools/law.py show 2026-01-01 micronesia/national/acts/title-07-citizenship/sec-0203.md
+python3 tools/law.py show 2026-01-01 micronesia/national/acts/code/title-07/chapter-02/section-203.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
@@ -64,8 +64,8 @@ Each change to a Code title is credited to the public law that made it (`PL 23-1
 
 ## What it does not show
 
-- **The Constitution.** The text available lacks the amendments put to the July 2023 referendum, so it is held on the `preview` branch, not on `main`.
-- **Most of the law.** Only titles 7 and 11 of the Code; no other title, no state law, no regulations and no case law.
+- **The Constitution's 2023 amendments.** The July 2023 referendum amendments (dual citizenship among them) are not applied: their official text is not published by the Legal Information System, so `constitution/` is the 1991 text.
+- **Amendments after the 2014 Edition**, except in titles 7 and 11: the other titles are the Edition's text; no regulations.
 - **Public laws applied to the Code.** The 321 public laws are as enacted; what they change in other titles or in earlier public laws is not consolidated.
 - **Every public law.** Laws the Congress's listing marks as later amended, laws with an uncertain or conflicting day or a conditional effect, and laws whose two PDF readings differ are left out; none of the 11th Congress is here.
 - **The official text of the Code.** The 2014 Edition is an unofficial consolidation; its disclaimer says the copies "are not to be construed as an official publication".
