@@ -9,11 +9,11 @@ The law of the Federated States of Micronesia as a git history: one file per sec
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Micronesia's national law, which global-law reads at `micronesia/national/acts/`.
 
-**What is in it now:** the Constitution (as amended in 1991); the Code of the Federated States of Micronesia, title by title as the 2014 Edition prints it (being added now), with titles 7 and 11 carried forward by their later amendments; 321 public laws of 1997 to 2026 as enrolled; and the States' constitutions and codes as the FSM Legal Information System publishes them, under `states/`, as they are added. Case law is kept separately.
+**What is in it now:** the Constitution (as amended in 1991); the Code of the Federated States of Micronesia, title by title as the 2014 Edition prints it (being added now), with titles 7 and 11 carried forward by their later amendments; 1,754 public laws of 1997 to 2026 as enrolled; and the States' constitutions and codes as the FSM Legal Information System publishes them, under `states/` (Pohnpei's Code as its 2012 Edition prints it), as they are added. Case law is kept separately.
 
 Each Code title is a folder with one file per section and per chapter heading (`code/title-07/chapter-02/section-203.md` is section 203 of title 7); each public law is a folder under `public-laws/congress-NN/` holding one file, `whole-act.md` (`public-laws/congress-23/public-law-23-140/whole-act.md` is Public Law No. 23-140, which rewrote section 203 in 2024). Each folder's `README.md` lists its provisions and their changes.
 
-The text is in English, as the Code's 2014 Edition and the Congress's enrolled PDFs print it: the Edition's annotations are left out, and each enrolled law keeps its printed lines, with their line numbers, running headers and signature blocks.
+The text is in English, as the Code's 2014 Edition and the Congress's enrolled PDFs print it: the Edition's annotations are left out, and each enrolled law keeps its printed lines and signature block; the laws added from 27 November 2026 leave out the printed line numbers and repeated page headers.
 
 ## Questions as git commands
 
@@ -47,7 +47,8 @@ Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local M
 
 Each commit is dated at noon, Pacific/Pohnpei, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-- for a public law, the day it became law on the President's approval, or without it (Constitution art. IX, sec. 22), as the enrolled PDF or the Congress's listing gives it; two are dated by the day Congress overrode a veto;
+- for a public law, the day it became law on the President's approval, or without it (Constitution art. IX, sec. 22), as the enrolled PDF or the Congress's listing gives it; a law passed over a veto is dated by the day Congress overrode it;
+- the Pohnpei Code's 2012 Edition codifies the laws through 8 January 2012, so each of its titles is dated that day;
 - the 2014 Edition states no cut-off date, so each title's first version is dated by the latest public law its source notes name: 16 March 2012 (PL 17-38) for title 11 and 6 June 2012 (PL 17-54) for title 7;
 - 23 public laws of the 10th, 12th, 13th and 14th Congress, whose day the sources do not establish, are dated 3 November 2026, the day they were retrieved, and their commit messages say so; a session's date range is never used;
 - the public laws were added in batches, so `main` is not in date order: ask for a date with `tools/on.py`, which reads `In-force:`, not with `git log --before`.
@@ -66,8 +67,8 @@ Each change to a Code title is credited to the public law that made it (`PL 23-1
 
 - **The Constitution's 2023 amendments.** The July 2023 referendum amendments (dual citizenship among them) are not applied: their official text is not published by the Legal Information System, so `constitution/` is the 1991 text.
 - **Amendments after the 2014 Edition**, except in titles 7 and 11: the other titles are the Edition's text; no regulations.
-- **Public laws applied to the Code.** The 321 public laws are as enacted; what they change in other titles or in earlier public laws is not consolidated.
-- **Every public law.** Laws the Congress's listing marks as later amended, laws with an uncertain or conflicting day or a conditional effect, and laws whose two PDF readings differ are left out; none of the 11th Congress is here.
+- **Public laws applied to the Code.** The 1,754 public laws are as enacted; what they change in other titles or in earlier public laws is not consolidated.
+- **Every public law.** Laws with an uncertain or conflicting day or a conditional effect, laws with a line-item veto, laws whose PDF has no text layer or does not print the law's number, and laws the Congress does not list (before the 10th Congress) are left out.
 - **The official text of the Code.** The 2014 Edition is an unofficial consolidation; its disclaimer says the copies "are not to be construed as an official publication".
 
 ## Sources
@@ -75,6 +76,7 @@ Each change to a Code title is credited to the public law that made it (`PL 23-1
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
 | [FSM Legal Information System](https://www.fsmlaw.org/fsm/code/indexcode2014.html) (under the FSM Supreme Court) | Unofficial consolidation: Code of the FSM, 2014 Edition (Annotated) | no, one edition | Titles 7 and 11, read from Internet Archive captures; statutory text only |
+| [Pohnpei Legislature, Legislative Counsel Division](https://www.fsmlaw.org/pohnpei/code/indexcode.htm), via the FSM Legal Information System | Code of the State of Pohnpei, 2012 Edition (advance copy), PDF text layer | no, one edition | 50 titles, statutory text with Source notes |
 | [Congress of the Federated States of Micronesia](https://www.cfsm.gov.fm/fsm-congress-public-laws/) | Official enrolled public laws (PDF) and their listings | no, each law as enacted | The public laws, the amendments applied to titles 7 and 11, and the day each became law |
 
 ## Licence

@@ -185,6 +185,8 @@ When a law gives no date of its own, the default rule applies: Every public law 
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
+From 27 November 2026 a runner (`scripts/micronesia-law/runner` in the Lexifina workspace: `fm_index.py`, `fm_fetch.py`, `fm_build.py`, `pn_build.py`) adds, on top of `main` and never rewriting it, every public law the Congress lists for the 10th to 24th Congress that is not yet here, one commit each: the enrolled PDF's text layer (PyMuPDF) with printed line numbers and repeated page headers removed, dated by the approval day printed after the effective-date clause, or for the 15th Congress on by the listing's Effective Date column where none is printed; a day that does not fit the session year, a conditional clause, a line-item veto or a missing text layer holds the law (`held.json`). The Pohnpei Code, 2012 Edition, is added one commit per title, one file per section, dated 8 January 2012 (the day through which it codifies the laws). fsmlaw.org is read at one request per 31 s (its robots.txt Crawl-delay is 30).
+
 ## Checks
 
 Not yet run for this build.
